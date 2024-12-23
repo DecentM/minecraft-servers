@@ -1,4 +1,5 @@
 # Thut's elevators
+https://mediafilez.forgecdn.net/files/2713/584/thutcore-1.12.2-5.21.0.jar
 https://mediafilez.forgecdn.net/files/2712/805/thuttech-1.12.2-6.1.6.jar
 
 # Actually additions
