@@ -17,4 +17,6 @@ ENV FORGE_VERSION=14.23.5.2860
 
 WORKDIR /data
 
+COPY files/ .
+
 VOLUME [ "/data/world" ]

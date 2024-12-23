@@ -1,0 +1,105 @@
+# Thut's elevators
+https://mediafilez.forgecdn.net/files/2713/584/thutcore-1.12.2-5.21.0.jar
+https://mediafilez.forgecdn.net/files/2712/805/thuttech-1.12.2-6.1.6.jar
+
+# Actually additions
+https://mediafilez.forgecdn.net/files/3117/927/ActuallyAdditions-1.12.2-r152.jar
+
+# Refined storage
+https://mediafilez.forgecdn.net/files/2940/914/refinedstorage-1.6.16.jar
+
+# ArchitectureCraft (TridentMC)
+https://mediafilez.forgecdn.net/files/4344/128/architecturecraft-1.12-3.108.jar
+
+# Astral Sorcery
+https://mediafilez.forgecdn.net/files/3044/416/astralsorcery-1.12.2-1.10.27.jar
+
+# Rustic
+https://mediafilez.forgecdn.net/files/3107/974/rustic-1.1.7.jar
+
+# Draconic Evolution
+https://mediafilez.forgecdn.net/files/3408/276/BrandonsCore-1.12.2-2.4.20.162-universal.jar
+https://mediafilez.forgecdn.net/files/3431/261/Draconic-Evolution-1.12.2-2.3.28.354-universal.jar
+
+# Snad
+https://mediafilez.forgecdn.net/files/2480/458/Snad-1.12.1-1.7.09.16a.jar
+
+# RFTools
+https://mediafilez.forgecdn.net/files/2861/573/rftools-1.12-7.73.jar
+
+# Deep Resonance
+https://mediafilez.forgecdn.net/files/2745/846/mcjtylib-1.12-3.5.4.jar
+https://mediafilez.forgecdn.net/files/2853/959/ElecCore-1.12.2-1.9.453.jar
+https://mediafilez.forgecdn.net/files/2704/397/deepresonance-1.12-1.8.0.jar
+
+# Environmental Tech
+https://mediafilez.forgecdn.net/files/2691/542/valkyrielib-1.12.2-2.0.20.1.jar
+https://mediafilez.forgecdn.net/files/2691/536/environmentaltech-1.12.2-2.0.20.1.jar
+
+# Waystones
+https://mediafilez.forgecdn.net/files/2859/589/Waystones_1.12.2-4.1.0.jar
+
+# Storage Drawers
+https://mediafilez.forgecdn.net/files/2450/900/Chameleon-1.12-4.1.3.jar
+https://mediafilez.forgecdn.net/files/5981/297/StorageDrawers-1.12.2-5.5.3.jar
+
+# Immersive Engineering
+https://mediafilez.forgecdn.net/files/2974/106/ImmersiveEngineering-0.12-98.jar
+
+# Yung's Better Mineshafts
+https://mediafilez.forgecdn.net/files/3247/154/BetterMineshaftsForge-1.12.2-2.2.1.jar
+
+# Yung's Better Caves
+https://mediafilez.forgecdn.net/files/3003/242/bettercaves-1.12.2-2.0.4.jar
+
+# The One Probe
+https://mediafilez.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar
+
+# Thaumic Inventory Scanning
+https://mediafilez.forgecdn.net/files/2559/89/ThaumicInventoryScanning_1.12.2-2.0.10.jar
+
+# Construct's Armory
+https://mediafilez.forgecdn.net/files/3174/535/conarm-1.12.2-1.2.5.10.jar
+
+# RFTools Power
+https://mediafilez.forgecdn.net/files/2704/404/rftoolspower-1.12-1.2.0.jar
+
+# Industrial Wires
+https://mediafilez.forgecdn.net/files/2664/750/IndustrialWires-1.7-36.jar
+
+# Career Bees
+https://mediafilez.forgecdn.net/files/2534/481/careerbees-0.4.0.jar
+
+# Dark Utils
+https://mediafilez.forgecdn.net/files/2813/586/DarkUtils-1.12.2-1.8.230.jar
+
+# Clumps
+https://mediafilez.forgecdn.net/files/2666/198/Clumps-3.1.2.jar
+
+# Flux Networks
+https://mediafilez.forgecdn.net/files/3178/199/FluxNetworks-1.12.2-4.1.1.34.jar
+
+# P455w0rd's Lib
+https://mediafilez.forgecdn.net/files/2830/265/p455w0rdslib-1.12.2-2.3.161.jar
+
+# Immersive Petroleum
+https://mediafilez.forgecdn.net/files/3382/321/immersivepetroleum-1.12.2-1.1.10.jar
+
+# Platforms
+https://mediafilez.forgecdn.net/files/2661/618/shetiphiancore-1.12.0-3.5.9.jar
+https://mediafilez.forgecdn.net/files/2616/61/platforms-1.12.0-1.4.6.jar
+
+# Flat Colored Blocks
+https://mediafilez.forgecdn.net/files/2715/827/flatcoloredblocks-mc1.12-6.8.jar
+
+# XTones
+https://mediafilez.forgecdn.net/files/3248/33/Xtones-1.2.2.jar
+
+# Woot
+https://mediafilez.forgecdn.net/files/2712/670/woot-1.12.2-1.4.11.jar
+
+# Engineer's Doors
+https://mediafilez.forgecdn.net/files/3023/901/engineers_doors-1.12.2-0.9.1.jar
+
+# Sonar Core
+https://mediafilez.forgecdn.net/files/2645/156/sonarcore-1.12.2-5.0.19-20.jar

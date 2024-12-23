@@ -13,16 +13,18 @@ fi
 echo "Installing mods to $installdir"
 
 scriptdir=$(dirname "$0")
-modlist=$(cat "$scriptdir/modlist.txt")
+modlist=$(cat "$scriptdir/downloadlist.txt")
 
 # separate by newlines
 IFS=$'\n'
 
 for mod in $modlist; do
+    # skip comments
     if [[ "$mod" == \#* ]]; then
         continue
     fi
 
+    # skip empty lines
     if [ -z "$mod" ]; then
         continue
     fi
@@ -36,4 +38,27 @@ for mod in $modlist; do
     fi
 
     curl -sSL "$mod" -o "$installdir/$modfile"
+done
+
+deletelist=$(cat "$scriptdir/deletelist.txt")
+
+for mod in $deletelist; do
+    # skip comments
+    if [[ "$mod" == \#* ]]; then
+        continue
+    fi
+
+    # skip empty lines
+    if [ -z "$mod" ]; then
+        continue
+    fi
+
+    echo "Deleting $mod"
+    modfile=$(basename "$mod")
+
+    if [ -f "$installdir/$modfile" ]; then
+        rm "$installdir/$modfile"
+    else
+        echo "$mod does not exist, skipping"
+    fi
 done
