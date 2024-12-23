@@ -1,0 +1,8 @@
+# Thut's elevators
+https://mediafilez.forgecdn.net/files/2712/805/thuttech-1.12.2-6.1.6.jar
+
+# Actually additions
+https://mediafilez.forgecdn.net/files/3117/927/ActuallyAdditions-1.12.2-r152.jar
+
+# Refined storage
+https://mediafilez.forgecdn.net/files/2940/914/refinedstorage-1.6.16.jar

@@ -37,6 +37,6 @@ jobs:
       - name: Build and Push Docker Image
         uses: docker/build-push-action@v4
         with:
-          context: src/1-12-2-pack
+          context: 1-12-2-pack
           push: true
           tags: ghcr.io/${{ steps.lowercase_owner.outputs.owner }}/${{ github.event.repository.name }}:1-12-2-pack
