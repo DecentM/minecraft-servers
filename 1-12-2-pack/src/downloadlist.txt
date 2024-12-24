@@ -103,3 +103,62 @@ https://mediafilez.forgecdn.net/files/3023/901/engineers_doors-1.12.2-0.9.1.jar
 
 # Sonar Core
 https://mediafilez.forgecdn.net/files/2645/156/sonarcore-1.12.2-5.0.19-20.jar
+
+# Reborn Storage
+https://mediafilez.forgecdn.net/files/2833/871/RebornStorage-1.12.2-3.3.4.1.jar
+
+# Immersive Cables
+https://mediafilez.forgecdn.net/files/2595/13/ImmersiveCables-1.12.2-1.3.2.jar
+
+# Chest Transporter
+https://mediafilez.forgecdn.net/files/2524/58/ChestTransporter-1.12.2-2.8.8.jar
+
+# Ranged Pumps
+https://mediafilez.forgecdn.net/files/2441/326/rangedpumps-0.5.jar
+
+# Refined Storage Addons
+https://mediafilez.forgecdn.net/files/2941/10/refinedstorageaddons-0.4.5.jar
+
+# Simple Void World
+https://mediafilez.forgecdn.net/files/2498/115/Simple-Void-World-1.12-1.2.0.9-universal.jar
+
+# Engineer's Workshop
+https://mediafilez.forgecdn.net/files/2661/470/bibliotheca-1.3.6-1.12.2.jar
+https://mediafilez.forgecdn.net/files/2512/32/EngineersWorkshop-1.4.0-1.12.2.jar
+
+# XNet
+https://mediafilez.forgecdn.net/files/2745/852/xnet-1.12-1.8.2.jar
+
+# Environmental Lunar Tech
+https://mediafilez.forgecdn.net/files/2691/537/etlunar-1.12.2-2.0.20.1.jar
+
+# YABBA
+https://mediafilez.forgecdn.net/files/2985/811/FTBLib-5.4.7.2.jar
+https://mediafilez.forgecdn.net/files/2819/161/YABBA-1.1.2.54.jar
+
+# RFTools Control
+https://mediafilez.forgecdn.net/files/2705/813/rftoolsctrl-1.12-2.0.2.jar
+
+# xNICEx
+https://mediafilez.forgecdn.net/files/2704/410/nice-1.12-0.4.0.jar
+
+# Soul Shards Respawn
+https://mediafilez.forgecdn.net/files/2741/336/SoulShardsRespawn-1.12.2-1.1.1-13.jar
+
+# Storage Drawers Extra
+https://mediafilez.forgecdn.net/files/2443/623/StorageDrawersExtras-1.12-3.1.0.jar
+
+# Not Enough Wands
+https://mediafilez.forgecdn.net/files/2705/633/notenoughwands-1.12-1.8.1.jar
+
+# /dank/null
+https://mediafilez.forgecdn.net/files/2962/52/DankNull-1.12.2-1.7.101.jar
+
+# Better Builder's Wands
+https://mediafilez.forgecdn.net/files/2691/84/BetterBuildersWands-1.12.2-0.13.2.271%2B5997513.jar
+
+# Iron Backpacks
+https://mediafilez.forgecdn.net/files/2564/573/IronBackpacks-1.12.2-3.0.8-12.jar
+
+# Tinker Tool Leveling
+https://mediafilez.forgecdn.net/files/2630/860/TinkerToolLeveling-1.12.2-1.1.0.jar

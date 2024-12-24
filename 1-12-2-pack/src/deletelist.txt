@@ -1,10 +1,7 @@
-# WAILA
+# WAILA (replaced by The One Probe)
 WailaHarvestability-mc1.12-1.1.12.jar
 Hwyla-1.8.26-B41_1.12.2.jar
 ThaumicWaila-1.12.2-0.0.2.jar
 
-# Guidebook
-#Guidebook-1.12.2-2.9.5.jar
-
-# Just Enough Magiculture (crashes)
-#justenoughmagiculture-1.12.2-1.2.1.jar
+# CustomStartingGear (Clears inventory when importing existing world)
+CustomStartingGear-1.12-1.2.0.9-universal.jar
