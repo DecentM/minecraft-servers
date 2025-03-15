@@ -1,0 +1,69 @@
+{
+	"general": {},
+	"packs": [
+		{
+			"packname": "anti_xray_lite",
+			"message": "This list of resource packs are required for the server's functions to work",
+			"uuid": "930e7e42-0b14-4cce-ad1b-b8b1804fc5b6",
+			"url": "https://mediafilez.forgecdn.net/files/5437/572/Anti_Xray_Lite_1.21.zip",
+			"required": true,
+			"hash": ""
+		},
+		{
+			"packname": "simple_grass_flowers",
+			"message": "Gives Grass, Podzol, Mycelium, Crimson Nylium, and Warped Nylium vanilla-friendly flowers, clovers, and rocks!",
+			"uuid": "f90eb157-eab8-4b83-a556-6c2fa5cc898a",
+			"url": "https://cdn.modrinth.com/data/ti9KkMHm/versions/ETH7wMvT/Simple%20Grass%20Flowers%20v1.9.3.zip",
+			"required": true,
+			"hash": ""
+		},
+		{
+			"packname": "fancy_crops",
+			"message": "Prettier farming",
+			"uuid": "048816eb-73b6-403c-bc32-01d489de91d0",
+			"url": "https://cdn.modrinth.com/data/UGEVQ6t9/versions/J47fJlYS/Fancy%20Crops%20v1.1.zip",
+			"required": true,
+			"hash": ""
+		},
+		{
+			"packname": "angels_weather",
+			"message": "Cozy rain and snow textures, immersive sound, improved visibility, and an atmospheric experience",
+			"uuid": "317a0659-2b82-4373-8b5a-1ab484cef087",
+			"url": "https://cdn.modrinth.com/data/pQrAkcwB/versions/Spxkj55U/Angel%27s_Weather_Normal.zip",
+			"required": true,
+			"hash": ""
+		},
+		{
+			"packname": "ingame_brewing_guide",
+			"message": "Provides an in-game brewing guide within the Brewing Stand UI",
+			"uuid": "a26cf78a-6b63-49eb-b85c-69b225746095",
+			"url": "https://cdn.modrinth.com/data/Rspf9Ia2/versions/pRTdOyX8/Brewing%20Guide%201.21.1%20to%201.21.4.zip",
+			"required": true,
+			"hash": ""
+		},
+		{
+			"packname": "stellarity_music",
+			"message": "Brand new music for The End",
+			"uuid": "b1b4c515-32de-4aab-abd0-8b6a4ad206c0",
+			"url": "https://cdn.modrinth.com/data/IJHcrsas/versions/Qohw0Ypc/Stellarity-Music-3-0-3.zip",
+			"required": true,
+			"hash": ""
+		},
+		{
+			"packname": "stellarity_rp",
+			"message": "Custom textures for the new End to work",
+			"uuid": "81f393c0-702e-478f-8a61-c5647ed0067e",
+			"url": "https://cdn.modrinth.com/data/NfszI0rL/versions/phhrF4FC/Stellarity-RP-3-0-3.zip",
+			"required": true,
+			"hash": ""
+		},
+		{
+			"packname": "animated_doors",
+			"message": "Resource pack for Animated Doors",
+			"uuid": "79b4c515-32de-4aab-abd0-8b6a4ad206c0",
+			"url": "https://cdn.modrinth.com/data/SFrRaocz/versions/Qp0kN5Uh/AnimatedDoors-RPv1.2.zip",
+			"required": true,
+			"hash": ""
+		}
+	]
+}
