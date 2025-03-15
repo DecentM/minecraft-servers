@@ -3,10 +3,10 @@
   "feature_toggles": {
     "desert_dunes": true,
     // Moves max height to y640
-    "increased_height": false,
+    "increased_height": true,
     "lava_rivers": true,
     // Offsets ocean monuments 30 blocks down
-    "monument_offset": true,
+    "monument_offset": false,
     "underground_rivers": true
   },
   "snow_start_offset": 128,
@@ -17,7 +17,7 @@
     "erosion_scale": 0.25,
     // Vanilla value is -0.12
     "ocean_depth": -0.15,
-    // Higher values = vertically stretched terrain
-    "vertical_multiplier": 1.125
+    // Higher values = vertically stretched terrain. Original value is 1.125
+    "vertical_multiplier": 1.5
   }
 }

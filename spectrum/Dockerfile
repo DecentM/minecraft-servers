@@ -1,4 +1,4 @@
-FROM itzg/minecraft-server:2024.12.1-java21-graalvm
+FROM itzg/minecraft-server:2025.3.0-java23-graalvm
 
 WORKDIR /install
 
