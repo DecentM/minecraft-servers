@@ -64,14 +64,6 @@
 			"url": "https://cdn.modrinth.com/data/NfszI0rL/versions/phhrF4FC/Stellarity-RP-3-0-3.zip",
 			"required": true,
 			"hash": ""
-		},
-		{
-			"packname": "animated_doors",
-			"message": "Resource pack for Animated Doors",
-			"uuid": "79b4c515-32de-4aab-abd0-8b6a4ad206c0",
-			"url": "https://cdn.modrinth.com/data/SFrRaocz/versions/Qp0kN5Uh/AnimatedDoors-RPv1.2.zip",
-			"required": true,
-			"hash": ""
 		}
 	]
 }
