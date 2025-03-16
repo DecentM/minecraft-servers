@@ -18,26 +18,18 @@
 			"hash": ""
 		},
 		{
-			"packname": "fancy_crops",
-			"message": "Prettier farming",
-			"uuid": "048816eb-73b6-403c-bc32-01d489de91d0",
-			"url": "https://cdn.modrinth.com/data/UGEVQ6t9/versions/J47fJlYS/Fancy%20Crops%20v1.1.zip",
-			"required": true,
-			"hash": ""
-		},
-		{
-			"packname": "angels_weather",
-			"message": "Cozy rain and snow textures, immersive sound, improved visibility, and an atmospheric experience",
-			"uuid": "317a0659-2b82-4373-8b5a-1ab484cef087",
-			"url": "https://cdn.modrinth.com/data/pQrAkcwB/versions/Spxkj55U/Angel%27s_Weather_Normal.zip",
-			"required": true,
-			"hash": ""
-		},
-		{
 			"packname": "ingame_brewing_guide",
 			"message": "Provides an in-game brewing guide within the Brewing Stand UI",
 			"uuid": "a26cf78a-6b63-49eb-b85c-69b225746095",
 			"url": "https://cdn.modrinth.com/data/Rspf9Ia2/versions/pRTdOyX8/Brewing%20Guide%201.21.1%20to%201.21.4.zip",
+			"required": true,
+			"hash": ""
+		},
+		{
+			"packname": "sparkles",
+			"message": "Incendium localisations and entity textures",
+			"uuid": "89ded399-2d0b-47fc-b667-42cb1a757f32",
+			"url": "https://cdn.modrinth.com/data/HfNmMQ9E/versions/n4sbFHJm/Sparkles_1.21.x_v1.1.2.zip",
 			"required": true,
 			"hash": ""
 		},
