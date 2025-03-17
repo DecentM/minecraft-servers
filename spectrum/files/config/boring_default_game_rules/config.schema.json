@@ -1,0 +1,333 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Boring Default Game Rules Configuration File",
+  "gameRulesHash": "5d9d8da5f10a78a0bb2d4ad2119dc5f3ff373e4a82f02ac134c1053d38e891ed",
+  "description": "The config file for the \"Boring Default Game Rules\" mod.",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "title": "$schema",
+      "description": "The standard method of assigning a JSON schema to a JSON file. This should either be set as \"config.schema.json\" always!",
+      "default": "config.schema.json"
+    },
+    "default_game_rules": {
+      "type": "object",
+      "title": "Default Game Rules",
+      "description": "Defines the default game rules, whose values will override the original default values. This mod provides game rule suggestions by generating a JSON schema.",
+      "properties": {
+        "announceAdvancements": {
+          "type": "boolean",
+          "title": "Announce advancements",
+          "default": true
+        },
+        "blockExplosionDropDecay": {
+          "type": "boolean",
+          "title": "In block interaction explosions, some blocks won\u0027t drop their loot",
+          "description": "Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.",
+          "default": true
+        },
+        "commandBlockOutput": {
+          "type": "boolean",
+          "title": "Broadcast command block output",
+          "default": true
+        },
+        "commandModificationBlockLimit": {
+          "type": "integer",
+          "title": "Command modification block limit",
+          "description": "Number of blocks that can be changed at once by one command, such as fill or clone.",
+          "default": 32768
+        },
+        "disableElytraMovementCheck": {
+          "type": "boolean",
+          "title": "Disable elytra movement check",
+          "default": false
+        },
+        "disableRaids": {
+          "type": "boolean",
+          "title": "Disable raids",
+          "default": false
+        },
+        "doDaylightCycle": {
+          "type": "boolean",
+          "title": "Advance time of day",
+          "default": true
+        },
+        "doEntityDrops": {
+          "type": "boolean",
+          "title": "Drop entity equipment",
+          "description": "Controls drops from minecarts (including inventories), item frames, boats, etc.",
+          "default": true
+        },
+        "doFireTick": {
+          "type": "boolean",
+          "title": "Update fire",
+          "default": true
+        },
+        "doImmediateRespawn": {
+          "type": "boolean",
+          "title": "Respawn immediately",
+          "default": false
+        },
+        "doInsomnia": {
+          "type": "boolean",
+          "title": "Spawn phantoms",
+          "default": true
+        },
+        "doLimitedCrafting": {
+          "type": "boolean",
+          "title": "Require recipe for crafting",
+          "description": "If enabled, players will be able to craft only unlocked recipes.",
+          "default": false
+        },
+        "doMobLoot": {
+          "type": "boolean",
+          "title": "Drop mob loot",
+          "description": "Controls resource drops from mobs, including experience orbs.",
+          "default": true
+        },
+        "doMobSpawning": {
+          "type": "boolean",
+          "title": "Spawn mobs",
+          "description": "Some entities might have separate rules.",
+          "default": true
+        },
+        "doPatrolSpawning": {
+          "type": "boolean",
+          "title": "Spawn pillager patrols",
+          "default": true
+        },
+        "doTileDrops": {
+          "type": "boolean",
+          "title": "Drop blocks",
+          "description": "Controls resource drops from blocks, including experience orbs.",
+          "default": true
+        },
+        "doTraderSpawning": {
+          "type": "boolean",
+          "title": "Spawn Wandering Traders",
+          "default": true
+        },
+        "doVinesSpread": {
+          "type": "boolean",
+          "title": "Vines spread",
+          "description": "Controls whether or not the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",
+          "default": true
+        },
+        "doWardenSpawning": {
+          "type": "boolean",
+          "title": "Spawn Wardens",
+          "default": true
+        },
+        "doWeatherCycle": {
+          "type": "boolean",
+          "title": "Update weather",
+          "default": true
+        },
+        "drowningDamage": {
+          "type": "boolean",
+          "title": "Deal drowning damage",
+          "default": true
+        },
+        "enderPearlsVanishOnDeath": {
+          "type": "boolean",
+          "title": "Thrown Ender Pearls vanish on death",
+          "description": "Whether Ender Pearls thrown by a player vanish when that player dies.",
+          "default": true
+        },
+        "fallDamage": {
+          "type": "boolean",
+          "title": "Deal fall damage",
+          "default": true
+        },
+        "fireDamage": {
+          "type": "boolean",
+          "title": "Deal fire damage",
+          "default": true
+        },
+        "forgiveDeadPlayers": {
+          "type": "boolean",
+          "title": "Forgive dead players",
+          "description": "Angered neutral mobs stop being angry when the targeted player dies nearby.",
+          "default": true
+        },
+        "freezeDamage": {
+          "type": "boolean",
+          "title": "Deal freeze damage",
+          "default": true
+        },
+        "globalSoundEvents": {
+          "type": "boolean",
+          "title": "Global sound events",
+          "description": "When certain game events happen, like a boss spawning, the sound is heard everywhere.",
+          "default": true
+        },
+        "keepInventory": {
+          "type": "boolean",
+          "title": "Keep inventory after death",
+          "default": false
+        },
+        "lavaSourceConversion": {
+          "type": "boolean",
+          "title": "Lava converts to source",
+          "description": "When flowing lava is surrounded on two sides by lava sources it converts into a source.",
+          "default": false
+        },
+        "logAdminCommands": {
+          "type": "boolean",
+          "title": "Broadcast admin commands",
+          "default": true
+        },
+        "maxCommandChainLength": {
+          "type": "integer",
+          "title": "Command chain size limit",
+          "description": "Applies to command block chains and functions.",
+          "default": 65536
+        },
+        "maxCommandForkCount": {
+          "type": "integer",
+          "title": "Command context limit",
+          "description": "Maximum number of contexts that can be used by commands like \u0027execute as\u0027.",
+          "default": 65536
+        },
+        "maxEntityCramming": {
+          "type": "integer",
+          "title": "Entity cramming threshold",
+          "default": 24
+        },
+        "mobExplosionDropDecay": {
+          "type": "boolean",
+          "title": "In mob explosions, some blocks won\u0027t drop their loot",
+          "description": "Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.",
+          "default": true
+        },
+        "mobGriefing": {
+          "type": "boolean",
+          "title": "Allow destructive mob actions",
+          "default": true
+        },
+        "naturalRegeneration": {
+          "type": "boolean",
+          "title": "Regenerate health",
+          "default": true
+        },
+        "playersNetherPortalCreativeDelay": {
+          "type": "integer",
+          "title": "Player\u0027s Nether portal delay in creative mode",
+          "description": "Time (in ticks) that a creative mode player needs to stand in a Nether portal before changing dimensions.",
+          "default": 1
+        },
+        "playersNetherPortalDefaultDelay": {
+          "type": "integer",
+          "title": "Player\u0027s Nether portal delay in non-creative mode",
+          "description": "Time (in ticks) that a non-creative mode player needs to stand in a Nether portal before changing dimensions.",
+          "default": 80
+        },
+        "playersSleepingPercentage": {
+          "type": "integer",
+          "title": "Sleep percentage",
+          "description": "The percentage of players who must be sleeping to skip the night.",
+          "default": 100
+        },
+        "projectilesCanBreakBlocks": {
+          "type": "boolean",
+          "title": "Projectiles can break blocks",
+          "description": "Controls whether impact projectiles will destroy blocks that are destructible by them.",
+          "default": true
+        },
+        "randomTickSpeed": {
+          "type": "integer",
+          "title": "Random tick speed rate",
+          "default": 3
+        },
+        "reducedDebugInfo": {
+          "type": "boolean",
+          "title": "Reduce debug info",
+          "description": "Limits contents of debug screen.",
+          "default": false
+        },
+        "sendCommandFeedback": {
+          "type": "boolean",
+          "title": "Send command feedback",
+          "default": true
+        },
+        "showDeathMessages": {
+          "type": "boolean",
+          "title": "Show death messages",
+          "default": true
+        },
+        "snowAccumulationHeight": {
+          "type": "integer",
+          "title": "Snow accumulation height",
+          "description": "When it snows, layers of snow form on the ground up to at most this number of layers.",
+          "default": 1
+        },
+        "spawnChunkRadius": {
+          "type": "integer",
+          "title": "Spawn chunk radius",
+          "description": "Amount of chunks that stay loaded around the overworld spawn position.",
+          "default": 2,
+          "minimum": 0,
+          "maximum": 32
+        },
+        "spawnRadius": {
+          "type": "integer",
+          "title": "Respawn location radius",
+          "description": "Controls the size of the area around the spawn point that players can spawn in.",
+          "default": 10
+        },
+        "spectatorsGenerateChunks": {
+          "type": "boolean",
+          "title": "Allow spectators to generate terrain",
+          "default": true
+        },
+        "tntExplosionDropDecay": {
+          "type": "boolean",
+          "title": "In TNT explosions, some blocks won\u0027t drop their loot",
+          "description": "Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.",
+          "default": false
+        },
+        "universalAnger": {
+          "type": "boolean",
+          "title": "Universal anger",
+          "description": "Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",
+          "default": false
+        },
+        "universal_graves:breaking_time": {
+          "type": "integer",
+          "title": "Grave expiration time",
+          "default": -2,
+          "minimum": -2
+        },
+        "universal_graves:protection_time": {
+          "type": "integer",
+          "title": "Time of grave\u0027s protection against other players",
+          "default": -2,
+          "minimum": -2
+        },
+        "waterSourceConversion": {
+          "type": "boolean",
+          "title": "Water converts to source",
+          "description": "When flowing water is surrounded on two sides by water sources it converts into a source.",
+          "default": true
+        },
+        "wither_cage_fix:allowBlueWitherSkulls": {
+          "type": "boolean",
+          "title": "Allow blue wither skulls",
+          "description": "Whether withers may fire blue skulls which break blast-resistant blocks",
+          "default": false
+        }
+      }
+    },
+    "generate_json_schema": {
+      "type": "boolean",
+      "title": "Generate JSON Schema",
+      "description": "If enabled, this mod will generate a JSON schema in order to aid with configuration. You may disable this if you don\u0027t plan to change the settings and want to save space, and once disabled, you can safely remove both the schema and the \"$schema\" property.",
+      "default": true
+    }
+  },
+  "required": [
+    "default_game_rules",
+    "generate_json_schema"
+  ]
+}
