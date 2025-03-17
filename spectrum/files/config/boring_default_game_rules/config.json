@@ -1,5 +1,9 @@
 {
 	"$schema": "config.schema.json",
-	"default_game_rules": {},
-	"generate_json_schema": true
+	"default_game_rules": {
+		"disableElytraMovementCheck": true,
+		"disablePlayerMovementCheck": true,
+		"spawnChunkRadius": 0
+	},
+	"generate_json_schema": false
 }

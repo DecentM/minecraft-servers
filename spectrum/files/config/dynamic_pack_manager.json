@@ -42,6 +42,14 @@
 			"hash": ""
 		},
 		{
+			"packname": "mambiance",
+			"message": "Support for server-rendered ambiances",
+			"uuid": "0702389d-e14a-4d5d-b92f-feaf020845f2",
+			"url": "https://files.catbox.moe/4r2woz.zip",
+			"required": true,
+			"hash": ""
+		},
+		{
 			"packname": "sparkles",
 			"message": "Incendium localisations and entity textures",
 			"uuid": "89ded399-2d0b-47fc-b667-42cb1a757f32",
