@@ -10,6 +10,14 @@
 			"hash": ""
 		},
 		{
+			"packname": "mambiance",
+			"message": "Support for server-rendered ambiances",
+			"uuid": "0702389d-e14a-4d5d-b92f-feaf020845f2",
+			"url": "https://files.catbox.moe/4r2woz.zip",
+			"required": true,
+			"hash": ""
+		},
+		{
 			"packname": "simple_grass_flowers",
 			"message": "Gives Grass, Podzol, Mycelium, Crimson Nylium, and Warped Nylium vanilla-friendly flowers, clovers, and rocks!",
 			"uuid": "f90eb157-eab8-4b83-a556-6c2fa5cc898a",
@@ -42,10 +50,10 @@
 			"hash": ""
 		},
 		{
-			"packname": "mambiance",
-			"message": "Support for server-rendered ambiances",
-			"uuid": "0702389d-e14a-4d5d-b92f-feaf020845f2",
-			"url": "https://files.catbox.moe/4r2woz.zip",
+			"packname": "polymer_resources",
+			"message": "Dynamically generated resources to make server-side mods work",
+			"uuid": "59e0fb8b-bce0-4d72-8890-fbee3829af39",
+			"url": "https://files.catbox.moe/kxquv5.zip",
 			"required": true,
 			"hash": ""
 		},
