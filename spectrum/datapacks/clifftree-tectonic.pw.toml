@@ -1,0 +1,13 @@
+name = "CliffTree x Tectonic Compatibility"
+filename = "Clifftree X Tectonic Compat 1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WHf5mmYK/versions/dAJMKLcl/Clifftree%20X%20Tectonic%20Compat%201.0.zip"
+hash-format = "sha512"
+hash = "66bf7f85e8d8aed0ec9245d729805cced8a735545465f0bcf23f5597153d81b93533f16c4e45bb1ee8cef9ebfd373fc5e6592382103664b855e5efb72872c7b1"
+
+[update]
+[update.modrinth]
+mod-id = "WHf5mmYK"
+version = "dAJMKLcl"

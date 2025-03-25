@@ -366,7 +366,7 @@ hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "860654fbb856be19a0d3afbf81fccb2c879e32f7a8402148fd315b52102f5f10"
+hash = "32129a028e192567f2d26e337bd941ab2759cc2418d245a9e7518802110d130c"
 
 [[files]]
 file = "config/polymer/server.json"
@@ -525,76 +525,53 @@ file = "config/zombievillagersfromspawner.json5"
 hash = "be0dabbe0bbd599cdb03321a0def0f3697cb972734857c8beeea6259e17cb0ac"
 
 [[files]]
-file = "datapacks/Clifftree X Tectonic Compat 1.0.zip"
-hash = "255ea05d9bbd481500dfab1c17aa51fd41186092a7342a7d9fb69d7815f163b1"
+file = "datapacks/clifftree-tectonic.pw.toml"
+hash = "6e518f7ac4d7a1975f8d7f15b01836ece60c8e346174207cdc198e4bb1de67f2"
+metafile = true
 
 [[files]]
-file = "datapacks/Repurposed_Structures-Better_Desert_Temples_v11.zip"
-hash = "207ba7ca5ddb939a518b3d057ac1a07ef7bd1bfd074829359e360eff61ed2a39"
+file = "datapacks/joshs-more-foods.pw.toml"
+hash = "7ad7e7e06a4c7f54226c7a806ad2503d347f84e4125d7aaa54a9214117a64a6e"
+metafile = true
 
 [[files]]
-file = "datapacks/Repurposed_Structures-Better_Dungeons_v6.zip"
-hash = "e58cc306f0b865977d0b936aa1366f2b4f6d3475993ebfb94a73373da533ecef"
+file = "datapacks/repurposed-structures-better-desert-temples-compat.pw.toml"
+hash = "d184b394e4f2033fb1119487b0453d48f032f579c1e9f997d0f23cb7369d7dcf"
+metafile = true
 
 [[files]]
-file = "datapacks/Repurposed_Structures-Better_Jungle_Temples_v7.zip"
-hash = "9940ecc1f30d67c44c98392f587d6bcffaf9ebac25d145e21fd1312b076e8df2"
+file = "datapacks/repurposed-structures-better-dungeons-compat.pw.toml"
+hash = "7eb564ad28701496eaa9c017a789dd937d2d1b08fb233b50e583c8335995ab6a"
+metafile = true
 
 [[files]]
-file = "datapacks/Repurposed_Structures-Better_Monuments_v7.zip"
-hash = "c76cd5ab549974b051a352a633abd2f78a916acc40392bc53ba0581c3116a8c9"
+file = "datapacks/repurposed-structures-better-jungle-temples.pw.toml"
+hash = "60338b54373cf9101113b417ee69b33a9f7e69604e0f6546fe4be86f244c5fdf"
+metafile = true
 
 [[files]]
-file = "datapacks/Repurposed_Structures-Better_Nether_Fortress_v10.zip"
-hash = "3692b0ac18133a472f790766993365176e2bf01a08c469aee4c61a308ae27a0e"
+file = "datapacks/repurposed-structures-better-nether-fortress-compat.pw.toml"
+hash = "5a35b559884dd71858f776c3b86716e6c4f3f027e872a72a1fbaa4b6b5828768"
+metafile = true
 
 [[files]]
-file = "datapacks/Repurposed_Structures-Better_Witch_Huts_v5.zip"
-hash = "ca4ae83e5a777392d50154f4ef57d8cbd7a12cc190ed69fd2dd2a51437fd64ef"
+file = "datapacks/repurposed-structures-better-ocean-monuments-compat.pw.toml"
+hash = "d08e4315a146e5ae5b45966e72f9dff09e21021b108c783b8d8a476295f33c31"
+metafile = true
 
 [[files]]
-file = "datapacks/Stellarity x Nullscape (1.21).zip"
-hash = "5a7854225fd48a59aa224e418a9ae56b27970ec14c3b1a8950d109757618f7f2"
+file = "datapacks/repurposed-structures-better-witch-huts-compat.pw.toml"
+hash = "5bd8980b306b8a6f825e446dfe51b81c2b65829bb7d5074e6bb1f69ef82b61ca"
+metafile = true
 
 [[files]]
-file = "datapacks/joshs-more-foods_v5.1.7_data_pack.zip"
-hash = "8eb65e7035e52c8a63d487e05bea4f9265ef7753efd4b6749ac143e2c89f8942"
-
-[[files]]
-file = "install.sh"
-hash = "5ef2a37fad8eb86ffa5d3d36a05a5b4f6a42a56a381175c9407982f0c1daf968"
+file = "datapacks/stellarity-x-nullscape.pw.toml"
+hash = "d239ba7974d239c56de21e80095410f9afd9f466a36fd247f83a1a5686d14790"
+metafile = true
 
 [[files]]
 file = "mods/PolyMc-5.7.0-rev.a3eaae6+1.21.jar"
 hash = "d12fb1570395226c9648d6aab2ffac138a71cef0e3666e02a18e83755aef173d"
-
-[[files]]
-file = "mods/YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar"
-hash = "2bb73eef278c277657b27f72d2fa1d917a17c14052bf526a2ba175f6e9a63012"
-
-[[files]]
-file = "mods/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar"
-hash = "69fe7d93afa1803d7658df3f861213f8255f68d4e976d66ddce66fba08d120bc"
-
-[[files]]
-file = "mods/YungsBetterJungleTemples-1.21.1-Fabric-3.1.2.jar"
-hash = "8b6ac004345da935b5b9bcb70624f4a3197411f9420d6459a302524f8dea42dc"
-
-[[files]]
-file = "mods/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar"
-hash = "27949f5bae0afeff457711a5b42482be301b76bc8b1136f1120f848489bb5fa6"
-
-[[files]]
-file = "mods/YungsBetterNetherFortresses-1.21.1-Fabric-3.1.4.jar"
-hash = "d92fcb4438c50157a095748b7a9b87e5c69f4e78c66b42228d315b9c1443a14f"
-
-[[files]]
-file = "mods/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar"
-hash = "4cfbb226bd1db17032ac7e7306e94ed27f1a8e2f3e09fb62c47688f8a527adec"
-
-[[files]]
-file = "mods/YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar"
-hash = "954ff004de151652d9be69e03d1b848d6fd15a0f5f2df15c4ce2e764467685e7"
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -1287,17 +1264,9 @@ hash = "a235940faf1631e6baaf5647865126fa28229a85853027d7769406456a6c6ed1"
 metafile = true
 
 [[files]]
-file = "mods/villagernames-1.21.1-8.2.jar"
-hash = "33d9e2436f76532afc70976289faa8ba02956b68e21ba66fab74fa1111136bd9"
-
-[[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "eb49b472f2542c2691c3c161aaa29151f6dad02b5ae397aa544bf6e84e632e69"
 metafile = true
-
-[[files]]
-file = "mods/villagesandpillages-fabric-mc1.21.1-1.0.3.jar"
-hash = "53ff08f8091a7f6187abf79f06a9915f2bfb4994cbef7f2d263044c4ddf897cf"
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
@@ -1385,45 +1354,44 @@ hash = "755ae8875a7dc1c3890ff952442a0792d41f99be8842d4c6ab77e29d983e7b78"
 metafile = true
 
 [[files]]
-file = "mods/zombiehorsespawn-1.21.1-5.2.jar"
-hash = "630a01c53a945a9a293b8f4bedee3b4ad543db2ed32ed2a54abe18984d6e3ba0"
+file = "resourcepacks/anti-xray.pw.toml"
+hash = "8b07832d2be194d5a054ec10fd4076c779e9d415d99de2e3a13ed2de8b30444f"
+metafile = true
 
 [[files]]
-file = "mods/zombievillagersfromspawner-1.21.1-3.9.jar"
-hash = "5b76c6de21abe4031f8acbac2b7b51869b9077c7e5dbaf13412b7e1c4df08614"
+file = "resourcepacks/brewing-guide.pw.toml"
+hash = "b767d614c961b807c9f5d53e1b88b696888907b8e75419af6c494ac61202b353"
+metafile = true
 
 [[files]]
-file = "resources/Anti_Xray_Lite_1.21.zip"
-hash = "777cffea06db9561d02f4c777fe35aaff52a8a9c7db5a931f894082d3119af16"
+file = "resourcepacks/joshs-more-foods-5-3-2-resource-pack.pw.toml"
+hash = "fe0221757539b2e44aad5d69744e615ed195e1149528c3f461e305f34e4472c3"
+metafile = true
 
 [[files]]
-file = "resources/Brewing Guide 1.21.1 to 1.21.4.zip"
-hash = "1d60ee8ce9f55097d724574baf3b54735039a79f3c0e7fd5145eb895b4aa69e5"
-
-[[files]]
-file = "resources/Simple Grass Flowers v1.9.3.zip"
-hash = "47b2b01dd5c888b8bec8b699d33105c4fad4dab0d4e3847fa15626c29162eeec"
-
-[[files]]
-file = "resources/Sparkles_1.21.x_v1.1.2.zip"
-hash = "6f62f7099eb8b46071e8089baa0a6b5c92173242b4debd19721cd8bc0113edf5"
-
-[[files]]
-file = "resources/Stellarity-Music-3-0-3.zip"
-hash = "dba9f3e15e3a57683bee0f7a8ae24f169f6e0204e8e577be64a19e19021d55eb"
-
-[[files]]
-file = "resources/Stellarity-RP-3-0-3.zip"
-hash = "12b3b1a727e0f54da76739e9794f0f9fcf5b056d1a2aecdbdc9894cd7c42d834"
-
-[[files]]
-file = "resources/joshs-more-foods_5.3.2_resource_pack.zip"
-hash = "7bf6e371d8ebeebae98752ab018adabc914a3078767943cdf58c28fa7ddf27f7"
-
-[[files]]
-file = "resources/mambiance.zip"
+file = "resourcepacks/mambiance.zip"
 hash = "964f6ffb8dbf74eff46ca0c209195ce84e1ccd31fef9cb6dff33f29e64121288"
 
 [[files]]
-file = "resources/spellbound-weapons-datapack-resources-v1.0.10.zip"
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "2c4f4c1252a2ad62ac168bc529b9e04a8de3c74a2dd3038254224281557599ad"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sparkles.pw.toml"
+hash = "1330ad42a4cfa5cb8f16b7fd7e18297e3d6e433ab32dd7ea53046c3f26fb1b5b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spellbound-weapons-datapack-resources-v1.0.10.zip"
 hash = "84d30d9af13257d5091d8a5f34a2a900913ef414e0499b0e96bef8789040f762"
+
+[[files]]
+file = "resourcepacks/stellarity-music.pw.toml"
+hash = "c63d6590090c505c6817687ab7b310c57507c2c67e58be712dd504968adea94f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stellarity-rp.pw.toml"
+hash = "a6b08d3769ef2d8de6416d493137747a4083caa9177ea8917af5b1d1f6d46d98"
+metafile = true

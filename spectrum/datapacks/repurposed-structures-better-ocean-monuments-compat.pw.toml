@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Better Ocean Monuments Compat"
+filename = "Repurposed_Structures-Better_Monuments_v7.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WQ8xE11Z/versions/EU6PZcdv/Repurposed_Structures-Better_Monuments_v7.zip"
+hash-format = "sha512"
+hash = "5f81b4539ecc83a25b81b5f6e25311b9e031c870f92fb8ab07628b932705fbed29720de18b4adeecfc089ada4fef75de7ee1bc8130d84c59359c2bb0dc60794f"
+
+[update]
+[update.modrinth]
+mod-id = "WQ8xE11Z"
+version = "EU6PZcdv"

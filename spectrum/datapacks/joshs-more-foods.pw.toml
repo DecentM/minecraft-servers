@@ -1,0 +1,13 @@
+name = "Josh's More Foods"
+filename = "joshs-more-foods_v5.1.8_data_pack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3BlwZj8w/versions/lD1S53Pf/joshs-more-foods_v5.1.8_data_pack.zip"
+hash-format = "sha512"
+hash = "4ced6c8b80ad71a477c9092d09e189c8993944ee1f81cf0be851ea2296a4487e075eec46f2edebf3d535546d319f12d0464becbc271a46fddd3e6b6731c7b0c9"
+
+[update]
+[update.modrinth]
+mod-id = "3BlwZj8w"
+version = "lD1S53Pf"
