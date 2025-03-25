@@ -1,6 +1,6 @@
 {
   "_c0": "UUID of default/main resource pack.",
-  "main_uuid": "e1cbbdf9-698f-4848-8870-89aca861d18f",
+  "main_uuid": "1c11acd7-fd7f-4121-baad-f1f53989e2ce",
   "_c1": "Marks resource pack as required, only effects clients and mods using api to check it",
   "markResourcePackAsRequiredByDefault": false,
   "_c2": "Force-enables offset of CustomModelData",
@@ -12,7 +12,17 @@
   "_c5": "Included resource packs from mods!",
   "include_mod_assets": [],
   "_c6": "Included resource packs from zips!",
-  "include_zips": [],
+  "include_zips": [
+    "resources/Anti_Xray_Lite_1.21.zip",
+    "resources/Brewing Guide 1.21.1 to 1.21.4.zip'",
+    "resources/Simple Grass Flowers v1.9.3.zip'",
+    "resources/Sparkles_1.21.x_v1.1.2.zip",
+    "resources/Stellarity-Music-3-0-3.zip",
+    "resources/Stellarity-RP-3-0-3.zip",
+    "resources/joshs-more-foods_5.3.2_resource_pack.zip",
+    "resources/mambiance.zip",
+    "resources/spellbound-weapons-datapack-resources-v1.0.10.zip"
+  ],
   "_c7": "Path used for creation of default resourcepack!",
   "resource_pack_location": "polymer/resource_pack.zip",
   "_c8": "Prevents selected paths from being added to resource pack, if they start with provided text.",
