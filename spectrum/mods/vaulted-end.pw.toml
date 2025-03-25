@@ -1,0 +1,13 @@
+name = "Vaulted End"
+filename = "vaulted-end-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1wndQzER/versions/hkwZ4Nts/vaulted-end-1.0.1.jar"
+hash-format = "sha512"
+hash = "678d629f5d6598420141626f1c018fbb7a044f1332b2375a7bdab2fcdf03725508dee2c9ca2991657f6bfedf8a8593b3a53b1e9b2819caf2bdfc65fafeef349f"
+
+[update]
+[update.modrinth]
+mod-id = "1wndQzER"
+version = "hkwZ4Nts"

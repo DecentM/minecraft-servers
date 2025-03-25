@@ -1,0 +1,13 @@
+name = "Dungeons+"
+filename = "dungeons+-1.9.0b.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nHORcEHd/versions/MaPifrAA/dungeons%2B-1.9.0b.jar"
+hash-format = "sha512"
+hash = "b72e8bd84d5cdcdcd9c3ba31c7329916de7dd3e86d167267bee11f412cb42443ad2b12f64c9e28fbf430283d767bf0a9fb35005a3001d0e4b5d412438e60bd44"
+
+[update]
+[update.modrinth]
+mod-id = "nHORcEHd"
+version = "MaPifrAA"

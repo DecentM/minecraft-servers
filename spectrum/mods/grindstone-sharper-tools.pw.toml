@@ -1,0 +1,13 @@
+name = "Grindstone Sharper Tools"
+filename = "grindstonesharpertools-1.21.1-3.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/p6y1z1Qa/versions/wF6aQIQi/grindstonesharpertools-1.21.1-3.8.jar"
+hash-format = "sha512"
+hash = "689c3944073e7b6f45406aef0baa6dae59267037307465a7bdb7f362e7296101dccd332fd5b192434fd807773f8381566f98c32ff8334acbd93031db076cf72f"
+
+[update]
+[update.modrinth]
+mod-id = "p6y1z1Qa"
+version = "wF6aQIQi"

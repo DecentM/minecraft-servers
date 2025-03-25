@@ -1,0 +1,13 @@
+name = "HoloDisplays"
+filename = "holodisplays-0.2.2+1.20.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/WdbPWi13/versions/bBwdmE6R/holodisplays-0.2.2%2B1.20.6.jar"
+hash-format = "sha512"
+hash = "77bc424feebd3c10ad02208551f08e7765496ea4cd052576f1a6dcbea37678d83057ba871a2387eb92e8b6fc729355e9a02671b2400dfc11e89186b18699263d"
+
+[update]
+[update.modrinth]
+mod-id = "WdbPWi13"
+version = "bBwdmE6R"

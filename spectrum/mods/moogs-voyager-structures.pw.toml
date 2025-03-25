@@ -1,0 +1,13 @@
+name = "MVS - Moog's Voyager Structures"
+filename = "mvs-4.2.8-1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/OQAgZMH1/versions/VYyt5avd/mvs-4.2.8-1.21.jar"
+hash-format = "sha512"
+hash = "7ebc728a8b70346168a135f29d7ab492ef5382c556cb3334cd5185fc5f389a66f958f10ece5c5c9f9a17c355032767fe74f3da56fb81d9f295c574d7f66cce19"
+
+[update]
+[update.modrinth]
+mod-id = "OQAgZMH1"
+version = "VYyt5avd"

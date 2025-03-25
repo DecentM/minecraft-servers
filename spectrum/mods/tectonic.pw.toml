@@ -1,0 +1,13 @@
+name = "Tectonic"
+filename = "tectonic-fabric-1.21.1-2.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/1ow108KF/tectonic-fabric-1.21.1-2.4.3.jar"
+hash-format = "sha512"
+hash = "5253cacd9222a8088f184f175d9c83311f143cbfd956387c684112a2525152fad9ca39fb74214979c9971fcdc7d100aaa0a153ae9ae26fedea3221e835de0a3a"
+
+[update]
+[update.modrinth]
+mod-id = "lWDHr9jE"
+version = "1ow108KF"

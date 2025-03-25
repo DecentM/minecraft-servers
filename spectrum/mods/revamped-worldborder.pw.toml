@@ -1,0 +1,13 @@
+name = "Revamped Worldborder"
+filename = "rev_wb-fabric-1.21.1-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LyrtDCvH/versions/WlntH9Fd/rev_wb-fabric-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "38f3ec04e956deb8265f236ccfc648b31a853ea96327b0ed674f728267a21264685229fb420e37ccd4ff7b8e2c0c9a74ee2236742a42c1e9601a7d03aecaae5f"
+
+[update]
+[update.modrinth]
+mod-id = "LyrtDCvH"
+version = "WlntH9Fd"

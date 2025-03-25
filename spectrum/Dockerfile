@@ -1,11 +1,5 @@
 FROM itzg/minecraft-server:2025.3.0-java23-graalvm
 
-WORKDIR /install
-
-COPY src/ .
-
-# RUN ./install.sh /data/mods
-
 ENV TYPE=FABRIC
 ENV VERSION=1.21.1
 ENV GUI=false
@@ -16,6 +10,6 @@ ENV JVM_XX_OPTS="-XX:+UseNUMA -XX:MaxTenuringThreshold=15 -XX:MaxGCPauseMillis=3
 
 WORKDIR /data
 
-COPY files/ .
+COPY . .
 
 VOLUME [ "/data/world" ]

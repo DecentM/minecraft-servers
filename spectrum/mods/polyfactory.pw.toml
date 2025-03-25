@@ -1,0 +1,13 @@
+name = "PolyFactory"
+filename = "polyfactory-0.4.3+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MikpSrAF/versions/XsQDZRow/polyfactory-0.4.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "8025576f80ee5affaab2fb5623783921a76e19dfd2f35fa037ae987609ce1006613d04cbc7017540fe9c90d3f04032b9c8f462c5ee6a0b7123faa6ff03519b61"
+
+[update]
+[update.modrinth]
+mod-id = "MikpSrAF"
+version = "XsQDZRow"

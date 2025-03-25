@@ -1,0 +1,13 @@
+name = "Server Ui Fix"
+filename = "serveruifix-0.3.0+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/eYhgGSfC/versions/4SRhpfrW/serveruifix-0.3.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "e6f9f2aff4365df92a6a8b11ec9545c0e49c1e0083176451d99d5fc01bca50be428d7f226b29553e6f26bb501f18a7d280587616d456c073a57e52a82fbf9d5d"
+
+[update]
+[update.modrinth]
+mod-id = "eYhgGSfC"
+version = "4SRhpfrW"

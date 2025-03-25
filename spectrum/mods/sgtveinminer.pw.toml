@@ -1,0 +1,13 @@
+name = "Veinminer"
+filename = "VeinminerMod-1.21.1-2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MnavVAzj/versions/8XgV8Bao/VeinminerMod-1.21.1-2.0.jar"
+hash-format = "sha512"
+hash = "bad92ee136f490244e607b0913130dff67525ac62bef1e3e6a5bc133e90191f03f0ad0a75338b443aaeebfd779db84b2fdab1ec96efdcbae6f26ab8458aa65c5"
+
+[update]
+[update.modrinth]
+mod-id = "MnavVAzj"
+version = "8XgV8Bao"

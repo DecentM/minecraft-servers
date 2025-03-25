@@ -1,0 +1,13 @@
+name = "spectrum"
+author = "DecentM"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1e14e7f08c9d1acd65dca3384c3bef36c1ec141e90cbdd97e829a109233895fd"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"

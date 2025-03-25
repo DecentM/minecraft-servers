@@ -1,0 +1,13 @@
+name = "Skippy Pearls"
+filename = "skippy-pearls-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KM7gMSY1/versions/9aulJE9A/skippy-pearls-1.21.jar"
+hash-format = "sha512"
+hash = "daa117c4a5d01f79feb5464a83b6c2af2e4a33b65630486d6eea453fe6df8362f76ae070d1bd0ad5297fc6a5d08070a14ec9c9ea7b909dd0e30be39381dcd13a"
+
+[update]
+[update.modrinth]
+mod-id = "KM7gMSY1"
+version = "9aulJE9A"
