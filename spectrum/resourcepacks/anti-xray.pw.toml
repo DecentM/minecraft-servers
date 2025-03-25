@@ -3,8 +3,8 @@ filename = "Anti_Xray_Lite_1.21.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2df48e19c4766eda5ff272cdb23eb890a0cb7e22"
+hash-format = "sha512"
+hash = "e25ab563a6691b54ee448f00296b076a14f4dcfcd94788d041b950cdeb2ca82977e07f8a9886cca13c799cc55762b817f40a43ef3c2d8b81cce266e3823e0e39"
 mode = "metadata:curseforge"
 
 [update]

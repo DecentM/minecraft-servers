@@ -1,6 +1,6 @@
 name = "Brewing Guide"
 filename = "§lBrewing Guide§8.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/oECpqfSy/versions/fwxUpZuG/%C2%A7lBrewing%20Guide%C2%A78.zip"

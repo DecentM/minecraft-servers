@@ -1,6 +1,6 @@
 name = "Stellarity Music Addon"
 filename = "Stellarity-Music-3-0-3.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IJHcrsas/versions/Qohw0Ypc/Stellarity-Music-3-0-3.zip"
