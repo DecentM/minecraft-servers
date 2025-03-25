@@ -969,11 +969,6 @@ hash = "9e9ebd7c8e93fd92b7ec87cf6ce2152732c10aad6c52f657cf479a5514828931"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
-metafile = true
-
-[[files]]
 file = "mods/mru.pw.toml"
 hash = "79a034d9dc8a2cb62a9fcd64c2871e081291a264822da07675a3ee749b04b6eb"
 metafile = true
@@ -1091,11 +1086,6 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "a9fbf104220ee025e339c1975856807e8e4ecd2e2cc5b3ce2d7dff7a463b523e"
-metafile = true
-
-[[files]]
-file = "mods/rrls.pw.toml"
-hash = "16dbaca6ead0782c38759729d228b863119f104c10b3a0e85a7875c3111a611e"
 metafile = true
 
 [[files]]
