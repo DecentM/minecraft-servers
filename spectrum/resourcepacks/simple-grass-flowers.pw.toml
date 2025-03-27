@@ -1,6 +1,6 @@
 name = "Simple Grass Flowers"
 filename = "Simple Grass Flowers v1.9.4.zip"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/ti9KkMHm/versions/yt1HK9L0/Simple%20Grass%20Flowers%20v1.9.4.zip"

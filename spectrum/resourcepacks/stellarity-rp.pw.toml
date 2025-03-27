@@ -1,6 +1,6 @@
 name = "Stellarity Resource Pack"
-filename = "Stellarity-RP-3-0-3.zip"
-side = "both"
+filename = "stellarity-rp.zip"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/NfszI0rL/versions/phhrF4FC/Stellarity-RP-3-0-3.zip"

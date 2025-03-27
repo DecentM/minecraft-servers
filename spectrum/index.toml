@@ -354,7 +354,7 @@ hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "32129a028e192567f2d26e337bd941ab2759cc2418d245a9e7518802110d130c"
+hash = "f7b593d7e548ff3f31a68d075abdaf65d39941402b16d07343b81427c0df82d0"
 
 [[files]]
 file = "config/polymer/server.json"
@@ -601,16 +601,6 @@ metafile = true
 [[files]]
 file = "mods/blooming-biosphere.pw.toml"
 hash = "0a4a096ab2c285a1ef789ccd733a0963aa8b4eaab40b37dc0df541d097f170e5"
-metafile = true
-
-[[files]]
-file = "mods/bluemap-polymer-patch.pw.toml"
-hash = "978266c4bfbfff4cfde89584654d17cb7a8feae03b871df02860d3fc4868a5ff"
-metafile = true
-
-[[files]]
-file = "mods/bluemap.pw.toml"
-hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
 metafile = true
 
 [[files]]
@@ -1049,6 +1039,11 @@ hash = "ca96b1df5aae1f8eb76b4fa3e3e6d9e047968cb84f1b73fcd3a4b12e613771b8"
 metafile = true
 
 [[files]]
+file = "mods/refined-advancements.pw.toml"
+hash = "661fba2551cdb5968cdf54646cc9ff21b600ecb22dc6c52e2c519cb09a6cfaf4"
+metafile = true
+
+[[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
 metafile = true
@@ -1214,16 +1209,6 @@ hash = "ed5048cfa5d1155b0e7acf70ea8b23b1f2a4196acac9ccdf73e0945043f60ea6"
 metafile = true
 
 [[files]]
-file = "mods/viafabric.pw.toml"
-hash = "3b265a150d6c3978848d6e05a1b0449a53a9d1b75de7597b8140075d6a4381c3"
-metafile = true
-
-[[files]]
-file = "mods/viaversion.pw.toml"
-hash = "4ee5cb65ae06f319dfa552a2385ea372ced075a1470d8d5b3df19d7935bb4900"
-metafile = true
-
-[[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "a235940faf1631e6baaf5647865126fa28229a85853027d7769406456a6c6ed1"
 metafile = true
@@ -1319,44 +1304,86 @@ hash = "755ae8875a7dc1c3890ff952442a0792d41f99be8842d4c6ab77e29d983e7b78"
 metafile = true
 
 [[files]]
+file = "resourcepacks/angels-weather.pw.toml"
+hash = "22e86ad5eaf9da0782599e9be0363a00e8d1a0b7997204f809fa8402405bc10c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/anti-xray.pw.toml"
-hash = "a00f8fb71597a6a31511843b1f1632305ae75ebce905371654fc79809f81dbcd"
+hash = "beb148449ec42d8e46902281889b6f40961c11d250944b46e52f5c449e81735c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/authentic-shadows.pw.toml"
+hash = "3dc15630a3dc5af082a7810dcbcf02af459638b7eae5b608c63d698d3a092647"
 metafile = true
 
 [[files]]
 file = "resourcepacks/brewing-guide.pw.toml"
-hash = "a04fe6347fccb1fb7c793f0fa8a099e004dd977710275f552c71de927dff3b85"
+hash = "886a6d66168fa23701650f2d7d163bbb8eab7652ea36538aa5eef8d97884fb9f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/joshs-more-foods-5-3-2-resource-pack.pw.toml"
-hash = "64b6cabd4782a9bf333cf6a9a50bba3c77627fc08159a2b1508d8dcc2abb0bb7"
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "fa7a909d3a89bc89617910f4b46cb18d2593168bb68e1af8b3f3d6c1e5a725f9"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mambiance.zip"
-hash = "964f6ffb8dbf74eff46ca0c209195ce84e1ccd31fef9cb6dff33f29e64121288"
+file = "resourcepacks/diagonal-perfect-copper-grates.pw.toml"
+hash = "72f621e4ccd167293407679799dde2952295ea303bd92d208f2b1db3899187b1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/diagonal-perfect-rails-3d.pw.toml"
+hash = "dc6e1d710a19188b2c76a1a2ec02d11a44005105fc39cda2ddeb4df8ef658fe0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "427cef5ebdc74d9bb3b3d6bcc40099d4eff94b9a0aec08546d18f306ff259339"
+metafile = true
+
+[[files]]
+file = "resourcepacks/joshs-more-foods.pw.toml"
+hash = "412d780ab4f0611134008f6aa48427fe956f9b1aab92b16e49fbcda1c1984f3d"
+metafile = true
 
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
-hash = "f68bb9c10d15d5fc77f316ed7853e057f65e54daa6c26346b4949f2795a43003"
+hash = "1450556b05bbbb193b7edd44b7109eb62059813bdf216fe9465f954aaf5aaab6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/slightly-improved-font.pw.toml"
+hash = "6ae0848f42ef0ac16836e7b2adf0cbbf1746e9993244714365af995266a176ac"
 metafile = true
 
 [[files]]
 file = "resourcepacks/sparkles.pw.toml"
-hash = "6d68f31fa173e65f77e8a8cf939dc593ced72e4d72b9c0f89ba7590dcca5b1f6"
+hash = "6a3df10606a506e6641a24196aa791b6f54299027477ab920d6be668f6ac9394"
 metafile = true
 
 [[files]]
-file = "resourcepacks/spellbound-weapons-datapack-resources-v1.0.10.zip"
-hash = "84d30d9af13257d5091d8a5f34a2a900913ef414e0499b0e96bef8789040f762"
+file = "resourcepacks/splatus-datapack-resources.pw.toml"
+hash = "0b056ad0d1182e9257f83aa4210b5b662752dfd3f9b066983409e5f2e215e694"
+metafile = true
 
 [[files]]
 file = "resourcepacks/stellarity-music.pw.toml"
-hash = "821d08f57447d994ac7343aa878e0bb4541df8a4642d2a007c3f2fbfaa72bc99"
+hash = "f037ac87e00efc4d024d326839a7ce47460e33e88ba1f5433e32afc89ef6eabe"
 metafile = true
 
 [[files]]
 file = "resourcepacks/stellarity-rp.pw.toml"
-hash = "c89e8a8ac63d3132fa15cbc3f1eb493057778a1aaa2af16f2068fd481726a31f"
+hash = "e02e49cfcd310b401b71ab76ab31ba8e33a563d81389551ed25873ae89200b3f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "94197c88a49d480ba065a31d27f37f2046faaad8c94700b36770ba8f9eb1e731"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vvi.pw.toml"
+hash = "b6c7c131be0b28029774abd6552a1b8b48d1750e994a321443eb954056ee64e0"
 metafile = true

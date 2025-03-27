@@ -1,0 +1,13 @@
+name = "Diagonal Perfect Copper Grates"
+filename = "diagonal-perfect-copper-grates.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nN1lNOdC/versions/OoTZFZlP/DiagonalPerfectCopperGrate1.1.zip"
+hash-format = "sha512"
+hash = "7d21a8630e4d3474f6f19bbca9b5f084c28cf88465e5bef8360ca8e4623cafe7cd57cbdd716cfaad829d510d8e8dd0c544b12976d08bd78ff319b9b2d75b8e27"
+
+[update]
+[update.modrinth]
+mod-id = "nN1lNOdC"
+version = "OoTZFZlP"

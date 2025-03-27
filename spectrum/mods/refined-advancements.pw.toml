@@ -1,0 +1,13 @@
+name = "Refined Advancements"
+filename = "refined-advancements-1.0.4a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/60PfR426/versions/lvoz36w2/refined-advancements-1.0.4a.jar"
+hash-format = "sha512"
+hash = "25281c58e78830cd8f9356ac05ca4d776b20c47af5690571fe3956e16bd957514b3f5edb4d4abdac48cc0fe5dcc0de40eb51df737202a15256ad3a86c1b78fec"
+
+[update]
+[update.modrinth]
+mod-id = "60PfR426"
+version = "lvoz36w2"

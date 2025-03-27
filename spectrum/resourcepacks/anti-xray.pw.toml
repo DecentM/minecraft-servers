@@ -1,6 +1,6 @@
 name = "Anti Xray"
-filename = "Anti_Xray_Lite_1.21.zip"
-side = "both"
+filename = "anti-xray.zip"
+side = "server"
 
 [download]
 hash-format = "sha512"
