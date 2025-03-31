@@ -1,0 +1,13 @@
+name = "Resource Fixes"
+filename = "model-optimizations-and-fixes.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xq2isoUl/versions/Z0s1bMFp/Resource%20Fixes.zip"
+hash-format = "sha512"
+hash = "7e482a428f1a1376a6c9535f57895f1ea6d568002f0c593ccc8dcba0b7a0619050ec3853ded56c4c19aa43dd2fbc1b7b23aa11ec08db771d982535d186625dba"
+
+[update]
+[update.modrinth]
+mod-id = "xq2isoUl"
+version = "Z0s1bMFp"

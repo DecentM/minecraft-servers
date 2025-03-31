@@ -1,6 +1,6 @@
 name = "Splatus Datapack Resources"
 filename = "splatus-datapack-resources.zip"
-side = "client"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/ePQ9Wowd/versions/fYlGhk18/ls-datapack-resources-v1.0.10.zip"

@@ -354,7 +354,7 @@ hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "f7b593d7e548ff3f31a68d075abdaf65d39941402b16d07343b81427c0df82d0"
+hash = "02cde9fd21818c597cac3c967989eb1239b20ca9cab40086c2eb786135f0a89c"
 
 [[files]]
 file = "config/polymer/server.json"
@@ -387,10 +387,6 @@ hash = "f663632b4076cd01078cd6bab7c3539d10a98ce52acb188de7c220e40f61cac4"
 [[files]]
 file = "config/servercore/optimizations.yml"
 hash = "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192"
-
-[[files]]
-file = "config/serveruifix.json"
-hash = "a271df09bde7e00fcafed82d31834840907c3acedb3cad683a79d46b988363db"
 
 [[files]]
 file = "config/skeletonhorsespawn.json5"
@@ -1064,11 +1060,6 @@ hash = "a9fbf104220ee025e339c1975856807e8e4ecd2e2cc5b3ce2d7dff7a463b523e"
 metafile = true
 
 [[files]]
-file = "mods/server-ui-fix.pw.toml"
-hash = "836268f16236826d95473f91ae69b97a0c28195adf89619d09c5fa16696f2007"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "3f2ce1c1eebbc21632b4cb111053585b61b377570676a7a0bbf5462cd1cb4c83"
 metafile = true
@@ -1305,7 +1296,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/angels-weather.pw.toml"
-hash = "22e86ad5eaf9da0782599e9be0363a00e8d1a0b7997204f809fa8402405bc10c"
+hash = "7d99c6937058d079370f0f909700c728cb4e5b6d1d03d0635ce2ee6a15ac2c00"
 metafile = true
 
 [[files]]
@@ -1316,11 +1307,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/authentic-shadows.pw.toml"
 hash = "3dc15630a3dc5af082a7810dcbcf02af459638b7eae5b608c63d698d3a092647"
-metafile = true
-
-[[files]]
-file = "resourcepacks/brewing-guide.pw.toml"
-hash = "886a6d66168fa23701650f2d7d163bbb8eab7652ea36538aa5eef8d97884fb9f"
 metafile = true
 
 [[files]]
@@ -1339,18 +1325,18 @@ hash = "dc6e1d710a19188b2c76a1a2ec02d11a44005105fc39cda2ddeb4df8ef658fe0"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "427cef5ebdc74d9bb3b3d6bcc40099d4eff94b9a0aec08546d18f306ff259339"
-metafile = true
-
-[[files]]
 file = "resourcepacks/joshs-more-foods.pw.toml"
 hash = "412d780ab4f0611134008f6aa48427fe956f9b1aab92b16e49fbcda1c1984f3d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/simple-grass-flowers.pw.toml"
-hash = "1450556b05bbbb193b7edd44b7109eb62059813bdf216fe9465f954aaf5aaab6"
+file = "resourcepacks/model-optimizations-and-fixes.pw.toml"
+hash = "c71ec7603a93273632b15e83e2903c57d1a771cc675d28257367b2e82b11e29e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/saturated-grass.pw.toml"
+hash = "23c295501a1c560c2b4eb6017af5766826022e733d51e866d29e3ed80c547873"
 metafile = true
 
 [[files]]
@@ -1365,7 +1351,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/splatus-datapack-resources.pw.toml"
-hash = "0b056ad0d1182e9257f83aa4210b5b662752dfd3f9b066983409e5f2e215e694"
+hash = "c4d3bed11957017312b1923b8558e5e7db06a7bd40b14eb1051444654724f4cd"
 metafile = true
 
 [[files]]
@@ -1385,5 +1371,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/vvi.pw.toml"
-hash = "b6c7c131be0b28029774abd6552a1b8b48d1750e994a321443eb954056ee64e0"
+hash = "3c294f001dfbb89ddca1906ef5ce0291473f380f974f90c4e6ba2cc75275e28a"
 metafile = true

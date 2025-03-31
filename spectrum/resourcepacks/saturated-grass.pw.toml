@@ -1,0 +1,13 @@
+name = "Saturated Grass!"
+filename = "saturated-grass.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/lqnzBmRw/versions/QDR2xaze/Saturated%20Grass%21%20%281.1v%29.zip"
+hash-format = "sha512"
+hash = "0cb12f3d6c3be2b754b555562df4ba1a3d637c57c5460f4622ac516f5f133af8e90c21c5b5552537c653f14a8a5a5500a21edfacf4dbf94e50e99af0930e9cbc"
+
+[update]
+[update.modrinth]
+mod-id = "lqnzBmRw"
+version = "QDR2xaze"
