@@ -39,4 +39,6 @@ jobs:
         with:
           context: spectrum
           push: true
-          tags: ghcr.io/${{ steps.lowercase_owner.outputs.owner }}/${{ github.event.repository.name }}:spectrum
+          tags: |
+            ghcr.io/${{ steps.lowercase_owner.outputs.owner }}/${{ github.event.repository.name }}:spectrum-latest
+            ghcr.io/${{ steps.lowercase_owner.outputs.owner }}/${{ github.event.repository.name }}:spectrum-${{ github.sha }}
