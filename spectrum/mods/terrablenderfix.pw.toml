@@ -1,0 +1,13 @@
+name = "TerraBlenderFix"
+filename = "terrablenderfix-fabric-1.21.1-0.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/t2pgJYye/versions/J365UgXC/terrablenderfix-fabric-1.21.1-0.0.1.jar"
+hash-format = "sha512"
+hash = "44a67e3e4cd27e7310f55aafbded2d39ede6b8ff6c3220fed77036dd196e0f2232537780d0c27a0ad1c6204240ec83c0b1070c8838695739ad5ddc0a4d2d935b"
+
+[update]
+[update.modrinth]
+mod-id = "t2pgJYye"
+version = "J365UgXC"

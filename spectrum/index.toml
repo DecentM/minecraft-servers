@@ -546,6 +546,11 @@ hash = "d239ba7974d239c56de21e80095410f9afd9f466a36fd247f83a1a5686d14790"
 metafile = true
 
 [[files]]
+file = "mods/achievements-optimizer.pw.toml"
+hash = "bdfbdbbb2d4f104dd63adaaa81c4232613cb3d8aa0e2a1b37b0b0c500f94c312"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "208a52276bf3af6ffd30b032b5954269bc30513053c279e7255cc167c38e5d5c"
 metafile = true
@@ -568,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/async.pw.toml"
+hash = "911dde9fd3bcff988b7ae9e217eafef284e8564a6fe512b5812d0faf0fe10409"
 metafile = true
 
 [[files]]
@@ -696,6 +706,11 @@ hash = "e4c22c80648c7e96ee8e90675b6f8444ac64905882284d70a60d2a9211d717ac"
 metafile = true
 
 [[files]]
+file = "mods/disable-portal-checks.pw.toml"
+hash = "c89e8ce7c142eed4d781bf9acf8a392dd9f741430ca878fc6afc38f5c63a00b3"
+metafile = true
+
+[[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "3a191ec81bcc9d5e55193d4836abbd8d3b74ca2f391c9f6e73237ab01880e482"
 metafile = true
@@ -758,6 +773,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+hash = "605fe60f2ada4333e88ec2fa66cb57d0635292d83eee8d1ad40f2485d72ef013"
 metafile = true
 
 [[files]]
@@ -873,6 +893,11 @@ metafile = true
 [[files]]
 file = "mods/linkart-refabricated.pw.toml"
 hash = "d3f594ed5e00fb7d16979fb2dfef853a9d3c2f91605574aad7d0b1513bd92fb2"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
 
 [[files]]
@@ -1021,6 +1046,11 @@ hash = "37961ef79215d8535a9e199471ee621e22f7b5d124b888f57584bb8ac0983e6f"
 metafile = true
 
 [[files]]
+file = "mods/quickbench.pw.toml"
+hash = "597a014fb222612e960c47fec6e8ddb97c29ea72e72468a03dec782f1a5dbe5e"
+metafile = true
+
+[[files]]
 file = "mods/random-bone-meal-flowers.pw.toml"
 hash = "91febd4f10e98e150904e2ff1d5d35b3b5e29f27d4392b9f4b3d3619bb05fef8"
 metafile = true
@@ -1028,6 +1058,11 @@ metafile = true
 [[files]]
 file = "mods/realistic-bees.pw.toml"
 hash = "ca96b1df5aae1f8eb76b4fa3e3e6d9e047968cb84f1b73fcd3a4b12e613771b8"
+metafile = true
+
+[[files]]
+file = "mods/recipecooldown.pw.toml"
+hash = "43fbc9b70f49998be45314b9b557e925988825a204190be01ccbae5cc2df74df"
 metafile = true
 
 [[files]]
@@ -1053,6 +1088,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "a9fbf104220ee025e339c1975856807e8e4ecd2e2cc5b3ce2d7dff7a463b523e"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
 metafile = true
 
 [[files]]
@@ -1141,6 +1181,11 @@ hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
 metafile = true
 
 [[files]]
+file = "mods/terrablenderfix.pw.toml"
+hash = "3c081ed06a45b62d50535b281af8a3db1234e677c391a81120a5fa13860be8ba"
+metafile = true
+
+[[files]]
 file = "mods/terralith-biome-saplings.pw.toml"
 hash = "3789db85e98bd8eae4b768b8ec142380d467ddb09479c6706c2d33afd9428b61"
 metafile = true
@@ -1173,6 +1218,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "7b9d8b2cd26fa320b7d40b0c68b85f3ae0c1516f896239bf5d9ede1f90761be1"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "8f1383e1a3bf8c85331222270658608102656ab6d0d5f4274a34a6b0fc95b6db"
 metafile = true
 
 [[files]]
