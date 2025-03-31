@@ -546,10 +546,6 @@ hash = "d239ba7974d239c56de21e80095410f9afd9f466a36fd247f83a1a5686d14790"
 metafile = true
 
 [[files]]
-file = "mods/PolyMc-5.7.0-rev.a3eaae6+1.21.jar"
-hash = "d12fb1570395226c9648d6aab2ffac138a71cef0e3666e02a18e83755aef173d"
-
-[[files]]
 file = "mods/almanac.pw.toml"
 hash = "208a52276bf3af6ffd30b032b5954269bc30513053c279e7255cc167c38e5d5c"
 metafile = true
