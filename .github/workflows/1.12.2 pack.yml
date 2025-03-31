@@ -1,9 +1,12 @@
-name: Build and Push Docker Image
+name: 1.12.2 Pack - Build and Push Docker Image
 
 on:
   push:
     branches:
       - main
+    paths:
+      - 1-12-2-pack/**
+      - .github/workflows/1.12.2 pack.yml
 
 permissions:
   contents: read
