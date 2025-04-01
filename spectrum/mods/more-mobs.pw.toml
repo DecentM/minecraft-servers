@@ -1,6 +1,6 @@
 name = "More Mobs"
-filename = "more_mobs-v1.5.4-mc1.14x-1.21x-mod.jar"
-side = "both"
+filename = "more-mobs.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/HJR6V0I2/versions/yZ3Dy1py/more_mobs-v1.5.4-mc1.14x-1.21x-mod.jar"

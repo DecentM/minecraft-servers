@@ -1,5 +1,5 @@
 name = "Data Loader"
-filename = "data-loader-1.1.6+1.21.jar"
+filename = "dataloader.jar"
 side = "server"
 
 [download]

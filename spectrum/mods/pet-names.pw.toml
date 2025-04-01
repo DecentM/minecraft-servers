@@ -1,5 +1,5 @@
 name = "Pet Names"
-filename = "petnames-1.21.1-3.5.jar"
+filename = "pet-names.jar"
 side = "server"
 
 [download]

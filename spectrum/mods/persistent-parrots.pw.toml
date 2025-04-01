@@ -1,6 +1,6 @@
 name = "Persistent Parrots"
-filename = "persistentparrots-1.0+1.21.jar"
-side = "both"
+filename = "persistent-parrots.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/op2i7EQi/versions/6uIz9hl2/persistentparrots-1.0%2B1.21.jar"

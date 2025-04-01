@@ -1,5 +1,5 @@
 name = "Towns and Towers"
-filename = "t_and_t-neoforge-fabric-1.13.2.jar"
+filename = "towns-and-towers.jar"
 side = "server"
 
 [download]

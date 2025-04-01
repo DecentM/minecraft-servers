@@ -1,5 +1,5 @@
 name = "High-Speed Rail"
-filename = "highspeed-rail-0.9.0+1.21.1.jar"
+filename = "highspeed-rail.jar"
 side = "server"
 
 [download]

@@ -1,5 +1,5 @@
 name = "RecipeCooldown"
-filename = "RecipeCooldown-1.0.0.jar"
+filename = "recipecooldown.jar"
 side = "server"
 
 [download]

@@ -1,5 +1,5 @@
 name = "QuickBench"
-filename = "quickbench-4.4.2+mc.1.21.jar"
+filename = "quickbench.jar"
 side = "server"
 
 [download]

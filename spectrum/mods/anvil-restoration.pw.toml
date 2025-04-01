@@ -1,5 +1,5 @@
 name = "Anvil Restoration"
-filename = "anvilrestoration-1.21.1-2.4.jar"
+filename = "anvil-restoration.jar"
 side = "server"
 
 [download]

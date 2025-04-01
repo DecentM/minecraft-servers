@@ -1,5 +1,5 @@
 name = "MVS - Moog's Voyager Structures"
-filename = "mvs-4.2.8-1.21.jar"
+filename = "moogs-voyager-structures.jar"
 side = "server"
 
 [download]

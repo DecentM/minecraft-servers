@@ -1,5 +1,5 @@
 name = "LuckPerms"
-filename = "LuckPerms-Fabric-5.4.140.jar"
+filename = "luckperms.jar"
 side = "server"
 
 [download]

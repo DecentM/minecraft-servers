@@ -1,6 +1,6 @@
 name = "Explorify"
-filename = "Explorify v1.6.2 f10-48.jar"
-side = "both"
+filename = "explorify.jar v1.6.2 f10-48.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/HSfsxuTo/versions/yRSH0sWM/Explorify%20v1.6.2%20f10-48.jar"

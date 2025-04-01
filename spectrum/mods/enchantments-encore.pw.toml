@@ -1,6 +1,6 @@
 name = "Enchantments Encore"
-filename = "enchantments-encore-1.8.jar"
-side = "both"
+filename = "enchantments-encore.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/GD1QoExk/versions/G0Ilv4nD/enchantments-encore-1.8.jar"

@@ -1,5 +1,5 @@
 name = "CommandsSpy"
-filename = "commandsspy-1.1.0.jar"
+filename = "commandsspy.jar"
 side = "server"
 
 [download]

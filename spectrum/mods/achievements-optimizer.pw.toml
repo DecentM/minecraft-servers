@@ -1,5 +1,5 @@
 name = "Achievements Optimizer"
-filename = "AchievementOptimizer-fabric-1.21.1-2.0.0.jar"
+filename = "achievements-optimizer.jar"
 side = "server"
 
 [download]

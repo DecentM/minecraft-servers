@@ -1,5 +1,5 @@
 name = "Almanac"
-filename = "almanac-1.21.x-fabric-1.0.2.jar"
+filename = "almanac.jar"
 side = "server"
 
 [download]

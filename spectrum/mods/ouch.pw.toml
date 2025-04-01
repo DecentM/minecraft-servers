@@ -1,5 +1,5 @@
 name = "Ouch!"
-filename = "ouch-1.1.0+1.21.jar"
+filename = "ouch.jar"
 side = "server"
 
 [download]

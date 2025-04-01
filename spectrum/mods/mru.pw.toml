@@ -1,6 +1,6 @@
 name = "M.R.U"
-filename = "MRU-1.0.8+1.21+fabric.jar"
-side = "both"
+filename = "mru.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/AUJQDzqR/MRU-1.0.8%2B1.21%2Bfabric.jar"

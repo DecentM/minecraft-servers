@@ -1,6 +1,6 @@
 name = "Stellarity"
-filename = "Stellarity-3.0.6.jar"
-side = "both"
+filename = "stellarity.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/bZgeDzN8/versions/U1siAvaG/Stellarity-3.0.6.jar"

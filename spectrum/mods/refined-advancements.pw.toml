@@ -1,6 +1,6 @@
 name = "Refined Advancements"
-filename = "refined-advancements-1.0.4a.jar"
-side = "both"
+filename = "refined-advancements.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/60PfR426/versions/lvoz36w2/refined-advancements-1.0.4a.jar"

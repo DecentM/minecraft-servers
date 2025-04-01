@@ -1,5 +1,5 @@
 name = "Polymer Patch for CC:Tweaked"
-filename = "cc-tweaked-polymer-patch-1.115.1.0+1.21.1.jar"
+filename = "cc-polymer.jar"
 side = "server"
 
 [download]

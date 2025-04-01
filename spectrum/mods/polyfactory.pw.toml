@@ -1,5 +1,5 @@
 name = "PolyFactory"
-filename = "polyfactory-0.4.3+1.21.1.jar"
+filename = "polyfactory.jar"
 side = "server"
 
 [download]

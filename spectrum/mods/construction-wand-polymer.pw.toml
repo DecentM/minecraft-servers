@@ -1,5 +1,5 @@
 name = "Construction Wand (Polymer Port)"
-filename = "constructionwand-1.0.5+1.21-polymer.jar"
+filename = "construction-wand-polymer.jar"
 side = "server"
 
 [download]

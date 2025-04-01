@@ -1,6 +1,6 @@
 name = "Remove Terralith Intro Message"
-filename = "remove-terralith-intro-message-1.1.jar"
-side = "both"
+filename = "remove-terralith-intro-message.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/sk4iFZGy/versions/Ad77N3iX/remove-terralith-intro-message-1.1.jar"

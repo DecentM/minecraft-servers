@@ -1,6 +1,6 @@
 name = "Blooming Biosphere"
-filename = "blooming-biospshere-v1.1.6.jar"
-side = "both"
+filename = "blooming-biosphere.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ds9FyUc7/versions/WcsKmqxW/blooming-biospshere-v1.1.6.jar"

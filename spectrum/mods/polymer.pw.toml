@@ -1,5 +1,5 @@
 name = "Polymer"
-filename = "polymer-bundled-0.9.18+1.21.1.jar"
+filename = "polymer.jar"
 side = "server"
 
 [download]

@@ -1,5 +1,5 @@
 name = "TerraBlenderFix"
-filename = "terrablenderfix-fabric-1.21.1-0.0.1.jar"
+filename = "terrablenderfix.jar"
 side = "server"
 
 [download]

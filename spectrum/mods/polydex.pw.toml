@@ -1,5 +1,5 @@
 name = "Polydex"
-filename = "polydex-1.2.5+1.21.1.jar"
+filename = "polydex.jar"
 side = "server"
 
 [download]

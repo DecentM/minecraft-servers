@@ -1,5 +1,5 @@
 name = "Cristel Lib"
-filename = "cristellib-fabric-1.2.8.jar"
+filename = "cristel-lib.jar"
 side = "server"
 
 [download]

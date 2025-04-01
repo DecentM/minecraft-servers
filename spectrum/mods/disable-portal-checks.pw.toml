@@ -1,5 +1,5 @@
 name = "Disable Portal Checks"
-filename = "disableportalchecks-1.0.0.jar"
+filename = "disable-portal-checks.jar"
 side = "server"
 
 [download]

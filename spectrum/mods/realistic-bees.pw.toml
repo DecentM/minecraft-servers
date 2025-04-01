@@ -1,6 +1,6 @@
 name = "Realistic Bees"
-filename = "realisticbees-1.21.1-4.1.jar"
-side = "both"
+filename = "realistic-bees.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/tG6HkcWx/versions/dZl0KxL7/realisticbees-1.21.1-4.1.jar"

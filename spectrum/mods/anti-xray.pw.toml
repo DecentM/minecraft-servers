@@ -1,5 +1,5 @@
 name = "AntiXray"
-filename = "antixray-fabric-1.4.6+1.21.1.jar"
+filename = "anti-xray.jar"
 side = "server"
 
 [download]

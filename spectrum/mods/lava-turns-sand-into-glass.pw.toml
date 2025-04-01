@@ -1,5 +1,5 @@
 name = "Lava Turns Sand into Glass"
-filename = "lavasand-1.21.1-fabric-2.jar"
+filename = "lava-turns-sand-into-glass.jar"
 side = "server"
 
 [download]

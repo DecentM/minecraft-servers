@@ -1,6 +1,6 @@
 name = "qrafty's Japanese Villages"
-filename = "qraftys-japanese-villages-2.2.jar"
-side = "both"
+filename = "qraftys-japanese-villages.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/6vWz8dzn/versions/DZvNsLNf/qraftys-japanese-villages-2.2.jar"

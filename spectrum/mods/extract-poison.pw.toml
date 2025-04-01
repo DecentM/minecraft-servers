@@ -1,5 +1,5 @@
 name = "Extract Poison"
-filename = "extractpoison-1.21.1-3.5.jar"
+filename = "extract-poison.jar"
 side = "server"
 
 [download]

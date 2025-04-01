@@ -1,6 +1,6 @@
 name = "Spellbound Weapons"
-filename = "spellbound-weapons-v4.1.0c.jar"
-side = "both"
+filename = "spellbound-weapons.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/egyqODDj/versions/A6hR4XOD/spellbound-weapons-v4.1.0c.jar"

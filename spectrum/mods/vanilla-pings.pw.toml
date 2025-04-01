@@ -1,5 +1,5 @@
 name = "Vanilla Pings"
-filename = "vanillapings-1.21.x-v1.10.jar"
+filename = "vanilla-pings.jar"
 side = "server"
 
 [download]

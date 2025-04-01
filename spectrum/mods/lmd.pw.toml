@@ -1,5 +1,5 @@
 name = "Let Me Despawn"
-filename = "letmedespawn-1.21.x-fabric-1.5.0.jar"
+filename = "lmd.jar"
 side = "server"
 
 [download]

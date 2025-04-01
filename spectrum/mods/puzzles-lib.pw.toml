@@ -1,6 +1,6 @@
 name = "Puzzles Lib"
-filename = "PuzzlesLib-v21.1.33-1.21.1-Fabric.jar"
-side = "both"
+filename = "puzzles-lib.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/QAGBst4M/versions/dPt39j5K/PuzzlesLib-v21.1.33-1.21.1-Fabric.jar"

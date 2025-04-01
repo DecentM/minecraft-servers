@@ -1,5 +1,5 @@
 name = "TT20 (TPS Fixer)"
-filename = "tt20-0.7.1+mc1.21.jar"
+filename = "tt20.jar"
 side = "server"
 
 [download]

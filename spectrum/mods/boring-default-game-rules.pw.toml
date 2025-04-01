@@ -1,6 +1,6 @@
 name = "Boring Default Game Rules"
-filename = "boring_default_game_rules-1.2.1+1.21.1.jar"
-side = "both"
+filename = "boring-default-game-rules.jar"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/kHR1aAVN/versions/4cRPF0s7/boring_default_game_rules-1.2.1%2B1.21.1.jar"
