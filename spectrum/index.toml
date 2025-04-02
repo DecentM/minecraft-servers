@@ -414,7 +414,7 @@ hash = "986573e2d506b09609b4e0f11915230e5725ef64b56249656a208001e93e4d1f"
 
 [[files]]
 file = "config/spark/config.json"
-hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+hash = "230ef74f58b4ebfb809cc474e881be3462ede61d56a86437e935b4a3a1ac99f3"
 
 [[files]]
 file = "config/sparsestructures.json5"
