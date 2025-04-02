@@ -945,11 +945,6 @@ hash = "0ea672f78605a467729274e469f37aa208329c1ce82fa6f8f2fe300ccbb05630"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "88407116e66a79406a6d82820818645cca2e6c1173deb51104ddba9719f71f8e"
-metafile = true
-
-[[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "0549fc456e9b8dcff95cda5673d497f6de6b1067deb28293289b1dcde825ffef"
 metafile = true
