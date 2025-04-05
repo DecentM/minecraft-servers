@@ -1,6 +1,6 @@
 name = "YUNG's API"
 filename = "yungs-api.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/kWoI0jki/YungsApi-1.21.1-Fabric-5.1.4.jar"

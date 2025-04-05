@@ -1,6 +1,6 @@
 name = "FerriteCore"
 filename = "ferrite-core.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uXXizFIs/versions/bwKMSBhn/ferritecore-7.0.2-hotfix-fabric.jar"

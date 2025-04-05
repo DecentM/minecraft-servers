@@ -1,6 +1,6 @@
 name = "Faster Random"
 filename = "faster-random.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/RfFxanNh/versions/BbFqiKvi/fasterrandom-5.1.0.jar"
