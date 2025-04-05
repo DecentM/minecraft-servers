@@ -6,7 +6,7 @@ _version = 3
 	generationBoundsZ = 0
 	#
 	# Defines the distance the player will receive updates around.
-	realTimeUpdateDistanceRadiusInChunks = 12
+	realTimeUpdateDistanceRadiusInChunks = 0
 	#
 	# Prefix of the level keys sent to the clients.
 	# If the mod is running behind a proxy, each backend should use a unique value.
@@ -252,7 +252,7 @@ _version = 3
 		# CHAT 
 		# LOG 
 		# DISABLED
-		showGenerationProgress = "OVERLAY"
+		showGenerationProgress = "LOG"
 		#
 		# How often should the distant generator progress be displayed?
 		generationProgressDisplayIntervalInSeconds = 5
@@ -265,7 +265,7 @@ _version = 3
 		#  outside the vanilla render distance? 
 		# Depending on the generator mode, this will import existing chunks 
 		# and/or generating missing chunks.
-		enableDistantGeneration = false
+		enableDistantGeneration = true
 
 [client]
 	#
