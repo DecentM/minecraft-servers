@@ -1,6 +1,6 @@
 name = "YetAnotherConfigLib (YACL)"
 filename = "yacl.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/equv2TRU/yet_another_config_lib_v3-3.6.6%2B1.21.1-fabric.jar"

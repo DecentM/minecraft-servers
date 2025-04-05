@@ -1,6 +1,6 @@
 name = "CC: Tweaked"
 filename = "cc-tweaked.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/gu7yAYhd/versions/MjqQtzUp/cc-tweaked-1.21.1-fabric-1.115.1.jar"

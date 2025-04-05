@@ -1,12 +1,11 @@
 name = "spectrum"
 author = "DecentM"
-version = "1.0.0"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e2ff2ccc9033a952569ff6e293e1ec3e416af413ea04033cf3fb9823926b3eb8"
 
 [versions]
 fabric = "0.16.10"
@@ -14,3 +13,4 @@ minecraft = "1.21.1"
 
 [options]
 datapack-folder = "datapacks"
+no-internal-hashes = true

@@ -1,6 +1,6 @@
 name = "Hopo Better Ruined Portals"
 filename = "hopo-better-ruined-portals.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/hIpLSyga/versions/vH0BWeDm/HopoBetterRuinedPortals-%5B1.21.1-1.21.3%5D-1.4.4.jar"

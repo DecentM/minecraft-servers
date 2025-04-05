@@ -1,7 +1,7 @@
-hideOverlays = "ALL"
-rgbProgress = false
+hideOverlays = "RELOADING"
+rgbProgress = true
 blockOverlay = false
-miniRender = true
+miniRender = false
 enableScissor = false
 type = "PROGRESS"
 reloadText = "Edit in config!"
