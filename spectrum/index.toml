@@ -173,6 +173,10 @@ file = "config/cullleaves.json"
 hash = "6596cbe9453cc9cf69b4addfb02fe9d1501ffc9254ac047d9cd7a23bc6ce7dcc"
 
 [[files]]
+file = "config/customclientbrand.json"
+hash = "a4a42987a0d26ec7aca88cf239fef399892174c44a749b3c348b343f4019eec1"
+
+[[files]]
 file = "config/cyclepaintings.json5"
 hash = "6e90cdb4f40e00a310741ba15682d4b92d1ec288219ab9533d067ed7d1c2e11d"
 
@@ -306,11 +310,11 @@ hash = "ea2aa713ff2c269597971cbd876b332c3c775e0648f54e08c01bd4786ae9343a"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "274edc4255a42636e21d2abe1572849aa7b856810118db2d89836a095e0224ab"
+hash = "e4ca93b48ed1ac8591813bff0a40be6a25c48ed835674e7025c85b40d2cdd4e6"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
-hash = "5c98fc6084e84b254dd068bd46a071063e027ff6f058c5e7e40429fcdee9e213"
+hash = "34386d8d980b2e6d4ef7f1fc502bf8eab1e9a963ac3b8c782f181bee75031691"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -638,7 +642,7 @@ hash = "068283c73e244cd53dd6503f1c3a4603cc14db412e2572f1c1063ee5d1306558"
 
 [[files]]
 file = "config/travelers-journal/travelers_journal.md"
-hash = "48c21f8c81e74a9413d1188519a3bb6fab0ad0b2d587cc439d593871233cab85"
+hash = "a0b4752a84b9d103d630ba3c1dbd823e71da2a30473fc58bc7d48c9789bd84bb"
 
 [[files]]
 file = "config/tt20/block_entity_mask.json"
@@ -917,6 +921,11 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "26c6ac69421c2bf47c8c4596b5a6499c54160d440a8191deb8e7a063806e634c"
+metafile = true
+
+[[files]]
+file = "mods/custom-client-brand.pw.toml"
+hash = "3672c5e24f9b825c460007b746a43e3224797f7121d5836f8f6e543fd7c63045"
 metafile = true
 
 [[files]]
@@ -1417,6 +1426,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "502c25d209d3ea63bb17dcdd035ced3e6974647b2869797144ad0d659bb41e4b"
+metafile = true
+
+[[files]]
+file = "mods/secret-spectator.pw.toml"
+hash = "1c7f4beb66d5b76aaeba140bcaa8dbc9d2e12e822145aa7c6e34cb03d5f4532a"
 metafile = true
 
 [[files]]
