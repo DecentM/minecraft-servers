@@ -249,6 +249,10 @@ file = "config/fancymenu/assets/etu-logo.png"
 hash = "6a1abb1d3f59762694b27a1ffd1f9e5f2ee3f3341a0d5b2c41ad98b5e52b12f7"
 
 [[files]]
+file = "config/fancymenu/assets/loading.jpg"
+hash = "663508055de0074813d345ef141591470bb85cbfb6f787d87014be4ea44e56ff"
+
+[[files]]
 file = "config/fancymenu/assets/spectrum.png"
 hash = "d8f87b27450c6429b320031029d135f0cef97a25f163f3ec19e202d0ee75ccb0"
 
@@ -270,7 +274,7 @@ hash = "cd494fad2e50193ab759a3fb8c5679766d57f9db1e4025db43511089d37debdf"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "2602336dc4f53a22dc4a18064e1b959c20d2c57fb2d04dcea80e52c4f183b2d7"
+hash = "aaf5f1a66267cbf6d2caa2e7ec724e9252171d9c529bdf51feb5c1ae3810afbe"
 
 [[files]]
 file = "config/fancymenu/customization/net.minecraft.class_8673class_9058_layout.txt"
@@ -314,7 +318,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "e6aac5f3ac9cfe2b343bcc8e1bca9b5b09507fb084ab3772c5e1c9877a2f1512"
+hash = "b7cd7b0a086de5a8b4fbb496cf2aeb28de85f24707aad17fabb1685650018f31"
 
 [[files]]
 file = "config/fancymenu/slideshows/spectrum-server/images/fb2025-04-05_20.38.02.png"
@@ -478,11 +482,11 @@ hash = "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387"
 
 [[files]]
 file = "config/mod-loading-screen/background.png"
-hash = "d56a05dfb40531b5439a5b47274f8bae4a7ab4823abfe2995def3e8405617beb"
+hash = "7709b1ff1bce333e7350fff8c56ab327ec890219bab4f25cac513260a6bb073f"
 
 [[files]]
 file = "config/mod-loading-screen/config.txt"
-hash = "7c7bd71468d8f6ef19d491ced2fd27fe393482774c5389ea401b11cf22281243"
+hash = "b467fb85d0d0a906f72b3f1e134dcd8e5bd92a08154296614a641aae72174c56"
 
 [[files]]
 file = "config/mod-loading-screen/icon.png"
@@ -630,7 +634,7 @@ hash = "068283c73e244cd53dd6503f1c3a4603cc14db412e2572f1c1063ee5d1306558"
 
 [[files]]
 file = "config/travelers-journal/travelers_journal.md"
-hash = "28424d91df19fef57b189859f5b57bfbe26e12b4e99733dbc6d50275fcf449db"
+hash = "d5232b490e42f50af10a628ba786885adadc5e328ead96637f32152fb1a4fae1"
 
 [[files]]
 file = "config/tt20/block_entity_mask.json"
