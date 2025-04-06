@@ -273,6 +273,10 @@ file = "config/fancymenu/customization/credits_and_attribution_screen_layout.txt
 hash = "cd494fad2e50193ab759a3fb8c5679766d57f9db1e4025db43511089d37debdf"
 
 [[files]]
+file = "config/fancymenu/customization/disconnected_screen_layout.txt"
+hash = "346a2090799c8e31e1b8be5b5d3125f0de0c00bf3ec791c6dc56fbb259b074dd"
+
+[[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
 hash = "aaf5f1a66267cbf6d2caa2e7ec724e9252171d9c529bdf51feb5c1ae3810afbe"
 
@@ -302,7 +306,7 @@ hash = "ea2aa713ff2c269597971cbd876b332c3c775e0648f54e08c01bd4786ae9343a"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "9d5439ffe79382584fd78281f3f9a48fdf5b24357a4bf12033e7b34b92f08a40"
+hash = "274edc4255a42636e21d2abe1572849aa7b856810118db2d89836a095e0224ab"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -318,7 +322,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "b7cd7b0a086de5a8b4fbb496cf2aeb28de85f24707aad17fabb1685650018f31"
+hash = "3727be67e61bca8d1724200170b701b8799a3fccf26e1a09185e8a566ec09cea"
 
 [[files]]
 file = "config/fancymenu/slideshows/spectrum-server/images/fb2025-04-05_20.38.02.png"
@@ -634,7 +638,7 @@ hash = "068283c73e244cd53dd6503f1c3a4603cc14db412e2572f1c1063ee5d1306558"
 
 [[files]]
 file = "config/travelers-journal/travelers_journal.md"
-hash = "d5232b490e42f50af10a628ba786885adadc5e328ead96637f32152fb1a4fae1"
+hash = "48c21f8c81e74a9413d1188519a3bb6fab0ad0b2d587cc439d593871233cab85"
 
 [[files]]
 file = "config/tt20/block_entity_mask.json"
@@ -828,6 +832,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "bcd1acb989f788bddba6c0c8a4a8d19f87e96a47a0d55005df6438fc8b57f243"
+metafile = true
+
+[[files]]
+file = "mods/celestial.pw.toml"
+hash = "4edfc4082480d7ea9da42d935cd935b95c007df1f13fabae6b3a21e6f3440523"
 metafile = true
 
 [[files]]
