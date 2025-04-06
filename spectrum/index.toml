@@ -621,6 +621,18 @@ file = "config/towns_and_towers/structure_rarity_new.json5"
 hash = "a737b58e90d9723f2367c728c6db203ae250600619f173ad49ce1f991c7aebbe"
 
 [[files]]
+file = "config/travelers-journal/config.txt"
+hash = "7e41665e736deb591a4417cece9a2f29c206258d916a96acaa5fbf8d76c07c54"
+
+[[files]]
+file = "config/travelers-journal/preview/index.html"
+hash = "b7eec7afd6f0559ecf66368548e96a9741a7f9217b13599109df317acb869dcf"
+
+[[files]]
+file = "config/travelers-journal/travelers_journal.md"
+hash = "e2d6f60ae2687eb6656e1657ac27c7840e4b70cae909e0e0c11d7b571038dfda"
+
+[[files]]
 file = "config/tt20/block_entity_mask.json"
 hash = "ff334879cf2146f183ff4dd34dd8ef7860165e9f5bb1298689376ac95756a93b"
 
@@ -654,7 +666,7 @@ hash = "bd3c7cba512978e4d0f5632aed773b47d93e80e9243656fc092d6cc56ddc53e1"
 
 [[files]]
 file = "config/vanillapings/vanillapings.properties"
-hash = "a1e15a13fb3970577c3ee23ae377293a20b80eddd34dcb8e30a0d9117fdcbfc8"
+hash = "b19bee17ed3acbe9b5a8515335b7745a2ef6e37fe5d3f80965b6ecd13eb2eac5"
 
 [[files]]
 file = "config/villagernames.json5"
@@ -666,7 +678,7 @@ hash = "18ab3106d5743ecd0d55e07296c464c5def380370fa0ecb7f8c9822ebeb75512"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "5e8cfe961103cd516f0259112e9b2390809ce140cc282cfccd53afea4a4e1cc3"
+hash = "a2ba6cb4cdba1e24db226cd623cdd7f35448eb8a7eafe2e99ada1f45d822c14a"
 
 [[files]]
 file = "config/yacl.json5"
@@ -686,42 +698,42 @@ hash = "be0dabbe0bbd599cdb03321a0def0f3697cb972734857c8beeea6259e17cb0ac"
 
 [[files]]
 file = "datapacks/joshs-more-foods.pw.toml"
-hash = "7ad7e7e06a4c7f54226c7a806ad2503d347f84e4125d7aaa54a9214117a64a6e"
+hash = "385dbc02e59cb72190075ae356885336422089012f4d8df1fd4badb507382252"
 metafile = true
 
 [[files]]
 file = "datapacks/repurposed-structures-better-desert-temples-compat.pw.toml"
-hash = "d184b394e4f2033fb1119487b0453d48f032f579c1e9f997d0f23cb7369d7dcf"
+hash = "718e2cb04e28cd820009a9a392ec91b66b80e245a65b37951bb0525740625fe8"
 metafile = true
 
 [[files]]
 file = "datapacks/repurposed-structures-better-dungeons-compat.pw.toml"
-hash = "7eb564ad28701496eaa9c017a789dd937d2d1b08fb233b50e583c8335995ab6a"
+hash = "e27a325f0493c114ca2db242ef6795466c1e24e8ed554dbe310c41dbf891a665"
 metafile = true
 
 [[files]]
 file = "datapacks/repurposed-structures-better-jungle-temples.pw.toml"
-hash = "60338b54373cf9101113b417ee69b33a9f7e69604e0f6546fe4be86f244c5fdf"
+hash = "cd5e46318182f53ad1924d035a9eb6aafd4244c980852a3faa528c39f9e02478"
 metafile = true
 
 [[files]]
 file = "datapacks/repurposed-structures-better-nether-fortress-compat.pw.toml"
-hash = "5a35b559884dd71858f776c3b86716e6c4f3f027e872a72a1fbaa4b6b5828768"
+hash = "afdf2d13695e235dd7c4e19a4dffcef3b6261ad339e0a131da0d9080ad90bc86"
 metafile = true
 
 [[files]]
 file = "datapacks/repurposed-structures-better-ocean-monuments-compat.pw.toml"
-hash = "d08e4315a146e5ae5b45966e72f9dff09e21021b108c783b8d8a476295f33c31"
+hash = "2e46e5d771993da0dea1006860ccf0885079512cea34dac9ce18581f5ec2b903"
 metafile = true
 
 [[files]]
 file = "datapacks/repurposed-structures-better-witch-huts-compat.pw.toml"
-hash = "5bd8980b306b8a6f825e446dfe51b81c2b65829bb7d5074e6bb1f69ef82b61ca"
+hash = "62486c8b3cb14cf13e936558f6759595f7d38cbdf72f700e18cf61a0edc13d7a"
 metafile = true
 
 [[files]]
 file = "datapacks/stellarity-x-nullscape.pw.toml"
-hash = "d239ba7974d239c56de21e80095410f9afd9f466a36fd247f83a1a5686d14790"
+hash = "cb42db19696fcf15d6d037c216f509e75c6781dfec248ba56f62144b73edd71b"
 metafile = true
 
 [[files]]
@@ -1537,6 +1549,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "0a8739c14490ab81e330181aa3887120d8275fa36f72307cfa2257aa4cdef69e"
+metafile = true
+
+[[files]]
+file = "mods/travelers-journal.pw.toml"
+hash = "b69b46a748c8450a5b019180d38b0e8fafdf2056278177358fa62718f23cfd5e"
 metafile = true
 
 [[files]]
