@@ -860,6 +860,11 @@ hash = "1b6020d09d26a36965e7df1f7ae124e7d42abca78a37fd3e10f092987063c84c"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "37afd8a467e66273bf5a248b3b65f3deee7aca5b2f802e2d3d552559f5b93bdd"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "74020390802107b853a05d566d27575b32e642fb2fb8a1fb3897f7b9b5725e27"
 metafile = true
@@ -967,6 +972,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "d946383ce7deed05e4eba57bd271b6cf0ca9064831aa1d4c5c3ab6b123b3a316"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "d574183eb504c97513dd6f2578919fed7fb844a7f508c2093f56dc423a7aa16f"
 metafile = true
 
 [[files]]
@@ -1145,6 +1155,11 @@ hash = "225afdf610890261b9199bb6d93214e062012afd0b1cae240f00169919d24067"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "10c2dc7d6943819ef019674cb2513e6fcca4cc0a1acbe7bb967001fe8fc29a56"
+metafile = true
+
+[[files]]
 file = "mods/linkart-refabricated.pw.toml"
 hash = "39c41e19baba910afe867af06d27c4d274b691a890b61be686d3508d2028181a"
 metafile = true
@@ -1250,6 +1265,11 @@ hash = "c157564a7a5965a238c39552ccae1b192e1ceb87e556362039acee3046f1cafb"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "4cd1d20af04d9721709eb3869fa67d396006bb2f4d12f0858a0c5adb37ed67fa"
+metafile = true
+
+[[files]]
 file = "mods/persistent-parrots.pw.toml"
 hash = "3e45265c867267ebf36476ab513e927b05ce32a8a8f421dd8531c9459e132834"
 metafile = true
@@ -1282,6 +1302,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "62222f9bdc1a904dbca9b4d9843911e026c49bb72e05dca48b00082e7ec1368d"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "4f409bcfc9e9e05b5d79f5de5b5daf9d246b36d98be9e106bc379f5e0a4330d0"
 metafile = true
 
 [[files]]
@@ -1340,8 +1365,18 @@ hash = "75e7bad71bcd56da228e073d5e70fcecf54ffbb9b5bea672448dcb3b61389608"
 metafile = true
 
 [[files]]
+file = "mods/repacked.pw.toml"
+hash = "b6c1e28101ead26c7eed17845077ea20fb7eb820e23ad9739bca67d8f6c0005c"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "a96d2252ce5e8a591cd2b4544e171721cc61a88d8167aad3da7c4f2c28e32d2f"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "502cda5d0982027167074211a0fd1c7eff78de07916ac71e7881696698ca0c7b"
 metafile = true
 
 [[files]]
@@ -1708,3 +1743,7 @@ metafile = true
 file = "resourcepacks/vvi.pw.toml"
 hash = "3c294f001dfbb89ddca1906ef5ce0291473f380f974f90c4e6ba2cc75275e28a"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "1a09a1d77bde4872b8215839223d0120927cd11cae78e41154ad909dca5cb06e"
