@@ -6,6 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+hash = "a31463627e328e230ee5dc04d1314f0b36e89bf52d8811d630e1beaf38f440e4"
 
 [versions]
 fabric = "0.16.10"
@@ -13,4 +14,3 @@ minecraft = "1.21.1"
 
 [options]
 datapack-folder = "datapacks"
-no-internal-hashes = true
