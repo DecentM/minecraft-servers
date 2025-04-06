@@ -90,3 +90,30 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 net.minecraft.class_5522 {
 }
 
+me.shedaniel.clothconfig2.gui.ClothConfigScreen {
+}
+
+dev.isxander.controlify.gui.screen.ControllerCarouselScreen {
+}
+
+dev.isxander.yacl3.gui.YACLScreen {
+}
+
+foundationgames.enhancedblockentities.config.gui.screen.EBEConfigScreen {
+}
+
+traben.entity_texture_features.config.screens.ETFConfigScreenMain {
+}
+
+com.terraformersmc.modmenu.gui.ModMenuOptionsScreen {
+}
+
+yalter.mousetweaks.ConfigScreen {
+}
+
+io.wispforest.owo.config.ui.ConfigScreen {
+}
+
+io.gitlab.jfronny.libjf.config.impl.ui.tiny.TinyConfigScreen {
+}
+

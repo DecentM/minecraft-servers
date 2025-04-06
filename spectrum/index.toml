@@ -258,7 +258,7 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "927bee43479300a6cab98b2e84ee285592340f9bc7c8b2fc9e8252d38fc68f49"
+hash = "2da678e3eaeb4af307c4d2476aa1a0c7916cceec095a5092fb06f4e2aa369f87"
 
 [[files]]
 file = "config/fancymenu/customization/connect_screen_layout.txt"
@@ -274,7 +274,7 @@ hash = "2602336dc4f53a22dc4a18064e1b959c20d2c57fb2d04dcea80e52c4f183b2d7"
 
 [[files]]
 file = "config/fancymenu/customization/net.minecraft.class_8673class_9058_layout.txt"
-hash = "244b0a2f358f6be646ce22f8aa600f01c3b10cd4b3f71e05dba98f82baac106b"
+hash = "94b275ac5ab1d157bbdf0d7622b8d45ba364edcf97c535884887faa63bad59f0"
 
 [[files]]
 file = "config/fancymenu/customization/options_screen_layout.txt"
@@ -314,7 +314,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "cb729c4c1dbb16ee41c09ac44300727c52adf7fe450b39f83c1c29b0b1a736f9"
+hash = "e6aac5f3ac9cfe2b343bcc8e1bca9b5b09507fb084ab3772c5e1c9877a2f1512"
 
 [[files]]
 file = "config/fancymenu/slideshows/spectrum-server/images/fb2025-04-05_20.38.02.png"
