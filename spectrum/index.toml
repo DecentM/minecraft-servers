@@ -626,11 +626,11 @@ hash = "7e41665e736deb591a4417cece9a2f29c206258d916a96acaa5fbf8d76c07c54"
 
 [[files]]
 file = "config/travelers-journal/preview/index.html"
-hash = "b7eec7afd6f0559ecf66368548e96a9741a7f9217b13599109df317acb869dcf"
+hash = "068283c73e244cd53dd6503f1c3a4603cc14db412e2572f1c1063ee5d1306558"
 
 [[files]]
 file = "config/travelers-journal/travelers_journal.md"
-hash = "e2d6f60ae2687eb6656e1657ac27c7840e4b70cae909e0e0c11d7b571038dfda"
+hash = "28424d91df19fef57b189859f5b57bfbe26e12b4e99733dbc6d50275fcf449db"
 
 [[files]]
 file = "config/tt20/block_entity_mask.json"
@@ -1104,11 +1104,6 @@ metafile = true
 [[files]]
 file = "mods/highspeed-rail.pw.toml"
 hash = "70e172301e92ab5eb3fafb7f3e5490434633d2571fb5ba56b9cea379d2ec9aa3"
-metafile = true
-
-[[files]]
-file = "mods/holodisplays.pw.toml"
-hash = "db5fb5f0f705256415909df76e18574da98b5bd811817e333f030970df54e268"
 metafile = true
 
 [[files]]
