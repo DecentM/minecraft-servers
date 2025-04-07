@@ -1,6 +1,3 @@
-# Host profiles - https://hangar.papermc.io/MCMDEV/hostprofiles
-https://github.com/MCMDEV/hostprofiles/releases/download/v0.1.3/hostprofiles-velocity-0.1.3-SNAPSHOT.jar
-
 # Liberty Bans - https://hangar.papermc.io/A248/LibertyBans
 https://hangarcdn.papermc.io/plugins/A248/LibertyBans/versions/1.1.0/PAPER/LibertyBans_Release-1.1.0.jar
 

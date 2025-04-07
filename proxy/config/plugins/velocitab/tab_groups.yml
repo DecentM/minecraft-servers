@@ -7,9 +7,7 @@
 
 groups:
 - name: default
-  headers:
-  - <rainbow:!2>Spectrum</rainbow>
-  - ""
+  headers: []
   footers:
   - <gray>%players_online%/%max_players_online% players</gray>
   format: <gray>%prefix%%username%</gray>
@@ -17,8 +15,8 @@ groups:
     prefix: ''
     suffix: ''
   servers:
-  - fallback
-  - survival
+  - ${CFG_SERVER_TRY_1}
+  - ${CFG_SERVER_TRY_2}
   sorting_placeholders:
   - '%role_weight%'
   - '%username_lower%'

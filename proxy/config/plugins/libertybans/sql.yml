@@ -38,7 +38,7 @@ synchronization:
    # NONE - no synchronization
    # ANSI_SQL - uses your database to synchronize punishments (called ANSI_SQL because it uses standard SQL)
    # Other options may be added in the future, upon feature request.
-  mode: 'NONE'
+  mode: 'ANSI_SQL'
 
  # All punishments are stored fully in the database, with one exception.
  # Mutes are cached for a small period of time so that players' chatting does not 
@@ -77,11 +77,11 @@ timeouts:
 
  # Authentication details for remote databases: used for MariaDB, MySQL, PostgreSQL, and CockroachDB.
 auth-details:
-  host: 'localhost'
-  port: 3306
-  password: 'defaultpass'
-  user: 'defaultuser'
-  database: 'bans'
+  host: '${CFG_BANS_DB_HOST}'
+  port: ${CFG_BANS_DB_PORT}
+  password: '${CFG_BANS_DB_PASSWORD}'
+  user: '${CFG_BANS_DB_USER}'
+  database: '${CFG_BANS_DB_NAME}'
 
  # The values in this section only apply when using a MariaDB or MySQL database
 mariadb:
@@ -108,7 +108,7 @@ use-traditional-jdbc-url: false
  # How large should the connection pool be?
  # A thread pool of similar size is derived from the connection pool size.
  # For most servers, the default option is suitable.
-connection-pool-size: 6
+connection-pool-size: 2
  # What RDMS vendor will you be using?
  # Available options:
  # 'HSQLDB' - Local HyperSQL database. No additional requirements.
@@ -116,4 +116,4 @@ connection-pool-size: 6
  # 'MYSQL' - Requires an external MySQL database. At least MySQL 8.0 is required.
  # 'POSTGRES' - Requires an external PostgreSQL database. At least PostgreSQL 12 is required.
  # 'COCKROACH' - Requires an external CockroachDB database. The latest CockroachDB is required. Warning: this option is strictly experimental.
-rdms-vendor: 'HSQLDB'
+rdms-vendor: 'POSTGRES'

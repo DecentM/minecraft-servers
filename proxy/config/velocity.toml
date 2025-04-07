@@ -2,15 +2,15 @@
 config-version = "2.7"
 
 # What port should the proxy be bound to? By default, we'll bind to all addresses on port 25565.
-bind = "0.0.0.0:25565"
+bind = "${CFG_BIND_HOST}:${CFG_BIND_PORT}"
 
 # What should be the MOTD? This gets displayed when the player adds your server to
 # their server list. Only MiniMessage format is accepted.
-motd = "All high availability internal servers are down.\nTry again later?"
+motd = "${CFG_MOTD}"
 
 # What should we display for the maximum number of players? (Velocity does not support a cap
 # on the number of players online.)
-show-max-players = 12
+show-max-players = ${CFG_SHOW_MAX_PLAYERS}
 
 # Should we authenticate players with Mojang? By default, this is on.
 online-mode = true
@@ -38,7 +38,7 @@ player-info-forwarding-mode = "modern"
 
 # If you are using modern or BungeeGuard IP forwarding, configure a file that contains a unique secret here.
 # The file is expected to be UTF-8 encoded and not empty.
-forwarding-secret-file = "forwarding.secret"
+forwarding-secret-file = "${CFG_FORWARDING_SECRET_FILE}"
 
 # Announce whether or not your server supports Forge. If you run a modded server, we
 # suggest turning this on.
@@ -77,13 +77,13 @@ enable-player-address-logging = false
 [servers]
 # Configure your servers here. Each key represents the server's name, and the value
 # represents the IP address of the server to connect to.
-survival = "100.96.235.54:25565"
-fallback = "127.0.0.1:25566"
+survival = "${CFG_SERVER_SURVIVAL_HOST}:${CFG_SERVER_SURVIVAL_PORT}"
+fallback = "${CFG_SERVER_FALLBACK_HOST}:${CFG_SERVER_FALLBACK_PORT}"
 
 # In what order we should try servers when a player logs in or is kicked from a server.
 try = [
-    "survival",
-    "fallback"
+    "${CFG_SERVER_TRY_1}",
+    "${CFG_SERVER_TRY_2}",
 ]
 
 [forced-hosts]
