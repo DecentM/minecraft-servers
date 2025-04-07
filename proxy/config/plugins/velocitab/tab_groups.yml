@@ -1,0 +1,31 @@
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃     Velocitab Tab Groups     ┃
+# ┃  by William278 & AlexDev03   ┃
+# ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+# ┣╸ Information: https://william278.net/project/velocitab
+# ┗╸ Documentation: https://william278.net/docs/velocitab
+
+groups:
+- name: default
+  headers:
+  - <rainbow:!2>Spectrum</rainbow>
+  - ""
+  footers:
+  - <gray>%players_online%/%max_players_online% players</gray>
+  format: <gray>%prefix%%username%</gray>
+  nametag:
+    prefix: ''
+    suffix: ''
+  servers:
+  - fallback
+  - survival
+  sorting_placeholders:
+  - '%role_weight%'
+  - '%username_lower%'
+  placeholder_replacements: {}
+  collisions: false
+  header_footer_update_rate: 1000
+  format_update_rate: 1000
+  nametag_update_rate: 1000
+  placeholder_update_rate: 1000
+  only_list_players_in_same_server: false
