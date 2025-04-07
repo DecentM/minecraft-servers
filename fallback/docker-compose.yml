@@ -1,0 +1,18 @@
+services:
+  fallback:
+    tty: true
+    stdin_open: true
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      MEMORY: "4G"
+      EULA: "TRUE"
+      DIFFICULTY: "peaceful"
+      SNOOPER_ENABLED: "false"
+      SPAWN_PROTECTION: "256"
+      VIEW_DISTANCE: "16"
+      MODE: "adventure"
+      SERVER_PORT: "25566"
+      LEVEL_TYPE: "flat"
+    network_mode: "host"

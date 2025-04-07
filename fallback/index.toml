@@ -1,0 +1,288 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/FabricProxy-Lite.toml"
+hash = "fbfd40935d6694d95d06f2f78be6e683100167eef12b83be6ce3dfff2bfb153a"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/async.toml"
+hash = "bd2880c7ad27a66e0056f44cf1efa2b7a8bcc520de3fed9196b5092eda3fc63c"
+
+[[files]]
+file = "config/boring_default_game_rules/config.json"
+hash = "bc81c06e0d558566caac5c54ca537918abcc8aaaf9dbb50370b56e973b9188ed"
+
+[[files]]
+file = "config/boring_default_game_rules/config.schema.json"
+hash = "711d7e2de993b67494708fe6069ef32f2bda9e5325afd16d5d1473787b88ee8b"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "6576862af1c25e392136d9abcce68f8abc7a68f1ebcd2abce67706398217fab4"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
+file = "config/chunkyborder/config.json"
+hash = "e5fc098dcbb4931738d4a90a0f94fd21fd5828fde1515565903a6135dedf3578"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "f4b9b1803e32963acd46375f0ab9fad20d646bf5d425f25b5addfd8c3a6bb87f"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192"
+
+[[files]]
+file = "config/timeoutout.json"
+hash = "09b5941acf87fd7182725fe3eb156e3f58618ddd1685613b377f9e17fdc95d2a"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "6a1f8b596c6560eccb2c2d4f596cbcc78502b8889dac1526da6b7bae57634f1f"
+
+[[files]]
+file = "mods/async.pw.toml"
+hash = "3ff3e21e9d125fe7f5caf302f40945e68a37416cc7f617c755b8410906ffadfc"
+metafile = true
+
+[[files]]
+file = "mods/boring-default-game-rules.pw.toml"
+hash = "04cfb974642d9e3bd1a2b46fe64c8a3f5248a4cabbc24850909a8ff38fbf0b45"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "10eac9fc9e4aacf060a6c9d19ff89319671ab2217dfa2ea82986b916f74d8aaa"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1be7271038425c264885477a25a1d35a64a9063d45157bc5b6946ab401c37a82"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "3cf683a3d4f771b2bf392755476f1705921611d3666ea461b07780615e296795"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "d493b87ee8e8fd2fa5d7d05f72050f2b47b2a288d09a88206ac13b643717d777"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "c3205d336c3c1b2487fbbe53933bd3fdb69951f45cc9cfecf171449128ad0518"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "f6d3554704a7256acaeef7c9d3040985cd4f6cfcc860391bba8e997df9b2994b"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+hash = "ff9e99343b723871584736fc1ba8e8316bff47bc7ed28e822597e6d832756c4c"
+metafile = true
+
+[[files]]
+file = "mods/frostbytes-skip-server-movement-check.pw.toml"
+hash = "4bfd49f6cb6a3e79dee23703cb864e1b6214bc1e5eb9f5ab313e8594cc7f5da4"
+metafile = true
+
+[[files]]
+file = "mods/headfix.pw.toml"
+hash = "249897803ae004a1346517ad500ad0671c4ebd0af6d4e2cf0b98a68e1df0fc9d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ea95c42dbe978b1f524dffd6e5ed5e314269b78f013d537bce37a27a44af83f6"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ff5688c10b23d286bc8363bff4e7d8ebf8d2f27ad00e04562c91668f59675036"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "f4432e43dbd5e478b367efd3217e2f12d0a9b4405cf78b342e79c37c099d369c"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "bf516366c84ef63eb812172bf1d3362515eef5da4182aa78a88268b3dd99cfc2"
+metafile = true
+
+[[files]]
+file = "mods/secret-spectator.pw.toml"
+hash = "1c7f4beb66d5b76aaeba140bcaa8dbc9d2e12e822145aa7c6e34cb03d5f4532a"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "a71a6fb4904b3ef93bf0e8c2ef548be9be4a6cfae7eb155ec49714e7c9cb9fac"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "6e07f48570204a29d7e7273c39e0f70f3373bc8ee1d68bdf261ac1531fcb106b"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "ec8c958b061b394e9e449733ce64e15ad1fd79289731e9c66d9cd06b08f053ec"
+metafile = true
+
+[[files]]
+file = "world/level.dat"
+hash = "05a8132c626977c24af717b34318cf3d4176b961a74c147c74408fe68a1091ba"
+
+[[files]]
+file = "world/level.dat_old"
+hash = "247ef7639bf676d3a2b1bd42ae5cdfde613e2e23d1290a77f2779541d2b8530c"
+
+[[files]]
+file = "world/poi/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.-1.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.-1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.-1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.-2.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.-2.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.-2.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.-2.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.0.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.0.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.1.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/poi/r.1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "world/region/r.-1.-1.mca"
+hash = "5677a6f18505cbc8226e46a6dc5165d203b8c75d32a6e25d54705983b7c0dac5"
+
+[[files]]
+file = "world/region/r.-1.-2.mca"
+hash = "7e67e67110701ddba94d1c25d35f48f85211879801d8776f34a035b41b7ad892"
+
+[[files]]
+file = "world/region/r.-1.0.mca"
+hash = "49f87f2e5a4695bbad913aeab2fa1629824c488fb8068b8494c3d246206fcf58"
+
+[[files]]
+file = "world/region/r.-1.1.mca"
+hash = "050d58e7ea1072a6a700399c1ac68cd507dc354f15b96399dd3a10586c8cb5b2"
+
+[[files]]
+file = "world/region/r.-2.-1.mca"
+hash = "0b3045f6bcb4474e133591ee432a596ed19ca0cb58658c5f20a67e3a2b9ec60d"
+
+[[files]]
+file = "world/region/r.-2.-2.mca"
+hash = "5ea3275264d986ecf9faf241114e809d6c35072f2e5fefc9a4f189db7be58aec"
+
+[[files]]
+file = "world/region/r.-2.0.mca"
+hash = "812231b84024afa0dfae83c68b85aba04737324b08a646ddbd42419ab06290b3"
+
+[[files]]
+file = "world/region/r.-2.1.mca"
+hash = "65a6815c1c15d18181727c17ade83885034c0fafaebe26115d5437b2cccdf8d5"
+
+[[files]]
+file = "world/region/r.0.-1.mca"
+hash = "c69c75ae7374f0b6d2e539f77e7eb28f7a2da079b0d10b984770f52a27584f51"
+
+[[files]]
+file = "world/region/r.0.-2.mca"
+hash = "546eec5c59f75c176bb79ee961ffc5d97e211834595b1e2005aaad0326fa2e1e"
+
+[[files]]
+file = "world/region/r.0.0.mca"
+hash = "8fd8bfe944fa6d216ea3274ab982dddf0a8cac7820a133905d69d86458fc4d71"
+
+[[files]]
+file = "world/region/r.0.1.mca"
+hash = "84c31aa9a70c87a78ccff2775a7f778f853f7234ac08ba0a5321a79ab93a1880"
+
+[[files]]
+file = "world/region/r.1.-1.mca"
+hash = "ff7e90d1a6b0eaaa36ea6b77b39b9c49ad61f94cfb97d3976074837b48c5d081"
+
+[[files]]
+file = "world/region/r.1.-2.mca"
+hash = "4286cd7e25e77684c7271036de6f19f1bfd8ef7dba9a943436d6dd7e63e9aaa0"
+
+[[files]]
+file = "world/region/r.1.0.mca"
+hash = "ade0837e3fa29e5f640f310cb0d01ebd1e7c382c28deb921685ae5f7999bf720"
+
+[[files]]
+file = "world/region/r.1.1.mca"
+hash = "54515d6977b284df42994cfcf604263645d583967771ca70b3ed82021742fc87"

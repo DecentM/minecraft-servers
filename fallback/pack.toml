@@ -1,0 +1,13 @@
+name = "fallback"
+author = "DecentM"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c86f1e91fd89282a80a5ec0719c92793e7d59b741fe4f5b461e37937002341bb"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"
