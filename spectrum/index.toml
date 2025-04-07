@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "68236897d7506c5f1486c97336120c17a2c3c2c022e153d6222ded75f7054484"
 
 [[files]]
+file = "config/FabricProxy-Lite.toml"
+hash = "dcdef5f3907bdd1b56602c7a939eb43ece709abbb467a3d0c22804f9b0aabf08"
+
+[[files]]
 file = "config/NoChatReports/NCR-Common.json"
 hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
 
@@ -678,7 +682,7 @@ hash = "bd3c7cba512978e4d0f5632aed773b47d93e80e9243656fc092d6cc56ddc53e1"
 
 [[files]]
 file = "config/vanillapings/vanillapings.properties"
-hash = "b19bee17ed3acbe9b5a8515335b7745a2ef6e37fe5d3f80965b6ecd13eb2eac5"
+hash = "b3049168c1b9d767c84b3470f65527fa31f0851b3ca76cc11179a0fd55e71aa7"
 
 [[files]]
 file = "config/villagernames.json5"
@@ -690,7 +694,7 @@ hash = "18ab3106d5743ecd0d55e07296c464c5def380370fa0ecb7f8c9822ebeb75512"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "a2ba6cb4cdba1e24db226cd623cdd7f35448eb8a7eafe2e99ada1f45d822c14a"
+hash = "204b46997ed7a8d7b48376e0136d135c2e169d060587641c62e5b5176b433631"
 
 [[files]]
 file = "config/yacl.json5"
@@ -1041,6 +1045,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "b608394a827783f18a0c73d111ffcf18deeba2c8af55b604b2e0fb4d277447a3"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "f6d3554704a7256acaeef7c9d3040985cd4f6cfcc860391bba8e997df9b2994b"
 metafile = true
 
 [[files]]
