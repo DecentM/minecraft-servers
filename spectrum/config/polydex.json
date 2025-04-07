@@ -14,12 +14,12 @@
       "polydex:progress": "ALWAYS",
       "polydex:name": "ALWAYS",
       "polyfactory:filled_amount": "ALWAYS",
-      "polydex:mod_source": "NEVER",
+      "polydex:mod_source": "ALWAYS",
       "polydex:armor": "ALWAYS",
       "polydex:raw_id": "NEVER",
       "polyfactory:machine_state": "ALWAYS",
       "polydex:effects": "ALWAYS",
-      "polydex:output": "NEVER",
+      "polydex:output": "ALWAYS",
       "polydex:health": "ALWAYS"
     }
   },
