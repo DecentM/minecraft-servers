@@ -1,0 +1,10 @@
+services:
+  proxy:
+    build:
+      context: .
+    environment:
+      MEMORY: "4G"
+    network_mode: "host"
+    volumes:
+      - ./config:/config
+      - ./server:/server

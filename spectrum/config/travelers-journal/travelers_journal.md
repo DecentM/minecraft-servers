@@ -51,6 +51,6 @@ You will find lots of new enchantments. To see what they do, see these sites:
 
 [page]
 **Trains**
-Sneak and right click a minecart to start a chain, then right click another minecart to create a link. Linked carts travel with each other, like a train!
+Sneak and right click a minecart with a chain, then do the same with another minecart to create a train! The second cart will follow the first.
 
 Place gravel under rails to make minecarts run at top speed.

@@ -1,0 +1,26 @@
+# Host profiles - https://hangar.papermc.io/MCMDEV/hostprofiles
+https://github.com/MCMDEV/hostprofiles/releases/download/v0.1.3/hostprofiles-velocity-0.1.3-SNAPSHOT.jar
+
+# Liberty Bans - https://hangar.papermc.io/A248/LibertyBans
+https://hangarcdn.papermc.io/plugins/A248/LibertyBans/versions/1.1.0/PAPER/LibertyBans_Release-1.1.0.jar
+
+# EpicGuard - https://hangar.papermc.io/4drian3d/EpicGuard
+https://github.com/4drian3d/EpicGuard/releases/download/7.6.0/EpicGuardVelocity-7.6.0.jar
+
+# Carbon - https://hangar.papermc.io/Vicarious/Carbon
+https://hangarcdn.papermc.io/plugins/Vicarious/Carbon/versions/3.0.0-beta.28/VELOCITY/carbonchat-velocity-3.0.0-beta.28.jar
+
+# ViaVersion - https://hangar.papermc.io/Syrent/VelocityReport
+https://hangarcdn.papermc.io/plugins/ViaVersion/ViaVersion/versions/5.3.1/PAPER/ViaVersion-5.3.1.jar
+
+# VelocityReport - https://hangar.papermc.io/Syrent/VelocityReport
+https://github.com/Syrent/VelocityReport/releases/download/3.11.8/VelocityReport.v3.11.8.jar
+
+# AntiHealthIndicator - https://hangar.papermc.io/Bram/AntiHealthIndicator
+https://hangarcdn.papermc.io/plugins/Bram/AntiHealthIndicator/versions/2.3.1/PAPER/AntiHealthIndicator-2.3.1.jar
+
+# Velocitab - https://hangar.papermc.io/William278/Velocitab
+https://hangarcdn.papermc.io/plugins/William278/Velocitab/versions/1.7.5/VELOCITY/Velocitab-1.7.5.jar
+
+# ClientDetector - https://hangar.papermc.io/Loving11ish/ClientDetector
+https://hangarcdn.papermc.io/plugins/Loving11ish/ClientDetector/versions/2.6.2/PAPER/ClientDetector-2.6.2.jar
