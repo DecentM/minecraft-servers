@@ -7,7 +7,7 @@
   "type": "polymer:automatic",
   "_c4": "Configuration of type, see provider's source for more details",
   "settings": {
-    "forced_address": ""
+    "forced_address": "http://100.96.235.54:25565"
   },
   "_c5": "Message sent to clients before pack is loaded",
   "message": "This server uses resource pack to enhance gameplay with custom textures and models. It might be unplayable without them.",

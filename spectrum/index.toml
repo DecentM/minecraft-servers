@@ -546,7 +546,7 @@ hash = "09121549b9abfc735c9502934c97ae780a6f67f975a4ad890c8dc7d48f7be2a7"
 
 [[files]]
 file = "config/polymer/auto-host.json"
-hash = "68271d54cde241b5289344cddb8f3adf2a6696bdb436b0e9f449d031d7fd6a69"
+hash = "1c655b65eaa1ad0435e6afdcdb1c99e3b72357c4f54ea1dac2d45fe2fb690b34"
 
 [[files]]
 file = "config/polymer/common.json"
