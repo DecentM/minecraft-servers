@@ -7,7 +7,8 @@ It has useful info for getting started on the server, so keep it somewhere safe!
 
 - No griefing
 - No harrassment
-- Use Estonian or English
+- Estonian or English
+- No spam or ads
 [page]
 **Useful commands**
 
