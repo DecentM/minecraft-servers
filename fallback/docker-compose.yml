@@ -1,10 +1,10 @@
 services:
   fallback:
-    tty: true
-    stdin_open: true
     build:
       context: .
-      dockerfile: Dockerfile
+    tty: true
+    stdin_open: true
+    network_mode: "host"
     environment:
       MEMORY: "4G"
       EULA: "TRUE"
@@ -13,6 +13,6 @@ services:
       SPAWN_PROTECTION: "256"
       VIEW_DISTANCE: "16"
       MODE: "adventure"
-      SERVER_PORT: "25566"
+      SERVER_PORT: "25567"
       LEVEL_TYPE: "flat"
-    network_mode: "host"
+      CFG_PROXY_SECRET: "secret"

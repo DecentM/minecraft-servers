@@ -2,9 +2,21 @@ services:
   proxy:
     build:
       context: .
+    tty: true
+    stdin_open: true
+    network_mode: "host"
     environment:
       MEMORY: "4G"
-    network_mode: "host"
+      CFG_SERVER_TRY_1: "survival"
+      CFG_SERVER_TRY_2: "fallback"
+      CFG_BIND_HOST: "0.0.0.0"
+      CFG_BIND_PORT: "25565"
+      CFG_MOTD: "Proxy server"
+      CFG_SHOW_MAX_PLAYERS: "12"
+      CFG_SERVER_SURVIVAL_HOST: "127.0.0.1"
+      CFG_SERVER_SURVIVAL_PORT: "25566"
+      CFG_SERVER_FALLBACK_HOST: "127.0.0.1"
+      CFG_SERVER_FALLBACK_PORT: "25567"
+      CFG_FORWARDING_SECRET_FILE: "/proxy-secret"
     volumes:
-      - ./config:/config
-      - ./server:/server
+      - ./dev-proxy-secret:/proxy-secret:ro

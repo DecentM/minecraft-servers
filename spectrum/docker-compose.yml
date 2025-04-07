@@ -1,10 +1,10 @@
 services:
   spectrum:
-    tty: true
-    stdin_open: true
     build:
       context: .
-      dockerfile: Dockerfile
+    tty: true
+    stdin_open: true
+    network_mode: "host"
     environment:
       MEMORY: "8G"
       EULA: "TRUE"
@@ -13,8 +13,6 @@ services:
       SPAWN_PROTECTION: "16"
       VIEW_DISTANCE: "12"
       MODE: "survival"
-      SERVER_PORT: "25567"
+      SERVER_PORT: "25566"
       SEED: "-2751134287749678599"
-    network_mode: "host"
-    volumes:
-      - ./config:/data/config
+      CFG_PROXY_SECRET: "secret"

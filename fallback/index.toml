@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/FabricProxy-Lite.toml"
-hash = "fbfd40935d6694d95d06f2f78be6e683100167eef12b83be6ce3dfff2bfb153a"
+hash = "8df9f9b012b56fc767c9c0806a1e4f1587f0ed3c8716248bad204f93f64e020f"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
