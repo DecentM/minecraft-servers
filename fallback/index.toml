@@ -42,7 +42,7 @@ hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
 file = "config/luckperms/luckperms.conf"
-hash = "38519cf983f8171dae5f0428cc6043ec417d089a95caae2d77d54800d4a0ef9c"
+hash = "211a60f818ccc0df668fd58e49e9987e496b55bc8e2307a72423c08163b8a601"
 
 [[files]]
 file = "config/servercore/config.yml"

@@ -6,7 +6,7 @@ hash = "e818a71da229b8964417c8b43bce6986f57e0dbc0578d7b94c370a879a30763f"
 
 [[files]]
 file = "config/FabricProxy-Lite.toml"
-hash = "de9e9984caa1892f616afd801fbc2f4f67ef70476837d88d65d441d98e4de7fa"
+hash = "9984bba4054ab3883830a37541ff2d1da8851b1de417fe844ea318e05b9f2001"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
@@ -482,7 +482,7 @@ hash = "dbbbaf1653ea24277ad44c214ce3d1fa1936c66f1730fb33e34e294fe8869ed4"
 
 [[files]]
 file = "config/luckperms/luckperms.conf"
-hash = "0d04bed3b8c3385f2288cbee7a853e8c1cc882c2c297d93daea6eb9678abe647"
+hash = "aa3f91fdb9057ac638c7bd1ad36837f24d3b955a62425a411e2122dbfdbe163c"
 
 [[files]]
 file = "config/midnightlib.json"
