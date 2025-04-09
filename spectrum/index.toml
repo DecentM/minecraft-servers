@@ -773,6 +773,11 @@ hash = "d04376df3adea53d2e126f6e9da53edf56ab968ed202897685d7ea7c532884b3"
 metafile = true
 
 [[files]]
+file = "mods/armorstandeditor.pw.toml"
+hash = "b2e62b24b6b4a8907038e7bab547df8bde42b89fa710e32bbf1e7f5ec5cdf996"
+metafile = true
+
+[[files]]
 file = "mods/async.pw.toml"
 hash = "3ff3e21e9d125fe7f5caf302f40945e68a37416cc7f617c755b8410906ffadfc"
 metafile = true
