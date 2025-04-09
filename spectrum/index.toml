@@ -1601,6 +1601,11 @@ hash = "e56251c674e594c4cb56926f5994be0fff19b61a6f04c1a1a1292be20309f637"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "6ad6896833033d0b398e74de81b1707015182c99ae8907ce52245f131fc65952"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-pings.pw.toml"
 hash = "5c4eebeca5d63c96f247f678e0913b44320c78a41597f4ad6931c44d5a3a4e44"
 metafile = true
