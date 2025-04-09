@@ -231,7 +231,7 @@ commands:
      # This option is only relevant when LibertyBans is on a proxy
      # If enabled, tab completion of online player names will exclude the names of players
      # on different backend servers.
-    use-only-players-on-same-server: true
+    use-only-players-on-same-server: false
      # Enables tab-completing punishment durations. For example, '30d' in '/ban A248 30d'
      # 
     punishment-durations:
