@@ -41,6 +41,10 @@ file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
+file = "config/luckperms/luckperms.conf"
+hash = "38519cf983f8171dae5f0428cc6043ec417d089a95caae2d77d54800d4a0ef9c"
+
+[[files]]
 file = "config/servercore/config.yml"
 hash = "f4b9b1803e32963acd46375f0ab9fad20d646bf5d425f25b5addfd8c3a6bb87f"
 
@@ -114,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "ea95c42dbe978b1f524dffd6e5ed5e314269b78f013d537bce37a27a44af83f6"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "68d45dc5d9de80aade2a8c8b5ec36ce52782ffbb4d9ac85ea328db6fc1cc0c6b"
 metafile = true
 
 [[files]]

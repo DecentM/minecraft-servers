@@ -2,4 +2,4 @@ hackOnlineMode = true
 hackEarlySend = true
 hackMessageChain = true
 disconnectMessage = "This server requires you to connect with Velocity."
-secret = "${CFG_PROXY_SECRET}"
+secret = "secret"

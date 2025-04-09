@@ -20,3 +20,6 @@ services:
       CFG_FORWARDING_SECRET_FILE: "/proxy-secret"
     volumes:
       - ./dev-proxy-secret:/proxy-secret:ro
+      - ./config:/config
+      # Uncomment to generate config files
+      # - ./server:/server

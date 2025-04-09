@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "68236897d7506c5f1486c97336120c17a2c3c2c022e153d6222ded75f7054484"
+hash = "e818a71da229b8964417c8b43bce6986f57e0dbc0578d7b94c370a879a30763f"
 
 [[files]]
 file = "config/FabricProxy-Lite.toml"
-hash = "9984bba4054ab3883830a37541ff2d1da8851b1de417fe844ea318e05b9f2001"
+hash = "de9e9984caa1892f616afd801fbc2f4f67ef70476837d88d65d441d98e4de7fa"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
@@ -23,6 +23,10 @@ hash = "f73e22683cb236a44fe265dddc885b1a14275a6f96d6377512cf949adac765d8"
 [[files]]
 file = "config/antixray.toml"
 hash = "c60dd6a46e310909e669ce8d91e05d447a503ea4cc02c47dc3d022297635d41e"
+
+[[files]]
+file = "config/armor-stand-editor/config.json"
+hash = "648ee475f19357e3f51a6db97bceec54be5f0cadda45cc1acdfdaf9d7bc716f1"
 
 [[files]]
 file = "config/async.toml"
@@ -477,6 +481,10 @@ file = "config/lithostitched.json"
 hash = "dbbbaf1653ea24277ad44c214ce3d1fa1936c66f1730fb33e34e294fe8869ed4"
 
 [[files]]
+file = "config/luckperms/luckperms.conf"
+hash = "0d04bed3b8c3385f2288cbee7a853e8c1cc882c2c297d93daea6eb9678abe647"
+
+[[files]]
 file = "config/midnightlib.json"
 hash = "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387"
 
@@ -562,7 +570,7 @@ hash = "00b578240f7973ae83eff7a12ad98825bb7823c510b22ad2e003b6680bece679"
 
 [[files]]
 file = "config/servercore/config.yml"
-hash = "9d49615067f045d879a00735bdeb0def0f6e7e5698fbe41268fc4b67a6955a34"
+hash = "2f61da261cfb51b16664f171a2fda722ebffad77a1b03c7d2d23f7ac659a6289"
 
 [[files]]
 file = "config/servercore/optimizations.yml"
@@ -662,7 +670,7 @@ hash = "bd3c7cba512978e4d0f5632aed773b47d93e80e9243656fc092d6cc56ddc53e1"
 
 [[files]]
 file = "config/vanillapings/vanillapings.properties"
-hash = "b3049168c1b9d767c84b3470f65527fa31f0851b3ca76cc11179a0fd55e71aa7"
+hash = "0613f5491ce7a3bbcb369b00681d9e4122a555ca2fe3e78569683d8c4bb23752"
 
 [[files]]
 file = "config/villagernames.json5"
@@ -674,7 +682,7 @@ hash = "bbeda7b2167b85002cdfb60cf6d798ea090ff5754319ee8c353cc35672f073a8"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "204b46997ed7a8d7b48376e0136d135c2e169d060587641c62e5b5176b433631"
+hash = "79f432f73eb49119ac061caf4657629c8eb99e2694a917e8e0bfebcea3c2b7b9"
 
 [[files]]
 file = "config/yacl.json5"
@@ -1200,6 +1208,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "834bf6b31785f458c60e9b282fadd385bedf44e1bb4a7d3053862765e51afb81"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "68d45dc5d9de80aade2a8c8b5ec36ce52782ffbb4d9ac85ea328db6fc1cc0c6b"
 metafile = true
 
 [[files]]

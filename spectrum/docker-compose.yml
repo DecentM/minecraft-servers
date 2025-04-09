@@ -16,3 +16,6 @@ services:
       SERVER_PORT: "25566"
       SEED: "-2751134287749678599"
       CFG_PROXY_SECRET: "secret"
+    volumes: []
+      # Uncomment to generate config files
+      # - ./config:/data/config

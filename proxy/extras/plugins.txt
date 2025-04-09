@@ -21,3 +21,12 @@ https://hangarcdn.papermc.io/plugins/William278/Velocitab/versions/1.7.5/VELOCIT
 
 # ClientDetector - https://hangar.papermc.io/Loving11ish/ClientDetector
 https://hangarcdn.papermc.io/plugins/Loving11ish/ClientDetector/versions/2.6.2/PAPER/ClientDetector-2.6.2.jar
+
+# PacketEvents - https://modrinth.com/plugin/packetevents
+https://cdn.modrinth.com/data/HYKaKraK/versions/d35A6L4P/packetevents-velocity-2.7.0.jar
+
+# AntiPopup - https://modrinth.com/plugin/antipopup
+https://cdn.modrinth.com/data/HFTnFHKn/versions/e1bc8w5r/AntiPopup-10.1.jar
+
+# LuckPerms - https://luckperms.net/download
+https://download.luckperms.net/1575/velocity/LuckPerms-Velocity-5.4.158.jar
