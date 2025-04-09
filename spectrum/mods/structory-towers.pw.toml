@@ -3,11 +3,11 @@ filename = "structory-towers.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/j3FONRYr/versions/oOvJd4xF/Structory_Towers_1.21.x_v1.0.10.jar"
+url = "https://cdn.modrinth.com/data/j3FONRYr/versions/oteEZjc2/Structory_Towers_1.21.x_v1.0.11.jar"
 hash-format = "sha512"
-hash = "200d562dd3707e18d979468e45795192b9bb3be4664d494a69b77fbc18968f4359a60ed8a20d94aee5d01703269d75009efee98d253a71d398066b1d973b1392"
+hash = "e72823a2e6c66898a8834098c8e50d3f2c176005d6955682f1b9f5005030b268419796f58ed687b1511038cee5b178cc379a77e604073c6b55f82c4ed1310012"
 
 [update]
 [update.modrinth]
 mod-id = "j3FONRYr"
-version = "oOvJd4xF"
+version = "oteEZjc2"

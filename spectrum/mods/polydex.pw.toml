@@ -3,11 +3,11 @@ filename = "polydex.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/m5NB7FJE/versions/GzfT9TdP/polydex-1.2.5%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/m5NB7FJE/versions/rC5LgjE1/polydex-1.2.6%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "c890729603cf73213e149db03b99251e8ba9d35692f4a083e0da1b1a74651c1b32ebd7a65c0b6fcab23bbf9aca0b80062139220fc34416186b34ac38e3ff9356"
+hash = "ad56e6a0db41ac4d92ddd79512873025d7e7614e30f30a8f10a7e148e823da357c6bfa8281cb1becba1e9f3ae8569e50bbcfe403278b0f858a57b9a7b011b4dd"
 
 [update]
 [update.modrinth]
 mod-id = "m5NB7FJE"
-version = "GzfT9TdP"
+version = "rC5LgjE1"

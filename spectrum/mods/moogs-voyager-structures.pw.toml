@@ -3,11 +3,11 @@ filename = "moogs-voyager-structures.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/OQAgZMH1/versions/VYyt5avd/mvs-4.2.8-1.21.jar"
+url = "https://cdn.modrinth.com/data/OQAgZMH1/versions/9BxIfLvU/mvs-4.2.9-1.21.jar"
 hash-format = "sha512"
-hash = "7ebc728a8b70346168a135f29d7ab492ef5382c556cb3334cd5185fc5f389a66f958f10ece5c5c9f9a17c355032767fe74f3da56fb81d9f295c574d7f66cce19"
+hash = "29f1f026075779e7be1392589a85db6a5cc5df1c09fb7dc3bbd093633db78eff80f8af21f978127b4543adba164788d0f842bc4f503e6ae6fc8f5c7ea52f6a4a"
 
 [update]
 [update.modrinth]
 mod-id = "OQAgZMH1"
-version = "VYyt5avd"
+version = "9BxIfLvU"

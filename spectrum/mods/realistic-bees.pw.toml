@@ -1,13 +1,13 @@
 name = "Realistic Bees"
-filename = "realistic-bees.jar"
+filename = "realisticbees.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/tG6HkcWx/versions/dZl0KxL7/realisticbees-1.21.1-4.1.jar"
+url = "https://cdn.modrinth.com/data/tG6HkcWx/versions/KTWiwQK4/realisticbees-1.21.1-4.2.jar"
 hash-format = "sha512"
-hash = "0cdfa434ddd068c246097b7681534d835ea770b385d696469cd1dac9297dd901992cab315b638c4f76b4267f99c91c8475f57e48d95b1ba53580c8e5fe6f50b0"
+hash = "eb3d5462439966fd7b045655992d54cdc1149b4f5089ec2798835f95aefb95bd18de9c5d15ac41d6a2ab20524e2bd93440727e03f0dfe43cc0827504374cb461"
 
 [update]
 [update.modrinth]
 mod-id = "tG6HkcWx"
-version = "dZl0KxL7"
+version = "KTWiwQK4"

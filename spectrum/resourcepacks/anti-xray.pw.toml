@@ -4,10 +4,10 @@ side = "server"
 
 [download]
 hash-format = "sha512"
-hash = "e25ab563a6691b54ee448f00296b076a14f4dcfcd94788d041b950cdeb2ca82977e07f8a9886cca13c799cc55762b817f40a43ef3c2d8b81cce266e3823e0e39"
+hash = "199bec1faba7d6e604f9f247aeddb579041cb8b7e422185d595e4f534ec306cd8fba9a7aa54a204c37b612c78c5b39ca0a26301841a021713c71dd0f220a317a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5437572
+file-id = 5437573
 project-id = 354986
