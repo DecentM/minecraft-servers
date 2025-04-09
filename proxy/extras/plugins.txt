@@ -19,8 +19,8 @@ https://hangarcdn.papermc.io/plugins/Bram/AntiHealthIndicator/versions/2.3.1/PAP
 # Velocitab - https://hangar.papermc.io/William278/Velocitab
 https://hangarcdn.papermc.io/plugins/William278/Velocitab/versions/1.7.5/VELOCITY/Velocitab-1.7.5.jar
 
-# ClientDetector - https://hangar.papermc.io/Loving11ish/ClientDetector
-https://hangarcdn.papermc.io/plugins/Loving11ish/ClientDetector/versions/2.6.2/PAPER/ClientDetector-2.6.2.jar
+# ClientCatcher - https://modrinth.com/plugin/clientcatcher
+https://cdn.modrinth.com/data/Dhqd1a7j/versions/XozKIzve/ClientCatcher-3.2.2.jar
 
 # PacketEvents - https://modrinth.com/plugin/packetevents
 https://cdn.modrinth.com/data/HYKaKraK/versions/d35A6L4P/packetevents-velocity-2.7.0.jar
@@ -30,3 +30,6 @@ https://cdn.modrinth.com/data/HFTnFHKn/versions/e1bc8w5r/AntiPopup-10.1.jar
 
 # LuckPerms - https://luckperms.net/download
 https://download.luckperms.net/1575/velocity/LuckPerms-Velocity-5.4.158.jar
+
+# MiniPlaceholders - https://modrinth.com/plugin/miniplaceholders
+https://cdn.modrinth.com/data/HQyibRsN/versions/Nsctgs29/MiniPlaceholders-Velocity-2.3.0.jar
