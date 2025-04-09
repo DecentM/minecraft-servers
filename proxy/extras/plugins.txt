@@ -36,3 +36,9 @@ https://cdn.modrinth.com/data/HQyibRsN/versions/Nsctgs29/MiniPlaceholders-Veloci
 
 # LuckPerms Expansion - https://github.com/MiniPlaceholders/LuckPerms-Expansion
 https://github.com/MiniPlaceholders/LuckPerms-Expansion/releases/download/1.4.1/MiniPlaceholders-LuckPerms-Expansion-1.4.1.jar
+
+# ViaVersion Expansion - https://github.com/MiniPlaceholders/ViaVersion-Expansion
+https://github.com/MiniPlaceholders/ViaVersion-Expansion/releases/download/1.0.0/MiniPlaceholders-ViaVersion-Expansion-1.0.0.jar
+
+# Spark Expansion - https://github.com/MiniPlaceholders/Spark-Expansion
+https://github.com/MiniPlaceholders/Spark-Expansion/releases/download/1.0.1/Spark-Expansion-1.0.1.jar
