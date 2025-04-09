@@ -22,4 +22,4 @@ services:
       - ./dev-proxy-secret:/proxy-secret:ro
       - ./config:/config
       # Uncomment to generate config files
-      # - ./server:/server
+      - ./server:/server

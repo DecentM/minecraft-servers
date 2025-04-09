@@ -33,3 +33,6 @@ https://download.luckperms.net/1575/velocity/LuckPerms-Velocity-5.4.158.jar
 
 # MiniPlaceholders - https://modrinth.com/plugin/miniplaceholders
 https://cdn.modrinth.com/data/HQyibRsN/versions/Nsctgs29/MiniPlaceholders-Velocity-2.3.0.jar
+
+# LuckPerms Expansion - https://github.com/MiniPlaceholders/LuckPerms-Expansion
+https://github.com/MiniPlaceholders/LuckPerms-Expansion/releases/download/1.4.1/MiniPlaceholders-LuckPerms-Expansion-1.4.1.jar
