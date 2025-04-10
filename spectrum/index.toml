@@ -1181,6 +1181,11 @@ hash = "d1be351410b6f525d7cecd88b43ed7c3b2a53183af109b82041faa1627097f69"
 metafile = true
 
 [[files]]
+file = "mods/lazy-language-loader.pw.toml"
+hash = "c0b75f54e6e149a358396b98cb27afb5124b871eb64bdb908fb26bc6c9e82c5b"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "225afdf610890261b9199bb6d93214e062012afd0b1cae240f00169919d24067"
 metafile = true
@@ -1283,6 +1288,11 @@ metafile = true
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
 hash = "fc6f3089f15b7fa6bc2c95e0ebe47a168c98a86cd8fa24d2e7c027059a8635a3"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "1601a56b5956ef511c450e10bf4b65b5e69e54d6c945ab49ceba3e5e5f74fcf0"
 metafile = true
 
 [[files]]
@@ -1533,6 +1543,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "acd47cd3aa52f826a0ce6b059afde7e43af2a6104c614d14ed85c264d4ecc04d"
+metafile = true
+
+[[files]]
+file = "mods/televator.pw.toml"
+hash = "5d11f6a9480afe1eb2ae9808e8551eb930dc32e4d9d4a11ee49df31b789b85e2"
 metafile = true
 
 [[files]]
