@@ -39,3 +39,6 @@ https://github.com/MiniPlaceholders/ViaVersion-Expansion/releases/download/1.0.0
 
 # Spark Expansion - https://github.com/MiniPlaceholders/Spark-Expansion
 https://github.com/MiniPlaceholders/Spark-Expansion/releases/download/1.0.1/Spark-Expansion-1.0.1.jar
+
+# CustomCommands - https://modrinth.com/plugin/customcommandsvelocity
+https://cdn.modrinth.com/data/lH2P7M8M/versions/utKAZXsh/CustomCommands-1.2.jar

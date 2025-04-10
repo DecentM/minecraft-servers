@@ -1,0 +1,31 @@
+# Command Configuration
+
+# Enabled?
+Enabled = true
+
+# This is the command name that will be used to call the command in the chat
+Name = "blue"
+
+# These are the aliases. Empty the array if you don't need any aliases, like so: Aliases = []
+Aliases = []
+
+# This is the description of the command that will be displayed in the help command
+Description = "Sets your prefix colour to blue"
+
+# This is the permission required to use the command. Leave empty for no permission
+Permission = "customcommands.blue"
+
+# This is the response that will be sent when the command is called. Leave empty for no response
+# Only supports MiniMessage, see https://docs.advntr.dev/minimessage/format.html and https://webui.advntr.dev/ for more information
+Response = "Role assigned (it might take up to 3 minutes to take effect)"
+
+# Add the plugins Prefix configured in config.toml to the response message
+UsePrefix = true
+
+# This is the cooldown of the command in seconds
+Cooldown = 0
+
+# Proxy command to execute. This code is run on console, without any permission checks. Leave empty for no proxy command
+# To view all placeholders, see https://github.com/thevalleyy/CustomCommands?tab=readme-ov-file#placeholders
+# Example: ProxyCommand = "send %player% hub"
+ProxyCommand = "lpv user %player% meta setprefix 25 <#5ACBFB>Member"
