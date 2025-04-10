@@ -28,4 +28,4 @@ Cooldown = 0
 # Proxy command to execute. This code is run on console, without any permission checks. Leave empty for no proxy command
 # To view all placeholders, see https://github.com/thevalleyy/CustomCommands?tab=readme-ov-file#placeholders
 # Example: ProxyCommand = "send %player% hub"
-ProxyCommand = "lpv user %player% meta setprefix 25 <#F593DF>Member"
+ProxyCommand = "lpv user %player% meta set role-colour <#F593DF>"
