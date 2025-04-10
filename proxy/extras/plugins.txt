@@ -10,9 +10,6 @@ https://hangarcdn.papermc.io/plugins/Vicarious/Carbon/versions/3.0.0-beta.28/VEL
 # ViaVersion - https://hangar.papermc.io/Syrent/VelocityReport
 https://hangarcdn.papermc.io/plugins/ViaVersion/ViaVersion/versions/5.3.1/PAPER/ViaVersion-5.3.1.jar
 
-# VelocityReport - https://hangar.papermc.io/Syrent/VelocityReport
-https://github.com/Syrent/VelocityReport/releases/download/3.11.8/VelocityReport.v3.11.8.jar
-
 # AntiHealthIndicator - https://hangar.papermc.io/Bram/AntiHealthIndicator
 https://hangarcdn.papermc.io/plugins/Bram/AntiHealthIndicator/versions/2.3.1/PAPER/AntiHealthIndicator-2.3.1.jar
 
