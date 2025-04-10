@@ -13,9 +13,7 @@
   "include_mod_assets": [],
   "_c6": "Included resource packs from zips!",
   "include_zips": [
-    "resourcepacks/model-optimizations-and-fixes.zip",
     "resourcepacks/anti-xray.zip",
-    "resourcepacks/authentic-shadows.zip",
     "resourcepacks/translations-for-sodium.zip",
     "resourcepacks/chat-reporting-helper.zip",
     "resourcepacks/slightly-improved-font.zip",

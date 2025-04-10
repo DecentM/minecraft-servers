@@ -542,7 +542,7 @@ hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "babf5d38523ef44ee7e597d8316fc3627336c6474eadb1d070d4c396b3669acb"
+hash = "13a0ee0c5694a54ed420f50585461326bc7b31a42ef81bdd4f3aa247c213f4f7"
 
 [[files]]
 file = "config/polymer/server.json"
@@ -1736,11 +1736,6 @@ hash = "243006fd8f502aa7501ec828e39618c94f1d67b42386fb71a3e467b8a368f4f4"
 metafile = true
 
 [[files]]
-file = "resourcepacks/authentic-shadows.pw.toml"
-hash = "3dc15630a3dc5af082a7810dcbcf02af459638b7eae5b608c63d698d3a092647"
-metafile = true
-
-[[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "cba21060e71d7a116861d4ec2d5f98591df7e47293daa9e8cb51dfed3e2a4e7d"
 metafile = true
@@ -1753,16 +1748,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/joshs-more-foods.pw.toml"
 hash = "412d780ab4f0611134008f6aa48427fe956f9b1aab92b16e49fbcda1c1984f3d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/model-optimizations-and-fixes.pw.toml"
-hash = "942a41e4bc22b1f8a68489fab4acc0e4245eb1853a627db48536d21762b17572"
-metafile = true
-
-[[files]]
-file = "resourcepacks/saturated-grass.pw.toml"
-hash = "23c295501a1c560c2b4eb6017af5766826022e733d51e866d29e3ed80c547873"
 metafile = true
 
 [[files]]
