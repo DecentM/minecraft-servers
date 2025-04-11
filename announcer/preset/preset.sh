@@ -7,5 +7,6 @@ base_dir=$(dirname "$0")
 
 preset=$1
 announcement=$(jq -nrc --arg time "$(date +"%H:%M")" -f "$base_dir/$preset.jq")
+output=$(jq --argjson content "$announcement" '. + $content' "$base_dir/../lib/branding.jq")
 
-rcon tellraw @a "$announcement"
+rcon tellraw @a "$output"

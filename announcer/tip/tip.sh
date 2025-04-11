@@ -11,4 +11,6 @@ rand=$(od -vAn -N4 -tu4 /dev/urandom | tr -d ' ')
 index=$((rand % len))
 tip=$(jq -c ".[$index]" "$base_dir/tips.jq")
 
-rcon tellraw @a "$tip"
+output=$(jq --argjson content "$tip" '. + $content' "$base_dir/../lib/branding.jq")
+
+rcon tellraw @a "$output"

@@ -1,11 +1,14 @@
-{
-    "type": "translatable",
-    "translate": "commands.time.query",
-    "fallback": "The time is",
-    "with": [
-        {
-            "type": "text",
-            "text": "\($time)"
-        }
-    ]
-}
+[
+    {
+        "type": "translatable",
+        "translate": "commands.time.query",
+        "fallback": "The time is",
+        "color": "white",
+        "with": [
+            {
+                "type": "text",
+                "text": "\($time)"
+            }
+        ]
+    }
+]
