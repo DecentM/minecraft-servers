@@ -3,12 +3,12 @@
 rcon() {
     local command="$*"
 
-    if [ -z "${RCON_HOST:-}" ] || [ -z "${RCON_PORT:-}" ]; then
-        echo "RCON_HOST, and RCON_PORT must be set."
+    if [ -z "${RCON_PATH:-}" ] || [ -z "${RCON_HOST:-}" ] || [ -z "${RCON_PORT:-}" ]; then
+        echo "RCON_PATH, RCON_HOST, and RCON_PORT must be set."
         return 1
     fi
 
-    local rcon_cmd="rcon-cli --host $RCON_HOST --port $RCON_PORT --password ${RCON_PASSWORD:-""} $command"
+    local rcon_cmd="$RCON_PATH --host $RCON_HOST --port $RCON_PORT --password ${RCON_PASSWORD:-""} $command"
 
     if ! $rcon_cmd; then
         echo "RCON command failed: $rcon_cmd"
