@@ -8,7 +8,7 @@ rcon() {
         return 1
     fi
 
-    local rcon_cmd="$RCON_PATH --host $RCON_HOST --port $RCON_PORT --password ${RCON_PASSWORD:-""} $command"
+    local rcon_cmd="$RCON_PATH --host $RCON_HOST --port $RCON_PORT $command"
 
     if ! $rcon_cmd; then
         echo "RCON command failed: $rcon_cmd"
