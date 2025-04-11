@@ -6,6 +6,8 @@ RUN wget https://github.com/itzg/rcon-cli/releases/download/1.7.0/rcon-cli_1.7.0
     tar -xzf rcon-cli_1.7.0_linux_amd64.tar.gz && \
     rm rcon-cli_1.7.0_linux_amd64.tar.gz
 
+RUN apk add --no-cache jq
+
 ENV RCON_PATH=/root/rcon-cli
 
 WORKDIR /app
