@@ -1,0 +1,22 @@
+[
+    {
+        "type": "text",
+        "text": "Welcome to the Announcer!"
+    },
+    {
+        "type": "text",
+        "text": "This is a simple announcer."
+    },
+    {
+        "type": "text",
+        "text": "You can use it to send messages."
+    },
+    {
+        "type": "text",
+        "text": "You can also use it to send tips."
+    },
+    {
+        "type": "text",
+        "text": "This is a simple tip."
+    }
+]
