@@ -1,5 +1,7 @@
 #!/bin/false
 
+env
+
 rcon() {
     local command="$*"
 
