@@ -1,7 +1,572 @@
 [
-    [{"type": "text", "text": "Welcome to the Announcer!"}],
-    [{"type": "text", "text": "This is a simple announcer."}],
-    [{"type": "text", "text": "You can use it to send messages."}],
-    [{"type": "text", "text": "You can also use it to send tips."}],
-    [{"type": "text", "text": "This is a simple tip."}]
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "You can repair a "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.damaged_anvil",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:damaged_anvil"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search damaged anvil"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " by using an "
+        },
+        {
+            "color": "green",
+            "translate": "item.minecraft.iron_ingot",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:iron_ingot"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search iron ingot"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " on it with "
+        },
+        {
+            "keybind": "key.use",
+            "color": "aqua"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "You can damage an "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.anvil",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:anvil"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search anvil"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " by using an "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.obsidian",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:obsidian"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search obsidian"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " on it with "
+        },
+        {
+            "keybind": "key.use",
+            "color": "aqua"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "Use "
+        },
+        {
+            "color": "green",
+            "translate": "item.minecraft.flint",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:flint"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search flint"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " with "
+        },
+        {
+            "keybind": "key.use",
+            "color": "aqua"
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " on an "
+        },
+        {
+            "color": "green",
+            "translate": "item.minecraft.armor_stand",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:armor_stand"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search armor stand"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " or a "
+        },
+        {
+            "type": "text",
+            "color": "green",
+            "text": "Statue",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "polydecorations:oak_statue"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search statue"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " to pose it"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "Surround a spawner with five "
+        },
+        {
+            "type": "text",
+            "color": "green",
+            "text": "Torches",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:torch"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search torch"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " to disable it"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "Sponges have a bigger absorption radius when next to other sponges"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "Use a "
+        },
+        {
+            "color": "green",
+            "translate": "item.minecraft.glass_bottle",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:glass_bottle"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search glass bottle"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " while holding "
+        },
+        {
+            "keybind": "key.sneak",
+            "color": "aqua"
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " to bottle your XP at 90% efficiency"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": ""
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.crying_obsidian",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:crying_obsidian"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search crying obsidian"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " is also a valid block for a nether portal"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "Use a painting on a painting on a wall to cycle through the images"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "Use a "
+        },
+        {
+            "color": "green",
+            "translate": "item.constructionwand.stone_wand",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "constructionwand:stone_wand"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search construction wand"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " to build structures faster."
+        },
+        {
+            "text": " Click here",
+            "color": "aqua",
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search construction wand"
+            },
+            "hoverEvent": {
+                "action": "show_text",
+                "value": "/polydex search construction wand"
+            }
+        },
+        {
+            "text": ", or search for 'wand' in",
+            "color": "white"
+        },
+        {
+            "text": " /polydex ",
+            "color": "aqua",
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex"
+            },
+            "hoverEvent": {
+                "action": "show_text",
+                "value": "/polydex"
+            }
+        },
+        {
+            "text": "to learn how to craft one",
+            "color": "white"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "Nether portals can be smaller than usual, such as 1x2"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "Use "
+        },
+        {
+            "keybind": "key.use",
+            "color": "aqua"
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " while sneaking to dismount mobs from "
+        },
+        {
+            "type": "text",
+            "color": "green",
+            "text": "boats",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:oak_boat"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search boat"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": ", and "
+        },
+        {
+            "type": "text",
+            "color": "green",
+            "text": "minecarts",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:minecart"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search minecart"
+            }
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "Use my custom client "
+        },
+        {
+            "text": "Spectrum",
+            "color": "green",
+            "clickEvent": {
+                "action": "open_url",
+                "value": "https://modrinth.com/modpack/etu-spectrum"
+            },
+            "hoverEvent": {
+                "action": "show_text",
+                "value": "https://modrinth.com/modpack/etu-spectrum"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " made just for this server, with 21x higher render distance and 10x higher FPS"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "green",
+            "text": "Doors",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:oak_door"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search door"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " will open together if they're placed next to each other"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "Use "
+        },
+        {
+            "keybind": "key.use",
+            "color": "aqua"
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " with a "
+        },
+        {
+            "color": "green",
+            "translate": "item.minecraft.firework_rocket",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:firework_rocket"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search firework rocket"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " in hand while wearing an "
+        },
+        {
+            "color": "green",
+            "translate": "item.minecraft.elytra",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:elytra"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search elytra"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " to take off. No "
+        },
+        {
+            "keybind": "key.jump",
+            "color": "aqua"
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " spam needed!"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "If you find an enchantment you don't recognize, look it up in the"
+        },
+        {
+            "text": " Minecraft Wiki",
+            "color": "green",
+            "clickEvent": {
+                "action": "open_url",
+                "value": "https://minecraft.wiki/w/Enchanting#Summary_of_enchantments"
+            },
+            "hoverEvent": {
+                "action": "show_text",
+                "value": "https://minecraft.wiki/w/Enchanting#Summary_of_enchantments"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": ", or in the"
+        },
+        {
+            "text": " Enchantments Encore table",
+            "color": "green",
+            "clickEvent": {
+                "action": "open_url",
+                "value": "https://explorerseden.eu/tables/enchantment_list.html"
+            },
+            "hoverEvent": {
+                "action": "show_text",
+                "value": "https://explorerseden.eu/tables/enchantment_list.html"
+            }
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "color": "white",
+            "text": "Use "
+        },
+        {
+            "keybind": "key.use",
+            "color": "aqua"
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " on a spider with a "
+        },
+        {
+            "color": "green",
+            "translate": "item.minecraft.glass_bottle",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:glass_bottle"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search glass bottle"
+            }
+        },
+        {
+            "type": "text",
+            "color": "white",
+            "text": " in your hand to extract its poison"
+        }
+    ]
 ]
