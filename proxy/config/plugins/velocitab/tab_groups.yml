@@ -10,7 +10,7 @@ groups:
   headers: []
   footers:
   - <gray>%players_online%/%max_players_online% players</gray>
-  format: <gray>%prefix%%username%</gray>
+  format: ${CFG_TAB_FORMAT}
   nametag:
     prefix: ''
     suffix: ''
