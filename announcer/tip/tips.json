@@ -1,7 +1,6 @@
 [
     [
         {
-            "type": "text",
             "color": "white",
             "text": "You can repair a "
         },
@@ -20,7 +19,6 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " by using an "
         },
@@ -39,7 +37,6 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " on it with "
         },
@@ -50,7 +47,6 @@
     ],
     [
         {
-            "type": "text",
             "color": "white",
             "text": "You can damage an "
         },
@@ -69,7 +65,6 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " by using an "
         },
@@ -88,7 +83,6 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " on it with "
         },
@@ -99,7 +93,6 @@
     ],
     [
         {
-            "type": "text",
             "color": "white",
             "text": "Use "
         },
@@ -118,7 +111,6 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " with "
         },
@@ -127,7 +119,6 @@
             "color": "aqua"
         },
         {
-            "type": "text",
             "color": "white",
             "text": " on an "
         },
@@ -146,12 +137,10 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " or a "
         },
         {
-            "type": "text",
             "color": "green",
             "text": "Statue",
             "hoverEvent": {
@@ -166,19 +155,16 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " to pose it"
         }
     ],
     [
         {
-            "type": "text",
             "color": "white",
             "text": "Surround a spawner with five "
         },
         {
-            "type": "text",
             "color": "green",
             "text": "Torches",
             "hoverEvent": {
@@ -193,21 +179,18 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " to disable it"
         }
     ],
     [
         {
-            "type": "text",
             "color": "white",
             "text": "Sponges have a bigger absorption radius when next to other sponges"
         }
     ],
     [
         {
-            "type": "text",
             "color": "white",
             "text": "Use a "
         },
@@ -226,7 +209,6 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " while holding "
         },
@@ -235,14 +217,12 @@
             "color": "aqua"
         },
         {
-            "type": "text",
             "color": "white",
             "text": " to bottle your XP at 90% efficiency"
         }
     ],
     [
         {
-            "type": "text",
             "color": "white",
             "text": ""
         },
@@ -261,21 +241,44 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " is also a valid block for a nether portal"
         }
     ],
     [
         {
-            "type": "text",
             "color": "white",
-            "text": "Use a painting on a painting on a wall to cycle through the images"
+            "text": "Use "
+        },
+        {
+            "keybind": "key.use",
+            "color": "aqua"
+        },
+        {
+            "color": "white",
+            "text": " on a "
+        },
+        {
+            "color": "green",
+            "translate": "item.minecraft.painting",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:painting"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search painting"
+            }
+        },
+        {
+            "color": "white",
+            "text": " while holding another one to cycle through the images"
         }
     ],
     [
         {
-            "type": "text",
             "color": "white",
             "text": "Use a "
         },
@@ -294,53 +297,18 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
-            "text": " to build structures faster."
-        },
-        {
-            "text": " Click here",
-            "color": "aqua",
-            "clickEvent": {
-                "action": "run_command",
-                "value": "/polydex search construction wand"
-            },
-            "hoverEvent": {
-                "action": "show_text",
-                "value": "/polydex search construction wand"
-            }
-        },
-        {
-            "text": ", or search for 'wand' in",
-            "color": "white"
-        },
-        {
-            "text": " /polydex ",
-            "color": "aqua",
-            "clickEvent": {
-                "action": "run_command",
-                "value": "/polydex"
-            },
-            "hoverEvent": {
-                "action": "show_text",
-                "value": "/polydex"
-            }
-        },
-        {
-            "text": "to learn how to craft one",
-            "color": "white"
+            "text": " to build structures faster"
         }
     ],
     [
         {
-            "type": "text",
             "color": "white",
             "text": "Nether portals can be smaller than usual, such as 1x2"
         }
     ],
     [
         {
-            "type": "text",
             "color": "white",
             "text": "Use "
         },
@@ -349,12 +317,18 @@
             "color": "aqua"
         },
         {
-            "type": "text",
             "color": "white",
-            "text": " while sneaking to dismount mobs from "
+            "text": " while holding  "
         },
         {
-            "type": "text",
+            "keybind": "key.sneak",
+            "color": "aqua"
+        },
+        {
+            "color": "white",
+            "text": " to dismount mobs from "
+        },
+        {
             "color": "green",
             "text": "boats",
             "hoverEvent": {
@@ -369,12 +343,10 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": ", and "
         },
         {
-            "type": "text",
             "color": "green",
             "text": "minecarts",
             "hoverEvent": {
@@ -391,7 +363,6 @@
     ],
     [
         {
-            "type": "text",
             "color": "white",
             "text": "Use my custom client "
         },
@@ -408,14 +379,12 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " made just for this server, with 21x higher render distance and 10x higher FPS"
         }
     ],
     [
         {
-            "type": "text",
             "color": "green",
             "text": "Doors",
             "hoverEvent": {
@@ -430,14 +399,12 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " will open together if they're placed next to each other"
         }
     ],
     [
         {
-            "type": "text",
             "color": "white",
             "text": "Use "
         },
@@ -446,7 +413,6 @@
             "color": "aqua"
         },
         {
-            "type": "text",
             "color": "white",
             "text": " with a "
         },
@@ -465,7 +431,6 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " in hand while wearing an "
         },
@@ -484,7 +449,6 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " to take off. No "
         },
@@ -493,16 +457,14 @@
             "color": "aqua"
         },
         {
-            "type": "text",
             "color": "white",
             "text": " spam needed!"
         }
     ],
     [
         {
-            "type": "text",
             "color": "white",
-            "text": "If you find an enchantment you don't recognize, look it up in the"
+            "text": "If you find an enchantment you don't recognise, look it up in the"
         },
         {
             "text": " Minecraft Wiki",
@@ -517,7 +479,6 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": ", or in the"
         },
@@ -536,7 +497,6 @@
     ],
     [
         {
-            "type": "text",
             "color": "white",
             "text": "Use "
         },
@@ -545,7 +505,6 @@
             "color": "aqua"
         },
         {
-            "type": "text",
             "color": "white",
             "text": " on a spider with a "
         },
@@ -564,9 +523,626 @@
             }
         },
         {
-            "type": "text",
             "color": "white",
             "text": " in your hand to extract its poison"
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Lit arrows will light a fire when they land"
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Craft a "
+        },
+        {
+            "color": "green",
+            "translate": "item.glideaway.hang_glider",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "glideaway:hang_glider"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search hang glider"
+            }
+        },
+        {
+            "color": "white",
+            "text": " to fly before you get an "
+        },
+        {
+            "color": "green",
+            "translate": "item.minecraft.elytra",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:elytra"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search elytra"
+            }
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Protect your build by crafting a "
+        },
+        {
+            "color": "green",
+            "translate": "block.goml.makeshift_claim_anchor",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "goml:makeshift_claim_anchor"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search claim anchor"
+            }
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Customise how your protection works by using "
+        },
+        {
+            "color": "green",
+            "text": "Anchor Augments",
+            "hoverEvent": {
+                "action": "show_text",
+                "value": "Anchor Augments"
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search anchor augment"
+            }
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Transfer an enchantment from an item to a "
+        },
+        {
+            "color": "green",
+            "translate": "item.minecraft.book",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:book"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search book"
+            }
+        },
+        {
+            "color": "white",
+            "text": " with a "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.grindstone",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:grindstone"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search grindstone"
+            }
+        }
+    ],
+    [
+        {
+            "text": "Hold ",
+            "color": "white"
+        },
+        {
+            "keybind": "key.sneak",
+            "color": "aqua"
+        },
+        {
+            "color": "white",
+            "text": " and use "
+        },
+        {
+            "keybind": "key.use",
+            "color": "aqua"
+        },
+        {
+            "color": "white",
+            "text": " on a "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.grindstone",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:grindstone"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search grindstone"
+            }
+        },
+        {
+            "color": "white",
+            "text": " while holding a tool to temporarily sharpen it"
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Place "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.rail",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:rail"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search rail"
+            }
+        },
+        {
+            "color": "white",
+            "text": " on "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.gravel",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:gravel"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search gravel"
+            }
+        },
+        {
+            "color": "white",
+            "text": " to travel at high speeds"
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Place "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.ice",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:ice"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search ice"
+            }
+        },
+        {
+            "color": "white",
+            "text": " under crops to prevent them from growing"
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Use "
+        },
+        {
+            "color": "aqua",
+            "keybind": "key.use"
+        },
+        {
+            "color": "white",
+            "text": " with a "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.chain",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:chain"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search chain"
+            }
+        },
+        {
+            "color": "white",
+            "text": " on a "
+        },
+        {
+            "color": "green",
+            "translate": "item.minecraft.minecart",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:minecart"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search minecart"
+            }
+        },
+        {
+            "color": "white",
+            "text": " while holding "
+        },
+        {
+            "color": "aqua",
+            "keybind": "key.sneak"
+        },
+        {
+            "color": "white",
+            "text": " to start creating a train"
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "The "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.stonecutter",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:stonecutter"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search stonecutter"
+            }
+        },
+        {
+            "color": "white",
+            "text": " is a lot more powerful than usual. Check "
+        },
+        {
+            "color": "green",
+            "text": "the MasterCutter docs",
+            "hoverEvent": {
+                "action": "show_text",
+                "value": "https://modrinth.com/datapack/mastercutter"
+            },
+            "clickEvent": {
+                "action": "open_url",
+                "value": "https://modrinth.com/datapack/mastercutter"
+            }
+        },
+        {
+            "color": "white",
+            "text": " for all the details"
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Hostile mobs will not spawn around a "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.campfire",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:campfire"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search campfire"
+            }
+        },
+        {
+            "color": "white",
+            "text": ", and will catch on fire if they get near"
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Parrots prefer to stay on your shoulder. To get them off, press "
+        },
+        {
+            "keybind": "key.jump",
+            "color": "aqua"
+        },
+        {
+            "color": "white",
+            "text": " while holding "
+        },
+        {
+            "keybind": "key.sneak",
+            "color": "aqua"
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Craft unique decorations with "
+        },
+        {
+            "color": "green",
+            "text": "PolyDecorations items and blocks",
+            "hoverEvent": {
+                "action": "show_text",
+                "value": "/polydex search @polydecorations"
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search @polydecorations"
+            }
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Automate crafting and processing by building a factory with "
+        },
+        {
+            "color": "green",
+            "text": "PolyFactory items and blocks",
+            "hoverEvent": {
+                "action": "show_text",
+                "value": "/polydex search @polyfactory"
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search @polyfactory"
+            }
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Using "
+        },
+        {
+            "color": "green",
+            "translate": "item.minecraft.bone_meal",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:bone_meal"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search bone meal"
+            }
+        },
+        {
+            "color": "white",
+            "text": " on a "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.grass_block",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:grass_block"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search grass block"
+            }
+        },
+        {
+            "color": "white",
+            "text": " has the chance to spawn all flower types "
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Use "
+        },
+        {
+            "keybind": "key.use",
+            "color": "aqua"
+        },
+        {
+            "color": "white",
+            "text": " on a grown crop to harvest and replant it"
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "A thrown "
+        },
+        {
+            "color": "green",
+            "translate": "item.minecraft.ender_pearl",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:ender_pearl"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search ender pearl"
+            }
+        },
+        {
+            "color": "white",
+            "text": " will skip on the water surface before sinking"
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Create weapons with spells with "
+        },
+        {
+            "color": "green",
+            "text": "Spellbound Weapons items",
+            "hoverEvent": {
+                "action": "show_text",
+                "value": "https://github.com/SpluoSplatus/Spellbound-Weapons/wiki/Sort-Repair-Item"
+            },
+            "clickEvent": {
+                "action": "open_url",
+                "value": "https://github.com/SpluoSplatus/Spellbound-Weapons/wiki/Sort-Repair-Item"
+            }
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Create a "
+        },
+        {
+            "color": "green",
+            "translate": "block.televator.televator",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "televator:televator"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search @televator"
+            }
+        },
+        {
+            "color": "white",
+            "text": ", and use "
+        },
+        {
+            "keybind": "key.jump",
+            "color": "aqua"
+        },
+        {
+            "color": "white",
+            "text": "/"
+        },
+        {
+            "keybind": "key.sneak",
+            "color": "aqua"
+        },
+        {
+            "color": "white",
+            "text": " to teleport between floors of your base"
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "As you walk on a "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.grass_block",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:grass_block"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search grass block"
+            }
+        },
+        {
+            "color": "white",
+            "text": ", it will eventually wear down and turn into "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.dirt_path",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:dirt_path"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search dirt path"
+            }
+        },
+        {
+            "color": "white",
+            "text": ", then "
+        },
+        {
+            "color": "green",
+            "translate": "block.minecraft.cobblestone_slab",
+            "hoverEvent": {
+                "action": "show_item",
+                "contents": {
+                    "id": "minecraft:cobblestone_slab"
+                }
+            },
+            "clickEvent": {
+                "action": "run_command",
+                "value": "/polydex search cobblestone slab"
+            }
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "text": "Use "
+        },
+        {
+            "text": "/ping",
+            "color": "aqua",
+            "clickEvent": {
+                "action": "suggest_command",
+                "value": "/ping"
+            },
+            "hoverEvent": {
+                "action": "show_text",
+                "value": "/ping"
+            }
+        },
+        {
+            "color": "white",
+            "text": " to point out a location to nearby players"
         }
     ]
 ]
