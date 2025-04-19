@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": {
+            "translate": "ee.borooka.spectrum",
+            "fallback": "Custom translation keys for Spectrum"
+        },
+        "supported_formats": [15, 55]
+    }
+}
