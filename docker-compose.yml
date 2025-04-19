@@ -1,0 +1,95 @@
+services:
+  spectrum:
+    build:
+      context: spectrum
+    tty: true
+    stdin_open: true
+    environment:
+      MEMORY: "8G"
+      EULA: "TRUE"
+      DIFFICULTY: "easy"
+      SNOOPER_ENABLED: "false"
+      SPAWN_PROTECTION: "16"
+      VIEW_DISTANCE: "12"
+      MODE: "survival"
+      SERVER_PORT: "25566"
+      SEED: "-2751134287749678599"
+      CFG_PROXY_SECRET: "secret"
+      CFG_LUCKPERMS_DB_HOST: "luckperms-db"
+      CFG_LUCKPERMS_DB_PORT: "5432"
+      CFG_LUCKPERMS_DB_NAME: "luckperms"
+      CFG_LUCKPERMS_DB_USERNAME: "luckperms"
+      CFG_LUCKPERMS_DB_PASSWORD: "luckperms"
+    links:
+      - luckperms-db
+
+  proxy:
+    build:
+      context: proxy
+    tty: true
+    stdin_open: true
+    environment:
+      MEMORY: "4G"
+      CFG_SERVER_TRY_1: "survival"
+      CFG_SERVER_TRY_2: "fallback"
+      CFG_BIND_HOST: "0.0.0.0"
+      CFG_BIND_PORT: "25565"
+      CFG_MOTD: "Proxy server"
+      CFG_SHOW_MAX_PLAYERS: "12"
+      CFG_SERVER_SURVIVAL_HOST: "spectrum"
+      CFG_SERVER_SURVIVAL_PORT: "25566"
+      CFG_SERVER_FALLBACK_HOST: "fallback"
+      CFG_SERVER_FALLBACK_PORT: "25567"
+      CFG_FORWARDING_SECRET_FILE: "/proxy-secret"
+      CFG_LUCKPERMS_DB_HOST: "luckperms-db"
+      CFG_LUCKPERMS_DB_PORT: "5432"
+      CFG_LUCKPERMS_DB_NAME: "luckperms"
+      CFG_LUCKPERMS_DB_USERNAME: "luckperms"
+      CFG_LUCKPERMS_DB_PASSWORD: "luckperms"
+    ports:
+      - 25565:25565
+    links:
+      - luckperms-db
+      - spectrum
+      - fallback
+    volumes:
+      - ./proxy/dev-proxy-secret:/proxy-secret:ro
+      - ./proxy/server:/server
+
+  fallback:
+    build:
+      context: fallback
+    tty: true
+    stdin_open: true
+    environment:
+      MEMORY: "4G"
+      EULA: "TRUE"
+      DIFFICULTY: "peaceful"
+      SNOOPER_ENABLED: "false"
+      SPAWN_PROTECTION: "256"
+      VIEW_DISTANCE: "16"
+      MODE: "adventure"
+      SERVER_PORT: "25567"
+      LEVEL_TYPE: "flat"
+      CFG_PROXY_SECRET: "secret"
+      CFG_LUCKPERMS_DB_HOST: "luckperms-db"
+      CFG_LUCKPERMS_DB_PORT: "5432"
+      CFG_LUCKPERMS_DB_NAME: "luckperms"
+      CFG_LUCKPERMS_DB_USERNAME: "luckperms"
+      CFG_LUCKPERMS_DB_PASSWORD: "luckperms"
+    links:
+      - luckperms-db
+
+  luckperms-db:
+    image: postgres:17.4
+
+    volumes:
+      - luckperms-db:/var/lib/postgresql/data
+
+    environment:
+      POSTGRES_USER: luckperms
+      POSTGRES_PASSWORD: luckperms
+      POSTGRES_DB: luckperms
+
+volumes:
+  luckperms-db:
