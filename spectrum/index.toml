@@ -457,10 +457,6 @@ file = "config/jamlib/known_suspicious_jars.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/lavasand.json"
-hash = "a5b91fc76fc4c2706850453a7fa61ccd5c2697ce4d6d7a5184716d8e58d3668f"
-
-[[files]]
 file = "config/leavesbegone-server.toml"
 hash = "f161aa2c2a88a9d9b332695195a7b5c53f8ae26504c0fa5b52fdb63e138ad450"
 
@@ -739,6 +735,10 @@ metafile = true
 file = "datapacks/stellarity-x-nullscape.pw.toml"
 hash = "cb42db19696fcf15d6d037c216f509e75c6781dfec248ba56f62144b73edd71b"
 metafile = true
+
+[[files]]
+file = "lifecycle/pre-stop.sh"
+hash = "54d7fdfe669aab1281bf61c8bf73670e56c56e5781a31d027c9a2ceae82e978b"
 
 [[files]]
 file = "mods/achievements-optimizer.pw.toml"
@@ -1173,11 +1173,6 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "73a2401460944b3894f7a2bbd7f2d29aaa977b1e083051f2ef47c7643e79591f"
-metafile = true
-
-[[files]]
-file = "mods/lava-turns-sand-into-glass.pw.toml"
-hash = "d1be351410b6f525d7cecd88b43ed7c3b2a53183af109b82041faa1627097f69"
 metafile = true
 
 [[files]]
@@ -1759,6 +1754,26 @@ metafile = true
 file = "resourcepacks/sparkles.pw.toml"
 hash = "459dd871d3cc09f7a445cd35e54773d8102ac87e385950076652dcfbb1915c01"
 metafile = true
+
+[[files]]
+file = "resourcepacks/spectrum-translations/assets/spectrum/lang/en_us.json"
+hash = "43e5d9b561939f4d1982fa3c638306332e5e5d9cba297d7611934b39aa266fac"
+
+[[files]]
+file = "resourcepacks/spectrum-translations/assets/spectrum/lang/et_ee.json"
+hash = "b4571e6ee564948a73fdf45ce68b1fb123fc8e7720fc82df3449377e6043bac7"
+
+[[files]]
+file = "resourcepacks/spectrum-translations/assets/spectrum/lang/ru_ru.json"
+hash = "cba264506a16a965ce8160d604f1b04645a4d83e3d7b47a737ab98558b53271a"
+
+[[files]]
+file = "resourcepacks/spectrum-translations/pack.mcmeta"
+hash = "c3929a222981db37673932b10d6e6d96c8f7cd36a6351cc442fdb07ef07108dc"
+
+[[files]]
+file = "resourcepacks/spectrum-translations/pack.png"
+hash = "6a1abb1d3f59762694b27a1ffd1f9e5f2ee3f3341a0d5b2c41ad98b5e52b12f7"
 
 [[files]]
 file = "resourcepacks/splatus-datapack-resources.pw.toml"
