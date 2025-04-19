@@ -741,6 +741,11 @@ file = "lifecycle/pre-stop.sh"
 hash = "54d7fdfe669aab1281bf61c8bf73670e56c56e5781a31d027c9a2ceae82e978b"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "6ee87b5aec24f4cf76986ef9c89b15e85e975d903f9cc5f6e302820a1c6b4ec1"
+metafile = true
+
+[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "ab6b6720675ad567003382f7a1df663a288cb50edfaa531cf7b9171a421c02ae"
 metafile = true
@@ -1056,6 +1061,11 @@ hash = "ff9e99343b723871584736fc1ba8e8316bff47bc7ed28e822597e6d832756c4c"
 metafile = true
 
 [[files]]
+file = "mods/female-gender.pw.toml"
+hash = "6d959deb32c04682b6e3258d6dbf7b632c912f00da1b6a0b1b5c632c26bfbbe6"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "b6c5d5bbc0b27a182241c532d8de163bed9283588be90e3701a6410b432b6689"
 metafile = true
@@ -1163,6 +1173,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-blur.pw.toml"
 hash = "37ffd7bb60cb5f63d405e0a012f6420e5b61cdb092649a19cd1e142914df05bd"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "21f56256a328fd6852e73c147541167b070026f5ef1865a541e9aeec12c65306"
 metafile = true
 
 [[files]]
