@@ -44,5 +44,5 @@
     "spectrum.tip.ping": "Используйте %s, чтобы указать местоположение другим игрокам поблизости",
     "spectrum.tip.polydex_search": "Используйте %s для поиска предметов и рецептов, включая контент серверных модов",
     "spectrum.pack_name": "Spectrum",
-    "ee.borooka.spectrum": "Пользовательские ключи перевода для Spectrum"
+    "spectrum.translations.custom": "Пользовательские ключи перевода для Spectrum"
 }

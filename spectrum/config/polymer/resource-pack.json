@@ -13,7 +13,7 @@
   "include_mod_assets": [],
   "_c6": "Included resource packs from zips!",
   "include_zips": [
-    "resourcepacks/spectrum-translations",
+    "resourcepacks/translations.zip",
     "resourcepacks/anti-xray.zip",
     "resourcepacks/translations-for-sodium.zip",
     "resourcepacks/chat-reporting-helper.zip",

@@ -44,5 +44,5 @@
     "spectrum.tip.ping": "Use %s to point out a location to nearby players",
     "spectrum.tip.polydex_search": "Use %s to search for items and recipes, including from server-side mods",
     "spectrum.pack_name": "Spectrum",
-    "ee.borooka.spectrum": "Custom translation keys for Spectrum"
+    "spectrum.translations.custom": "Custom translation keys for Spectrum"
 }

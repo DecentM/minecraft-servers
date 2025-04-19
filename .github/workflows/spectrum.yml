@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - spectrum/**
+      - spectrum-translations/**
       - .github/workflows/spectrum.yml
 
 permissions:

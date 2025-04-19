@@ -1,3 +1,16 @@
+FROM alpine:3.21.3 AS translations
+
+RUN apk add --no-cache zip
+
+WORKDIR /data
+
+COPY . .
+
+RUN zip -r translations.zip translations
+
+#
+# RUNTIME
+#
 FROM ghcr.io/itzg/minecraft-server:2025.4.0-java21-graalvm
 
 ENV GUI=false
@@ -17,5 +30,7 @@ ENV PACKWIZ_URL=file:///data/pack.toml
 WORKDIR /data
 
 COPY . .
+
+COPY --from=translations --chown=1000:1000 /data/translations.zip resourcepacks/
 
 VOLUME [ "/data/world" ]

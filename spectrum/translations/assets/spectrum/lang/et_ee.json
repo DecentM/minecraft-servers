@@ -44,5 +44,5 @@
     "spectrum.tip.ping": "Kasuta %s, et näidata asukohta lähedalviibivatele mängijatele",
     "spectrum.tip.polydex_search": "Kasuta %s, et otsida esemeid ja retsepte, sh serveripoolsetest modifikatsioonidest",
     "spectrum.pack_name": "Spectrum",
-    "ee.borooka.spectrum": "Spectrum'i kohandatud tõlkevõtmed"
+    "spectrum.translations.custom": "Spectrum'i kohandatud tõlkevõtmed"
 }
