@@ -1,12 +1,12 @@
 name = "spectrum"
 author = "DecentM"
-version = "1.0.4"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "01b2eea29684bf26524c4ac4393c5b7a5e87339c61cbe626d1a6fcee5ee0a95c"
+hash = "1a48cb9361a47954a3d8dfeb7f6b8549da33f4ec8c4ad4cfbae63c3361231be7"
 
 [versions]
 fabric = "0.16.10"

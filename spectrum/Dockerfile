@@ -1,13 +1,3 @@
-FROM alpine:3.21.3 AS translations
-
-RUN apk add --no-cache zip
-
-WORKDIR /data
-
-COPY . .
-
-RUN zip -r translations.zip translations
-
 #
 # RUNTIME
 #
@@ -30,7 +20,5 @@ ENV PACKWIZ_URL=file:///data/pack.toml
 WORKDIR /data
 
 COPY . .
-
-COPY --from=translations --chown=1000:1000 /data/translations.zip resourcepacks/
 
 VOLUME [ "/data/world" ]

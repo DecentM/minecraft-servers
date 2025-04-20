@@ -44,4 +44,4 @@ https://github.com/MiniPlaceholders/Spark-Expansion/releases/download/1.0.1/Spar
 https://cdn.modrinth.com/data/lH2P7M8M/versions/utKAZXsh/CustomCommands-1.2.jar
 
 # Raknetify - https://modrinth.com/plugin/raknetify
-https://cdn.modrinth.com/data/5IovSY3u/versions/U2qamBnj/raknetify-velocity-0.1.0%2Balpha.5.167-all.jarc
+https://cdn.modrinth.com/data/5IovSY3u/versions/U2qamBnj/raknetify-velocity-0.1.0%2Balpha.5.167-all.jar
