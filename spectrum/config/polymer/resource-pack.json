@@ -12,21 +12,9 @@
   "_c5": "Included resource packs from mods!",
   "include_mod_assets": [],
   "_c6": "Included resource packs from zips!",
-  "include_zips": [
-    "resourcepacks/translations.zip",
-    "resourcepacks/anti-xray.zip",
-    "resourcepacks/translations-for-sodium.zip",
-    "resourcepacks/chat-reporting-helper.zip",
-    "resourcepacks/slightly-improved-font.zip",
-    "resourcepacks/joshs-more-foods.zip",
-    "resourcepacks/splatus-datapack-resources.zip",
-    "resourcepacks/diagonal-perfect-rails-3d.zip",
-    "resourcepacks/sparkles.zip",
-    "resourcepacks/stellarity-music.zip",
-    "resourcepacks/stellarity-rp.zip"
-  ],
+  "include_zips": [],
   "_c7": "Path used for creation of default resourcepack!",
-  "resource_pack_location": "polymer/resource_pack.zip",
+  "resource_pack_location": "${CFG_POLYMER_RESOURCE_PACK_PATH}",
   "_c8": "Prevents selected paths from being added to resource pack, if they start with provided text.",
   "prevent_path_with": []
 }

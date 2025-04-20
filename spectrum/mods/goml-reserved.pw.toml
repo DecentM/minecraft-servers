@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/j5niDupl/versions/N4XW15zD/goml-1.13.1%2B1.21.jar"
-hash-format = "sha512"
-hash = "f3d858d4ee5a58b31e6f4de1b1999c9b2b836facb9c94f71539937981b744d0a34db67b6ed4b6e06d8ed842488dec527793884557a636b6faa5375e923f870f5"
+hash-format = "sha1"
+hash = "3c513317d251589d7c13f01f5beb2e4020387999"
 
 [update]
 [update.modrinth]

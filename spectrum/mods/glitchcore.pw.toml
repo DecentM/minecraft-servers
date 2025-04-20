@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/s3dmwKy5/versions/lbSHOhee/GlitchCore-fabric-1.21.1-2.1.0.0.jar"
-hash-format = "sha512"
-hash = "ccd5c3812faf1161f61a894deec609eb6c3de36debe63dc00b75698a9b71dfb30bc00e0a34c3e030b3adb4c224e829783f66ad66768c28dedbefc024ddbd6041"
+hash-format = "sha1"
+hash = "46e6a284ca15f1f90114048b3e5bb64d831f8d72"
 
 [update]
 [update.modrinth]

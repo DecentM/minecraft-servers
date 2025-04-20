@@ -1,3 +1,6 @@
+#
+# RUNTIME
+#
 FROM ghcr.io/itzg/mc-proxy:java21-2025.4.0
 
 ENV JVM_OPTS="-Dvelocity.packet-decode-logging=true -Dvelocity.max-known-packs=128"

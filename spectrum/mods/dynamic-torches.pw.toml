@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/AK1n0IqM/versions/cSPhVkWI/dynamic-torches-5.3.jar"
-hash-format = "sha512"
-hash = "f814b3380b332d4f7485219524d391d8504fd89719d2c8936b00e86bceca5dc44dcfd4d7f8638dcfe073da17cef167ba32a9254fa40eed43b17f5344d6c311d6"
+hash-format = "sha1"
+hash = "fe18071f91537676890007115cba9320ac9c22bb"
 
 [update]
 [update.modrinth]

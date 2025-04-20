@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/5710VC7f/versions/9spqh9Vr/polydecorations-0.4.4%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "4c8f0c7d6b2f8e4127a5ba772c9b348a99bdc8eaa1d68cda46b6ce46e16659061cfd6af43bafaadb349f60dbf291a17017f8169cc19a68fba73d427b6b376af1"
+hash-format = "sha1"
+hash = "6bdbe912bff01d489633759c18fd4905608c3d07"
 
 [update]
 [update.modrinth]

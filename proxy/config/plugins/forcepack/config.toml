@@ -1,0 +1,124 @@
+# ForcePack Velocity config.
+# ForcePack uses MiniMessage for message formatting.
+# You can check the MiniMessage documentation for how to use it: https://docs.adventure.kyori.net/minimessage#format
+# ForcePack documentation: https://fortitude.islandearth.net/category/forcepack
+# Need help? Join our Discord: https://discord.gg/fh62mxU
+
+# Whether to ignore geyser players. Only enable this if you use geyser.
+geyser = false
+
+# Whether to verify that your resource packs have the correct hash.
+# May reduce startup time by disabling, but makes problems less obvious.
+verify-resource-packs = false
+
+# If we should continuously update the GUI for players <= 1.12. Prevents escaping out bypass.
+update-gui = true
+
+# The update speed of the GUI in milliseconds
+update-gui-speed = 1000
+
+# Should we forcefully send a resource pack that has an invalid size for the player's client version?
+force-invalid-size = false
+
+# If this is true, resource packs will always be sent to the player even if they already seem to have the same resource pack.
+force-constant-download = true
+
+# If this is true, a player will not be able to execute any commands until the resource pack is loaded.
+disable-commands-until-loaded = true
+
+# A list of commands that can be executed anyway if disable-commands-until-loaded is true.
+exclude-commands = []
+
+# Whether to enable the bypass permission. If you disable this, all OPs will no longer be able to bypass.
+# But you should really fix your permissions instead.
+bypass-permission = true
+
+# Appends the hash to your URL to fix this bug.
+enable-mc-164316-fix = true
+
+# Should we use the 1.17+ force resource pack screen, or the old one?
+# You can still define a custom message that will show even if this is false for 1.17+ clients
+# Note that with this true, the custom disconnect message will not work because the client forcefully kicks itself
+use-new-force-pack-screen = true
+
+# Should we try and prevent hacked clients sending fake resource pack accept packets?
+# Still bypassable, but some are stupid and we are able to detect them.
+try-to-stop-fake-accept-hacks = true
+
+# How many ticks to delay sending a resource pack by
+# Use this if you have a plugin teleporting someone after joining which closes the resource pack screen
+delay-pack-sending-by = 0
+
+# Whether to enable debug mode. Prints some extra info.
+debug = false
+
+[web-server]
+    enabled = false
+
+[unload-pack]
+    # Whether to send an empty resource pack when joining a server without one configured, and the player has one applied
+    enable = true
+    # The URL of the unload pack
+    # It's highly recommended you re-host this pack using the webserver or on a CDN such as mc-packs.net for faster load times.
+    # Leaving this as default potentially sends a lot of requests to my personal web server, which isn't ideal!
+    url = "${CFG_BLANK_RESOURCE_PACK_URL}"
+    # The SHA-1 hash of the unload pack file
+    hash = "${CFG_BLANK_RESOURCE_PACK_SHA1SUM}"
+    # Whether to automatically generate the SHA-1 hash.
+    # The hash setting will be ignored if this is true, however it will fall back to that if the generation fails.
+    generate-hash = false
+    # What servers should we exclude from unloading?
+    exclude = []
+
+[global-pack]
+    # Whether to enable a global resource pack. If a server does not have a resource pack configured, it shall use this.
+    enable = true
+    # The URL of the unload pack
+    # It's highly recommended you re-host this pack using the webserver or on a CDN such as mc-packs.net for faster load times.
+    # Leaving this as default potentially sends a lot of requests to my personal web server, which isn't ideal!
+    urls = [
+        "${CFG_POLYMER_RESOURCE_PACK_URL}",
+        "${CFG_TRANSLATIONS_RESOURCE_PACK_URL}",
+        "https://cdn.modrinth.com/data/tN4E9NfV/versions/35LzIcZT/Chat%20Reporting%20Helper.zip",
+        "https://cdn.modrinth.com/data/GpbiI09r/versions/OuhpP9gE/DiagonalPerfectRails2.1.zip",
+        "https://github.com/Joshcraft2002/joshs-more-foods/releases/download/v5.3.2/joshs-more-foods_5.3.2_resource_pack.zip",
+        "https://cdn.modrinth.com/data/yopVn4E8/versions/voCszbPf/Slightly-Improved-Font-1.1.5.zip",
+        "https://cdn.modrinth.com/data/HfNmMQ9E/versions/54EaRxuy/Sparkles_1.21.x_v1.1.3.zip",
+        "https://cdn.modrinth.com/data/ePQ9Wowd/versions/fYlGhk18/ls-datapack-resources-v1.0.10.zip",
+        "https://cdn.modrinth.com/data/IJHcrsas/versions/Qohw0Ypc/Stellarity-Music-3-0-3.zip",
+        "https://cdn.modrinth.com/data/NfszI0rL/versions/phhrF4FC/Stellarity-RP-3-0-3.zip",
+        "https://mediafilez.forgecdn.net/files/5437/572/Anti_Xray_Lite_1.21.zip"
+    ]
+    # The SHA-1 hash of the unload pack file
+    hashes = [
+        "${CFG_POLYMER_RESOURCE_PACK_SHA1SUM}",
+        "${CFG_TRANSLATIONS_RESOURCE_PACK_SHA1SUM}",
+        "0cf70bbf1a1bf89fb9ebdff0515ccc54fa6340bb", # chat reporting helper
+        "1bdf7c6b30d5a591d5059350eca27a65955b002d", # diagonal perfect rails
+        "bd691ab05b5f4beb956ea18d1dbe3699a9d2a405", # joshs more foods
+        "da836f13d948d0024a6aa5818beb3b06102bbe40", # slightly improved font
+        "eaea238050eb8ea10090fa680cf09db3f85f695a", # sparkles
+        "56eb186ac4b5306430f479ee4e892903147a12eb", # splatus datapack resources
+        "736674831cb0853944145d87d1ae8e421f0a4c34", # stellarity music
+        "b3041330f9129088c0339e8854340b8aa7bdc716", # stellarity
+        "2df48e19c4766eda5ff272cdb23eb890a0cb7e22" # anti-xray-lite
+    ]
+    # Whether to automatically generate the SHA-1 hash.
+    # The hash setting will be ignored if this is true, however it will fall back to that if the generation fails.
+    generate-hash = false
+    # The prompt message for clients on 1.17+.
+    resourcepack.prompt = "<yellow>This server uses resource packs to work"
+    # What servers should we exclude from the global pack?
+    exclude = []
+
+[servers]
+    # You can specify any server name here that is configured in velocity.
+    [servers._]
+        # The ResourcePack URL. This must be a direct URL, ending with .zip. For Dropbox URLs, add ?dl=1 to the end.
+        # To host a local file on the embedded webserver, change this to the relative path of the force pack folder prefixed by "forcepack://".
+        # For example, placing your resource pack as "plugins/ForcePack/pack.zip", the url will just be "forcepack://pack.zip".
+        # ONLY PLAYERS ON 1.20.3+ CAN RECEIVE MULTIPLE RESOURCE PACKS. The first URL/Hash pair will be taken for older client versions.
+        # URLs list and hashes list MUST BE THE SAME SIZE if generate-hash is disabled.
+        resourcepack.urls = []
+        # See https://fortitude.islandearth.net/forcepack/configuration#getting-the-sha-1-hash-of-a-resource-pack
+        resourcepack.hashes = []

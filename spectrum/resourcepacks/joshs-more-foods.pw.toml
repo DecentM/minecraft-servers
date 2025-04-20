@@ -1,8 +1,0 @@
-name = "joshs-more-foods_5.3.2_resource_pack"
-filename = "joshs-more-foods.zip"
-side = "server"
-
-[download]
-url = "https://github.com/Joshcraft2002/joshs-more-foods/releases/download/v5.3.2/joshs-more-foods_5.3.2_resource_pack.zip"
-hash-format = "sha512"
-hash = "bfb60fd7640a831288d8916312b48ec6536f78168a451274048c3a85577f57e896adf4c06f6d2066c71a0dc74064df93377f9ddc4e6e0a593c3e7d4980587102"

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/g8SrZYee/versions/yExJpFSp/custom-client-brand-1.0.1%2B1.20.5.jar"
-hash-format = "sha512"
-hash = "61b44a636dc32069d55df1f59ad0cb7dd7802ed5148efae160c18d2da5f70308b850fa87851859a7e691d7c8b78540878da30a7e1d1d286f228349d2a495a0d1"
+hash-format = "sha1"
+hash = "64fadaef585e105260bd3ba7ffb7e64271ca38d0"
 
 [update]
 [update.modrinth]

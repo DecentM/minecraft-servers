@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/6Uocsa4f/versions/FXRXfpYq/travelers-journal-1.2.6.jar"
-hash-format = "sha512"
-hash = "18e6c92c2fea9ecd2657135f0a171d2bb22d5594421f2f42cf81ab062ef5b9c6b9bc68d81243841f1d2fdb12cbe48cc5ac80df8501e533db9a9783d242391e33"
+hash-format = "sha1"
+hash = "e30a9f95d18b8020d400cad9447d0485660fc020"
 
 [update]
 [update.modrinth]

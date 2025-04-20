@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/roKs0YXd/versions/3HG5K6H6/Repacked-1.0-1.21.1.jar"
-hash-format = "sha512"
-hash = "eaec5e88ad6ab3b4023930f428d814d5b0375b97908207ad3fc74cfdfe50dd3efede58fd4888206ee2654bdcb78569e0f033e5a917631318cca33a956429c2f0"
+hash-format = "sha1"
+hash = "810946cd452596d196b40a83da8d5799e92c7c40"
 
 [update]
 [update.modrinth]

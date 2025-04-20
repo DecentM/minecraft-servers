@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/XcifMBeU/versions/oAmGfYMP/linkart-refabricated-6.1.0-1.21.1.jar"
-hash-format = "sha512"
-hash = "93cb160888a79f8dee55409b68b3126bd47810c34cb93619c3e7a3c223740d39a110761105e31e5d2055a0a69bcc9d49fceea47a018b7be276d6caf46a1ba7ca"
+hash-format = "sha1"
+hash = "836901e3950f92836c04725026f1d26e71c3d3e1"
 
 [update]
 [update.modrinth]

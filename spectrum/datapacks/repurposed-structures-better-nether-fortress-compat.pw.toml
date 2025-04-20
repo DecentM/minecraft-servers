@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/7vT7Bwz9/versions/qJcwHdWl/Repurposed_Structures-Better_Nether_Fortress_v10.zip"
-hash-format = "sha512"
-hash = "8af3f9c0bace076b34e480eb1b121b97f773720809d48733175d2925b3ec6c122afe9d67337f4e29ac8660ba78a055246ae0a5ef2af8936a23b523d07838a969"
+hash-format = "sha1"
+hash = "665912a5a0e7ff1ca78c22de468a87636260fa2b"
 
 [update]
 [update.modrinth]

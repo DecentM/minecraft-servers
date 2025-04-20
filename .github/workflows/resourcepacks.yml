@@ -1,19 +1,19 @@
-name: Build translations
+name: Build resource packs
 
 on:
   push:
     branches:
       - main
     paths:
-      - translations/**
-      - .github/workflows/translations.yml
+      - resourcepacks/**
+      - .github/workflows/resourcepacks.yml
 
 permissions:
   contents: write
   packages: write
 
 jobs:
-  build-and-push:
+  translations:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,12 +26,12 @@ jobs:
         with:
           type: 'zip'
           filename: 'translations.zip'
-          directory: translations
+          directory: resourcepacks/translations
 
       - name: Upload Release
         uses: ncipollo/release-action@v1.12.0
         with:
-          artifacts: "translations/translations.zip"
+          artifacts: "resourcepacks/translations/translations.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
           commit: main
           tag: translations-${{ github.event.head_commit.id }}

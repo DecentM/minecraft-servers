@@ -2,7 +2,7 @@
   "_c7": "Displays vanilla/modded creatives tabs in /polymer creative",
   "displayNonPolymerCreativeTabs": false,
   "_c9": "Makes server send additional block updates around clicked area",
-  "sendBlocksAroundClicked": true,
+  "sendBlocksAroundClicked": false,
   "_c11": "Makes polymer report time it's handshake took",
   "logHandshakeTime": false,
   "_c12": "Enables logging of BlockState ids rebuilds",

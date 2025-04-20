@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/SvXrP8rT/versions/ER7ZWakY/AchievementOptimizer-fabric-1.21.1-2.0.0.jar"
-hash-format = "sha512"
-hash = "18f4032ba81e345b404d14ac2f71a68b00e01e80b44db5ece7e7b8df284ef012063abb0556abaca7f770b86fc18a3a59e711709a9b4e6789325fd944e5a3cbb1"
+hash-format = "sha1"
+hash = "d66cc7aa74da50f036392bf05a72b0c5d7db6cdd"
 
 [update]
 [update.modrinth]

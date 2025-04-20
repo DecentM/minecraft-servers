@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/II7t6llZ/versions/5nUEDt1Z/wwoo-2.3.4.jar"
-hash-format = "sha512"
-hash = "4ca1ffa9274152e6b5bf978f03be0bd350599e2481ca42494b3a65f0390cb1c83284185f9758e41fe32136c42dc5d5944d6d355679b2939e2b1f592181fc1c89"
+hash-format = "sha1"
+hash = "1e26a8ea18cf133fffd900dce5c3393ee2f81e6c"
 
 [update]
 [update.modrinth]

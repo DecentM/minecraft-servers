@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/KI9beRvX/versions/sOp4Ohj3/skipservercheck-1.0.1b.jar"
-hash-format = "sha512"
-hash = "bfba0ae17e7513ff288e96b57a7b1e8188e24033d350660079b11c7e51f18b84d1f1ae56730c880ebe1b684acdcb8731412598c884734905ca6f9ae2464b7275"
+hash-format = "sha1"
+hash = "fb4f9a37812d33b49294a20220ff08996d9b9d94"
 
 [update]
 [update.modrinth]

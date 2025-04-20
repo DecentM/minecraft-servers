@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/vEC2jm6I/versions/orqupdKX/async-0.1.7%2Balpha.3-1.21.1.jar"
-hash-format = "sha512"
-hash = "4b40fec5d8e368e1630bdff23d72ddc675659f15c601681f318ceaff10f4c5da877eda9563797e3b406028a22dccf1255f838702f72ddf18d4fad4cb9232a2e8"
+hash-format = "sha1"
+hash = "322f6a345e9fe09a6faa5e2a9ec57da824b592ec"
 
 [update]
 [update.modrinth]

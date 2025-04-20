@@ -5,6 +5,8 @@ services:
     tty: true
     stdin_open: true
     environment:
+      UID: "0"
+      GID: "0"
       MEMORY: "8G"
       EULA: "TRUE"
       DIFFICULTY: "easy"
@@ -20,8 +22,11 @@ services:
       CFG_LUCKPERMS_DB_NAME: "luckperms"
       CFG_LUCKPERMS_DB_USERNAME: "luckperms"
       CFG_LUCKPERMS_DB_PASSWORD: "luckperms"
+      CFG_POLYMER_RESOURCE_PACK_PATH: "/self-host-rps/polymer.zip"
     links:
       - luckperms-db
+    volumes:
+      - self-host-rps:/self-host-rps
 
   proxy:
     build:
@@ -29,6 +34,8 @@ services:
     tty: true
     stdin_open: true
     environment:
+      UID: "0"
+      GID: "0"
       MEMORY: "4G"
       CFG_SERVER_TRY_1: "survival"
       CFG_SERVER_TRY_2: "fallback"
@@ -46,6 +53,12 @@ services:
       CFG_LUCKPERMS_DB_NAME: "luckperms"
       CFG_LUCKPERMS_DB_USERNAME: "luckperms"
       CFG_LUCKPERMS_DB_PASSWORD: "luckperms"
+      CFG_BLANK_RESOURCE_PACK_URL: https://files.catbox.moe/ouqh1j.zip
+      CFG_BLANK_RESOURCE_PACK_SHA1SUM: 118afffc54cdcd308702f81ba24e03223f15fe5f
+      CFG_POLYMER_RESOURCE_PACK_URL: http://localhost:8080/polymer.zip
+      CFG_POLYMER_RESOURCE_PACK_SHA1SUM: 16d069308aa917a17a6107c9bec61f1aab610632
+      CFG_TRANSLATIONS_RESOURCE_PACK_URL: https://github.com/DecentM/minecraft-servers/releases/download/translations-12f6b654e3cec795d46496d8aa3bc90755a19a6e/translations.zip
+      CFG_TRANSLATIONS_RESOURCE_PACK_SHA1SUM: a94df837a31ecdf2c1ba0bc790f1b0beb37768b4
     ports:
       - 25565:25565
     links:
@@ -55,6 +68,7 @@ services:
     volumes:
       - ./proxy/dev-proxy-secret:/proxy-secret:ro
       - ./proxy/server:/server
+      - self-host-rps:/self-host-rps
 
   fallback:
     build:
@@ -62,6 +76,8 @@ services:
     tty: true
     stdin_open: true
     environment:
+      UID: "0"
+      GID: "0"
       MEMORY: "4G"
       EULA: "TRUE"
       DIFFICULTY: "peaceful"
@@ -91,5 +107,13 @@ services:
       POSTGRES_PASSWORD: luckperms
       POSTGRES_DB: luckperms
 
+  nginx-rp:
+    image: nginx:1.27.5-alpine
+    volumes:
+      - self-host-rps:/usr/share/nginx/html:ro
+    ports:
+      - 8080:80
+
 volumes:
   luckperms-db:
+  self-host-rps:

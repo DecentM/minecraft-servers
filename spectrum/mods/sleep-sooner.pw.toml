@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/NHjSAFFN/versions/p4K66Qgn/sleepsooner-1.21.1-4.7.jar"
-hash-format = "sha512"
-hash = "c80492a36066efcc8c513a080c19d1a2113f92a4d71964cb84e535e7141f2660dc3907c57cb9eff012e448d3bcf922a9922159db52a8dfca91977c1a5e7583d9"
+hash-format = "sha1"
+hash = "0c8f2a1b6ec0e20435598d1aafe21be580f7cfdf"
 
 [update]
 [update.modrinth]

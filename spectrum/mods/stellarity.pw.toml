@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/bZgeDzN8/versions/U1siAvaG/Stellarity-3.0.6.jar"
-hash-format = "sha512"
-hash = "4330c9e8042681bbc2e4daebcfad1227d84f12d2713d1372491107506a3a618a7a4467a2d93d990422f11e9dbeb236985379929cdb35c4641f609699c11fb4bf"
+hash-format = "sha1"
+hash = "fa24bb8a0304f765bebfbb84891ec54483b3fc90"
 
 [update]
 [update.modrinth]
