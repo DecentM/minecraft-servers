@@ -47,14 +47,11 @@ jobs:
             ghcr.io/${{ steps.lowercase_owner.outputs.owner }}/${{ github.event.repository.name }}:spectrum-latest
             ghcr.io/${{ steps.lowercase_owner.outputs.owner }}/${{ github.event.repository.name }}:spectrum-${{ github.sha }}
 
-      - name: Download Packwiz
-        run: wget -O packwiz.zip https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
-
-      - name: Unzip Packwiz
-        run: unzip packwiz.zip -d packwiz
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
 
       - name: Export mrpack
-        run: ../packwiz/packwiz mr export -o spectrum.mrpack
+        run: ~/go/bin/packwiz mr export -o spectrum.mrpack
         working-directory: spectrum
 
       - name: Upload mrpack
