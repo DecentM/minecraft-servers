@@ -145,10 +145,6 @@ file = "config/collective/linger_messages.json"
 hash = "8ff5730d9cca75b14a000cefab527c916d3467b4528a93da414bc1160684158b"
 
 [[files]]
-file = "config/commands-spy.json"
-hash = "93d8e316368bef6b5e424baea3aa6ff002c166a1cbc1846d79c3d852512eff3b"
-
-[[files]]
 file = "config/computercraft-server.toml"
 hash = "eab74bd24c1b176375c8ac71119f575b98a605f861a88aa197077cd513c02953"
 
@@ -881,11 +877,6 @@ hash = "538831a490e267899e6febea30a77a8b51ace9cded29b7a885c031d2fead88c0"
 metafile = true
 
 [[files]]
-file = "mods/commandsspy.pw.toml"
-hash = "5b11202010b6652a5acf21390a82fb46c1d85ce65154ac349e760ad4a8f303a7"
-metafile = true
-
-[[files]]
 file = "mods/construction-wand-polymer.pw.toml"
 hash = "1b6020d09d26a36965e7df1f7ae124e7d42abca78a37fd3e10f092987063c84c"
 metafile = true
@@ -1386,6 +1377,11 @@ hash = "a4333ca7e32ecb005f399fcb5f78e1607f1226243df971309eb94b892487cc50"
 metafile = true
 
 [[files]]
+file = "mods/raknetify.pw.toml"
+hash = "a9f6c13cb7d321e36f08ff942527dadce30670b7461519abb9452f0695870fb7"
+metafile = true
+
+[[files]]
 file = "mods/random-bone-meal-flowers.pw.toml"
 hash = "987056cfd1fb05ec6f18c9ad8af3b03c1fa5e6aeb88313e400c0e1424ede53f3"
 metafile = true
@@ -1793,23 +1789,3 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "1a09a1d77bde4872b8215839223d0120927cd11cae78e41154ad909dca5cb06e"
-
-[[files]]
-file = "translations/assets/spectrum/lang/en_us.json"
-hash = "2ddd3682dc93445065b3e00503c833f3f039b65601774147092cdd937ebf210f"
-
-[[files]]
-file = "translations/assets/spectrum/lang/et_ee.json"
-hash = "f14f9592ad81ff7695d68aa596c46d95336b11d7dda787bdafafd435c633a515"
-
-[[files]]
-file = "translations/assets/spectrum/lang/ru_ru.json"
-hash = "1cd637d3f1cd5f73d187a705d52f65867ae5a6404c1d3054aa0c3873a5154006"
-
-[[files]]
-file = "translations/pack.mcmeta"
-hash = "11f68c16d7d6b8f5b952a460d2d49eaf5749222c60a0119bf9aece8a60caf344"
-
-[[files]]
-file = "translations/pack.png"
-hash = "6a1abb1d3f59762694b27a1ffd1f9e5f2ee3f3341a0d5b2c41ad98b5e52b12f7"
