@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/tPe4xnPd/versions/MWH0DcT7/formations-1.0.2-fabric-mc1.21.jar"
-hash-format = "sha1"
-hash = "f859445a8d6830a768411dbe916edd6af45c708d"
+hash-format = "sha512"
+hash = "f0524d4f11f2905df57f147d1696dadc2bab753c52f176a7b92cbf89df02a5e07b2b5a77e4ad1e617c01bfa71dbbe9b82b81ea9d080fea413995d254c95db004"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/PXaH6GuW/versions/pDDnyIPS/toms_mobs-2.2.0%2B1.21.jar"
-hash-format = "sha1"
-hash = "50b953bfeb9afeda5f47b5fbc8d048c6dac8eeaf"
+hash-format = "sha512"
+hash = "e0b91b6c47c10e6638ac2f904b099dad718f7912cdab8a6ecd1a4b47a64bdaca959c1d595ece76dcb70b69f942ed5d593de79e07994717759958b9188922cc76"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/WC4UgDcZ/versions/fQ1HXxD4/grind-enchantments-4.0.0%2B1.21.1.jar"
-hash-format = "sha1"
-hash = "77c19639e6644e82aa2e1796d3fdb52414c6c46e"
+hash-format = "sha512"
+hash = "a6290f8b2a7546d4910389d619937f6e435f731cb206e23baf6888c690ae661d6bca62c26a4af37e26a1e89910c3a9a087ff7a50af27e0643759ad6b4691e263"
 
 [update]
 [update.modrinth]

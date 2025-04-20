@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/egyqODDj/versions/A6hR4XOD/spellbound-weapons-v4.1.0c.jar"
-hash-format = "sha1"
-hash = "cd9a1ed60ebf32a611e3f6c52cf6b77c98672645"
+hash-format = "sha512"
+hash = "8a381701961465a288d6f6012c14e71fd8e6c60b2c05b7f5f6d65b51de45766ac899d7acb02d9c13b2203ea173dac832c2947112c5597612f064d8b303593797"
 
 [update]
 [update.modrinth]

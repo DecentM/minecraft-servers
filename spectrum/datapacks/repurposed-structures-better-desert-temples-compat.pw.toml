@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/mKaYfrOy/versions/TH5RgMfh/Repurposed_Structures-Better_Desert_Temples_v11.zip"
-hash-format = "sha1"
-hash = "b27fa8ff520fce5a91bfe4539eef01212d576a4d"
+hash-format = "sha512"
+hash = "ea925fbbd564406abff27e37d6f4fd47c71ea8abcb4b828ddc15bd2bbbd8a64fde15a3809c835a3754f4ae05003359c0ae474037497f595958d8d9da8b1fe91c"
 
 [update]
 [update.modrinth]

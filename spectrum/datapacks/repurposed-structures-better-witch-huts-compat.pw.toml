@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/ePaZVJM4/versions/CTab3l6x/Repurposed_Structures-Better_Witch_Huts_v5.zip"
-hash-format = "sha1"
-hash = "c60acd9f4ddba3cfac66cd1e352f8ebc214f3628"
+hash-format = "sha512"
+hash = "12f588dac78275fc1f8ada37bae977dc749fe3a8180557001359a9bc4d4f6742e3099fa95210e04c07b69b64b556d22df74046547e25156f758c276712316b25"
 
 [update]
 [update.modrinth]

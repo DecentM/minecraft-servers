@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/9kdDMOvM/versions/f2bDEHT3/televator-1.1.9.jar"
-hash-format = "sha1"
-hash = "3354a9128b8cfc0338f653bd2364b5d79c697b48"
+hash-format = "sha512"
+hash = "b0fe882f16acd427781967a15063011ce7275cbf1743c9466d91740839df8db3d21ec86027cc19a30f1c20df445e8175c837f6707010fef06734483c50b09bff"
 
 [update]
 [update.modrinth]

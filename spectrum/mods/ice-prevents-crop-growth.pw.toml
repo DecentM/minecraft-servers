@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/6rPhicfw/versions/ry7c9vsd/icepreventscropgrowth-1.21.1-3.5.jar"
-hash-format = "sha1"
-hash = "8fe93d925317c3ff323abcd45d471ff35623329d"
+hash-format = "sha512"
+hash = "e840b7b7b46ea682adcf32caf967bff56c1414f1899fb8f4a31c5c73f1ec59a977c5ee6074e34e04da517fcea93ea29b80379eb3b72892e68d3cf9f553d5890c"
 
 [update]
 [update.modrinth]

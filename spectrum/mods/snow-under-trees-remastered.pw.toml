@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/XVnUIUAQ/versions/2XRfQcUl/SnowUnderTrees-2.7.1%2B1.21.1.jar"
-hash-format = "sha1"
-hash = "4db138edd06a4d96abd14b3ec5c1dfa3190c8474"
+hash-format = "sha512"
+hash = "0c5ac59347054b2907c44cec93b53ea202d2c376510f77b7d26b4422c3480afb704bc6460a5900a5fb4a75a809c2a1a0e1c186046d7b378875cc92a417c35af7"
 
 [update]
 [update.modrinth]

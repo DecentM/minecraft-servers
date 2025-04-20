@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/8tiZuCBJ/versions/VnqLy3a4/wither-cage-fix-1.0.23%2BMC1.20-1.21.1.jar"
-hash-format = "sha1"
-hash = "e06c30142486ccb4d8f0df8ebd12e2e46ae89ec5"
+hash-format = "sha512"
+hash = "641a129da55ddbb23224d960b0c42d864437b6a0404ffebbe36fdc2c7c74802a95d2c31f7e76f3eb7c7b98ab4e3490c53ce29ac8c07f391b6e75e8a09d45ec88"
 
 [update]
 [update.modrinth]

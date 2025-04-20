@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/d7PCSOkD/versions/Yrqbb2TS/highspeed-rail-0.9.0%2B1.21.1.jar"
-hash-format = "sha1"
-hash = "9189d7ac839ae45c36b7974bacf42d56d2bfb5b7"
+hash-format = "sha512"
+hash = "64c48c66193a31b4fca81525c9d0defb2d38d2d78d2fc21752454bb23c0fd35bdd2632986963f4096ededa8d225f2f3324e6b1c0d5b804a917edc6d3b83eebb1"
 
 [update]
 [update.modrinth]

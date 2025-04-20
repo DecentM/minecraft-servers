@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/wT6VbNSv/controlify-2.1.1%2B1.21-fabric.jar"
-hash-format = "sha1"
-hash = "b77fcc716b8589e6c642de1454466f8654d8025f"
+hash-format = "sha512"
+hash = "ba6f68c92eca01e6377c4ed163caf0009eb7736b8988ba311059db7ea506ecde510c577f514462f684cd5c35d2e6848ae851b123454ea7ee3f959f5ea3a1738e"
 
 [update]
 [update.modrinth]

@@ -1,0 +1,13 @@
+name = "Splatus Datapack Resources"
+filename = "splatus-datapack-resources.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ePQ9Wowd/versions/fYlGhk18/ls-datapack-resources-v1.0.10.zip"
+hash-format = "sha512"
+hash = "671f46308fb453868f0dbbfa01f187b20365fd72767065c3b0e159b7110f81c56cea5927ac181dd9c7a7e840d4a6c7a5994e83de1487030df63fbf2125b59b90"
+
+[update]
+[update.modrinth]
+mod-id = "ePQ9Wowd"
+version = "fYlGhk18"

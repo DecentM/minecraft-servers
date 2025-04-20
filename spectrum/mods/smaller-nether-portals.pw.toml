@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/fYAofsi6/versions/ZAbiGvCu/smallernetherportals-1.21.1-3.9.jar"
-hash-format = "sha1"
-hash = "fe6ac1f624431dccfa1367b7a8bd2fd6b07ec4fb"
+hash-format = "sha512"
+hash = "94f75829c7ef07b28280240052be4fe3411eaee6c6fd70f98958b478fb3f04d3bf8646f63f57470a3ea21c42ff1871053d8d8107219fa51965d798688b3335a4"
 
 [update]
 [update.modrinth]

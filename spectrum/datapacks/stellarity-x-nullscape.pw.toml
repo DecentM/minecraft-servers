@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/bxgn7qmu/versions/HJ170LXl/Stellarity%20x%20Nullscape%20%281.21%29.zip"
-hash-format = "sha1"
-hash = "72e9bba06148905ba3ccaef046aaeac594fdd368"
+hash-format = "sha512"
+hash = "322f04fed30fcaaf78feca9b5ff0a6324196e409d23e2f8eac0f30739887f39cf255b106159c1fd8d1108ed1cd5cfeb10c286500924715bd8636f1c087236b91"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/Krr4wZKC/%5Bfabric%5Dctov-3.5.6.jar"
-hash-format = "sha1"
-hash = "c9c213bec6230762b5e27996256f4eaab6f05ecf"
+hash-format = "sha512"
+hash = "8bbb43262eab215cd23540d4c823de5b8fd4e109358cf865e1c8271b10672911830aea55413516860fd0b72b823cd37751ac6079c5878ab65fca9ecc8cd153df"
 
 [update]
 [update.modrinth]

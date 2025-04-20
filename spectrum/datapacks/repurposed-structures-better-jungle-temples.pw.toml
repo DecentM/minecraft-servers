@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/gAvG8ZeC/versions/ZYuHt4dP/Repurposed_Structures-Better_Jungle_Temples_v7.zip"
-hash-format = "sha1"
-hash = "08d9bf1a756f84e70b9b533f0c3d7a0c555412b5"
+hash-format = "sha512"
+hash = "e6e8d8d60a30e3a3a5fc61155083aca43d16ccad1b1ac423ed8fdcb026fa4ab4b1b9efd7fc80a475f0e45bb3855352483af592649afc559bfca91b21e2a84465"
 
 [update]
 [update.modrinth]

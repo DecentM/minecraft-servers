@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/TEOa2X8B/versions/Q4HKC0iZ/AnvilNeverTooExpensive-fabric-1.21%2B-1.2.1.jar"
-hash-format = "sha1"
-hash = "62024f9a26b61cdeb87e3d1f7182ef3616eb0cab"
+hash-format = "sha512"
+hash = "975eb796968ab27f2c1f237c12866ee8ad3e123a57ca0997bcd5040b6486fe1f04a6112af4482f3e9b83efaf053771b0437c7bf823bc2ed7418930ae94f53fe0"
 
 [update]
 [update.modrinth]

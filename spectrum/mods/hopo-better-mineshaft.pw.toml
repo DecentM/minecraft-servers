@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/9IxCUYAP/versions/V9VrQn9W/HopoBetterMineshaft-%5B1.21-1.21.3%5D-1.3.0.jar"
-hash-format = "sha1"
-hash = "6f84933e4c5c920b4cac939afef66e43efc266fd"
+hash-format = "sha512"
+hash = "d499673d36ac8bbd0ec6e7cb6bebde3e522c3dcf4d89d3bf5b1600e632a022e2a4cd413a3e5a5a8329dd09df8aaf11c636d264707c3cabf9bffd73d70f68059a"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/MikpSrAF/versions/oCaOjOQt/polyfactory-0.4.4%2B1.21.1.jar"
-hash-format = "sha1"
-hash = "45402af50d9428bba080589201b49560766f50bd"
+hash-format = "sha512"
+hash = "dbc3190f6c9fa373619ac84e0d99cfadd47a8f7bdae8d6f7c0bbb2aca2d26764b91fe2ba352b3a1dde6157115da13c62408f67f52b6346a1bc2add588fd305c7"
 
 [update]
 [update.modrinth]

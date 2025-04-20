@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/klXONLDA/versions/Q5mOv1hJ/villagesandpillages-fabric-mc1.21.1-1.0.3.jar"
-hash-format = "sha1"
-hash = "86aa61d01ea39e4ac924b66624c340c2b9baddde"
+hash-format = "sha512"
+hash = "123458310be23f93020f3718410773ceb8d4d1df981ed0363a9359a6b66983a8cb3cd1dca0dd39b4bd240736485ea1860d3307caf9b76028701194ef9e551b2b"
 
 [update]
 [update.modrinth]

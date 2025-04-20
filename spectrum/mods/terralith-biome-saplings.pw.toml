@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/CYGkXnUb/versions/Eae7wP0C/terralith-biome-saplings-1.1.3.jar"
-hash-format = "sha1"
-hash = "5853cf57f1db71b002e0c036048771e48261d104"
+hash-format = "sha512"
+hash = "3058a1431700e936b8d39a094f314f00ea8f1ab197b2cd06a8120cf2c660e57ec630295218894c188790ef8e3c48eea6454026ee848a2faad1af840fa1400068"
 
 [update]
 [update.modrinth]
