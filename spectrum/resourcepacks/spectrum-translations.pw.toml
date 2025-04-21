@@ -1,0 +1,7 @@
+name = "spectrum-translations"
+filename = "spectrum-translations.zip"
+
+[download]
+url = "https://github.com/DecentM/minecraft-servers/releases/download/translations-ecfa6d818d53a311b0be5358b37522a069ac7b61/translations.zip"
+hash-format = "sha512"
+hash = "55d9d3d2d2096ed3c573bbce88734178d63935cb7c491cd9b6c8e195e3205839e38a5db305dbb1cf19e8241a6757b340ea11c679d43a9b39ea03b5d3c9ea99f0"

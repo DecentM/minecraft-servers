@@ -534,7 +534,7 @@ hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "e8915e453c11d44aee7d0606d7fff9ce0f9033e9b212e45d9a5d67883af7cca8"
+hash = "1768ecf9e242e5e3f8453bd469231f903d7b4e7b6c2b6fbfdbd91e60c9340b9e"
 
 [[files]]
 file = "config/polymer/server.json"
@@ -1764,6 +1764,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/sparkles.pw.toml"
 hash = "459dd871d3cc09f7a445cd35e54773d8102ac87e385950076652dcfbb1915c01"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spectrum-translations.pw.toml"
+hash = "fd40c6f27d3944be1627f701e901bbc89db128f72107a422dad2afacd7521ced"
 metafile = true
 
 [[files]]
