@@ -3,11 +3,11 @@ filename = "polydecorations.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/5710VC7f/versions/9spqh9Vr/polydecorations-0.4.4%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/5710VC7f/versions/R5oq1hmE/polydecorations-0.4.5%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "4c8f0c7d6b2f8e4127a5ba772c9b348a99bdc8eaa1d68cda46b6ce46e16659061cfd6af43bafaadb349f60dbf291a17017f8169cc19a68fba73d427b6b376af1"
+hash = "7cc181752df0033364efe9e7fc6ce24af7497ef140838023b3135b2288045da56311e68518d320fbb2f4d2eca317db75d7966ea8228bfdf77c2cf6bdae1dfe8b"
 
 [update]
 [update.modrinth]
 mod-id = "5710VC7f"
-version = "9spqh9Vr"
+version = "R5oq1hmE"

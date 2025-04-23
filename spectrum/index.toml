@@ -793,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "d5afb2e5de968319acb65a121359d7c223e97f1ce8f98f9ca51c52a0d0bdc455"
+hash = "1c14e6b155be70bfc2bca55dda494fa9d996fbee20829d5d6b20b2b4671ee356"
 metafile = true
 
 [[files]]
@@ -853,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "153109c348781b1787bfb64e22df70bb58a06c0135878844da5e8830d6e6ef23"
+hash = "cdeb92f5ef778e45a4988bdda7466a0157986c812872d5ec3b789b2b2469ca40"
 metafile = true
 
 [[files]]
@@ -873,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "538831a490e267899e6febea30a77a8b51ace9cded29b7a885c031d2fead88c0"
+hash = "46d888d27dc8107bab818ce4697eb7cdcb807c5fee8af3b83df536b724a2f8a8"
 metafile = true
 
 [[files]]
@@ -908,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "d05593236f3c60fe9d45c869853473dacf046eef2b4aee769fa3b6a84e50cfac"
+hash = "c171ed200f117289107f4b81db13598506f366131d6f60992cb5d40715033315"
 metafile = true
 
 [[files]]
@@ -958,12 +958,12 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "c22dfa014c0030cf57e99c4027895dd9b873a96068b0102bb7fd6aa0acd44583"
+hash = "e8bcea2398a7c5e9077be7dc8cfacecbd641a07bfb59d8b165814db84dea430d"
 metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "8fb471479c317171f2f5794610e589e5e11a55d3ee137fb871ad55580423747d"
+hash = "9e7377cfbdac46020bbe3d3caadc8c498a642dc77f42e3caad75e370447ff306"
 metafile = true
 
 [[files]]
@@ -973,7 +973,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "e41f696c21ffef1a3c430fbcbb63c9cb21f1a4924dcecf010f39ffbdb846468c"
+hash = "88f4ee20c48520334c95e197dacebadd9f418b02dcab51ffe8ff26a0d2db99c9"
 metafile = true
 
 [[files]]
@@ -1028,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c3205d336c3c1b2487fbbe53933bd3fdb69951f45cc9cfecf171449128ad0518"
+hash = "fcf89d37d9b3f97e792722240e6595ae382585d05bd6ee057af809b8124151ba"
 metafile = true
 
 [[files]]
@@ -1043,7 +1043,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "b2a5061180a3b5423cc8b3050f471a3b588eae19756fa605cbf6b595a853f4aa"
+hash = "63a8cb9f0ba84fe06f70ed9740e7ec6c2120722e0b336e07b804d3f4e0ea7c49"
 metafile = true
 
 [[files]]
@@ -1133,12 +1133,12 @@ metafile = true
 
 [[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
-hash = "5b4cdfcddc09c4a911fef2066330f1ad0652074f4599f358a52d5aba14a892cb"
+hash = "ed0c5f5768cf9b079cc1006b3d8b3596228d905cff22f930092de8046114fbbf"
 metafile = true
 
 [[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
-hash = "52d80939e28c1489433feef0978208177ef888f7089db7e32116c3b970ad03f9"
+hash = "bfc8660e8cc89c4b2a62af9264c60266d712f2125a9afe3738c42f7685de28a3"
 metafile = true
 
 [[files]]
@@ -1173,7 +1173,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "67c35a264f3f75c52117595a5e0117533e2d6fe4340332fa83f801f7eb91836d"
+hash = "c812790305b13df07ddd5fac03e16d3d5154141e46696c5484f396f605ff5b8a"
 metafile = true
 
 [[files]]
@@ -1313,7 +1313,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "4cd1d20af04d9721709eb3869fa67d396006bb2f4d12f0858a0c5adb37ed67fa"
+hash = "2577fbed34f9eb9cc1fed11717ecf3e0b8cb007eb227654e646f765f6dd573c7"
 metafile = true
 
 [[files]]
@@ -1333,7 +1333,7 @@ metafile = true
 
 [[files]]
 file = "mods/polydecorations.pw.toml"
-hash = "0c20ae7df63f4cc0e549240c180be56f043220035941980c7385dc164c1ee642"
+hash = "c146786cef24280d7e23244034647050e059f753db91642e8e1879cf4b97565a"
 metafile = true
 
 [[files]]
@@ -1343,7 +1343,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyfactory.pw.toml"
-hash = "e8e2d4cea8f8b8de10b781b2e489527b3cc84ecb718f03464e1112211e29ef38"
+hash = "0a05308abd5dd14e674e524fae0eb7ed8dbdee7c6061025f34d43a82dce282a4"
 metafile = true
 
 [[files]]
@@ -1408,7 +1408,7 @@ metafile = true
 
 [[files]]
 file = "mods/remove-reloading-screen.pw.toml"
-hash = "41553dc0c8e2cf618ebf0c1abfbe7db6de94aa1bd0866fc008a3386188dc11e7"
+hash = "2cdebcaf7816bbd7592b2192b9fb07befccdb82d5e0b99708e048ac2d6b87f26"
 metafile = true
 
 [[files]]
@@ -1568,7 +1568,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith-biome-saplings.pw.toml"
-hash = "c7157a51081a90bada80505c3c1ebf3dc71bc5f91a47b0929f1ee83e220f5307"
+hash = "68a8247f8f945b84a756f8b6ad81215c559c3aa4d92cc219c8f2ab879ec247e3"
 metafile = true
 
 [[files]]
@@ -1648,7 +1648,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "ec8c958b061b394e9e449733ce64e15ad1fd79289731e9c66d9cd06b08f053ec"
+hash = "3bae229652b5895d0d63fed6e153f2b51f059430906a2155f90da322288336ef"
 metafile = true
 
 [[files]]
@@ -1788,7 +1788,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "4396e68a89df84bb7677c9fb7e712c75f5250d85c9e204dddeb153dc3ceadf6f"
+hash = "7f67152c820fccc545a4dbd7ae5e78354cf82f02904269d8c1dc280c1c662ef8"
 metafile = true
 
 [[files]]
