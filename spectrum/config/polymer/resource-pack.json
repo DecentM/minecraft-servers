@@ -1,6 +1,6 @@
 {
   "_c0": "UUID of default/main resource pack.",
-  "main_uuid": "1c11acd7-fd7f-4121-baad-f1f53989e2ce",
+  "main_uuid": "${CFG_POD_UUID}",
   "_c1": "Marks resource pack as required, only effects clients and mods using api to check it",
   "markResourcePackAsRequiredByDefault": false,
   "_c2": "Force-enables offset of CustomModelData",
