@@ -733,6 +733,10 @@ hash = "cb42db19696fcf15d6d037c216f509e75c6781dfec248ba56f62144b73edd71b"
 metafile = true
 
 [[files]]
+file = "entrypoint.sh"
+hash = "6526cb140db86470712969e69f87d9da67ec4c276c33402bffc4eac838dcd445"
+
+[[files]]
 file = "lifecycle/pre-stop.sh"
 hash = "54d7fdfe669aab1281bf61c8bf73670e56c56e5781a31d027c9a2ceae82e978b"
 
@@ -1790,7 +1794,3 @@ metafile = true
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "7f67152c820fccc545a4dbd7ae5e78354cf82f02904269d8c1dc280c1c662ef8"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "1bdff22cea36e99669013121a4c6390e88cac7a465bfc357ecf47f57d1c87230"

@@ -2,3 +2,4 @@ Dockerfile
 .dockerignore
 
 resourcepacks/translations.zip
+*.mrpack

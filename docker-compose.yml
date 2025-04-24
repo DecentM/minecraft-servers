@@ -20,6 +20,10 @@ services:
       CFG_LUCKPERMS_DB_NAME: "luckperms"
       CFG_LUCKPERMS_DB_USERNAME: "luckperms"
       CFG_LUCKPERMS_DB_PASSWORD: "luckperms"
+    ports:
+      - 25566:25566
+    volumes:
+      - spectrum-data:/data
     links:
       - luckperms-db
 
@@ -77,8 +81,12 @@ services:
       CFG_LUCKPERMS_DB_NAME: "luckperms"
       CFG_LUCKPERMS_DB_USERNAME: "luckperms"
       CFG_LUCKPERMS_DB_PASSWORD: "luckperms"
+    ports:
+      - 25567:25567
     links:
       - luckperms-db
+    volumes:
+      - fallback-data:/data
 
   luckperms-db:
     image: postgres:17.4
@@ -93,3 +101,5 @@ services:
 
 volumes:
   luckperms-db:
+  spectrum-data:
+  fallback-data:

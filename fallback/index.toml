@@ -61,6 +61,10 @@ file = "config/vmp.properties"
 hash = "6a1f8b596c6560eccb2c2d4f596cbcc78502b8889dac1526da6b7bae57634f1f"
 
 [[files]]
+file = "entrypoint.sh"
+hash = "4df859cd15390ec8cc35a641391706f1c04ee7a16448e80cf9d63bdef06a248b"
+
+[[files]]
 file = "mods/async.pw.toml"
 hash = "3ff3e21e9d125fe7f5caf302f40945e68a37416cc7f617c755b8410906ffadfc"
 metafile = true
