@@ -7,9 +7,6 @@ https://github.com/4drian3d/EpicGuard/releases/download/7.6.0/EpicGuardVelocity-
 # Carbon - https://hangar.papermc.io/Vicarious/Carbon
 https://hangarcdn.papermc.io/plugins/Vicarious/Carbon/versions/3.0.0-beta.28/VELOCITY/carbonchat-velocity-3.0.0-beta.28.jar
 
-# ViaVersion - https://hangar.papermc.io/Syrent/VelocityReport
-https://hangarcdn.papermc.io/plugins/ViaVersion/ViaVersion/versions/5.3.1/PAPER/ViaVersion-5.3.1.jar
-
 # AntiHealthIndicator - https://hangar.papermc.io/Bram/AntiHealthIndicator
 https://hangarcdn.papermc.io/plugins/Bram/AntiHealthIndicator/versions/2.3.1/PAPER/AntiHealthIndicator-2.3.1.jar
 
@@ -34,14 +31,8 @@ https://cdn.modrinth.com/data/HQyibRsN/versions/Nsctgs29/MiniPlaceholders-Veloci
 # LuckPerms Expansion - https://github.com/MiniPlaceholders/LuckPerms-Expansion
 https://github.com/MiniPlaceholders/LuckPerms-Expansion/releases/download/1.4.1/MiniPlaceholders-LuckPerms-Expansion-1.4.1.jar
 
-# ViaVersion Expansion - https://github.com/MiniPlaceholders/ViaVersion-Expansion
-https://github.com/MiniPlaceholders/ViaVersion-Expansion/releases/download/1.0.0/MiniPlaceholders-ViaVersion-Expansion-1.0.0.jar
-
-# Spark Expansion - https://github.com/MiniPlaceholders/Spark-Expansion
-https://github.com/MiniPlaceholders/Spark-Expansion/releases/download/1.0.1/Spark-Expansion-1.0.1.jar
-
 # CustomCommands - https://modrinth.com/plugin/customcommandsvelocity
 https://cdn.modrinth.com/data/lH2P7M8M/versions/utKAZXsh/CustomCommands-1.2.jar
 
-# Raknetify - https://modrinth.com/plugin/raknetify
-https://cdn.modrinth.com/data/5IovSY3u/versions/U2qamBnj/raknetify-velocity-0.1.0%2Balpha.5.167-all.jar
+# MCKotlin Velocity - https://modrinth.com/plugin/mckotlin
+https://cdn.modrinth.com/data/1iWA0pjH/versions/3PY3lTnr/MCKotlinVelocity-1.5.1-k2.0.21.jar

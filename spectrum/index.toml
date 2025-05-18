@@ -534,7 +534,7 @@ hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "1768ecf9e242e5e3f8453bd469231f903d7b4e7b6c2b6fbfdbd91e60c9340b9e"
+hash = "740dc9c2bf9f4906046e262e00cde7b9d4bfd2d8dc771567993c224addef5a1c"
 
 [[files]]
 file = "config/polymer/server.json"
