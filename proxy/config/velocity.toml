@@ -168,14 +168,14 @@ forward-commands-if-rate-limited = false
 
 # How many commands are allowed to be sent after the rate limit is hit before the player is kicked?
 # Setting this to 0 or lower will disable this feature.
-kick-after-rate-limited-commands = 0
+kick-after-rate-limited-commands = 5
 
 # How fast (in milliseconds) are clients allowed to send tab completions after the last tab completion
 tab-complete-rate-limit = 333
 
 # How many tab completions are allowed to be sent after the rate limit is hit before the player is kicked?
 # Setting this to 0 or lower will disable this feature.
-kick-after-rate-limited-tab-completes = 0
+kick-after-rate-limited-tab-completes = 7
 
 [query]
 # Whether to enable responding to GameSpy 4 query responses or not.

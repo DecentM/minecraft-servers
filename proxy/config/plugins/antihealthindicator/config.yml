@@ -12,7 +12,7 @@ debug:
 
 # This option determines whether the plugin will check for an update on startup.
 update-checker:
-  enabled: true
+  enabled: false
 
   # When an update is found, should it be printed to the console?
   print-to-console: true
@@ -29,7 +29,7 @@ spoof:
   # Sets the seed which is being sent to the client to zero.
   # Keep in mind that this doesn't make it impossible to predict the world seed, it just makes it more difficult.
   world-seed:
-    enabled: false
+    enabled: true
 
   # Prevents the player from receiving the current saturation of their food bar,
   # which can be used by mods or cheats to determine when the food bar itself will be drained.
