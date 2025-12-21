@@ -3,11 +3,11 @@ filename = "respackopts.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TiF5QWZY/versions/8zp8yqFl/respackopts-4.11.3.jar"
+url = "https://cdn.modrinth.com/data/TiF5QWZY/versions/DQMhaFFo/respackopts-4.14.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "b9e5676d0ad03cf61b0ed30e317e0fa77df9d2192d55b1817d372b226f5472995af6d7b78cd7e800979b7c2a7db9d4867d9392576f44101d0e8782bc44502c3e"
+hash = "7421caa470b35092f3749f0e4010a2a9e94b63e3d5fd36c423b1789eb2431b301e1a48b2e25a563b4a25a73132025bd6a35e0cc0a601f7c5d107975bf690b661"
 
 [update]
 [update.modrinth]
 mod-id = "TiF5QWZY"
-version = "8zp8yqFl"
+version = "DQMhaFFo"

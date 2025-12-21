@@ -3,11 +3,11 @@ filename = "dungeons+.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/nHORcEHd/versions/MaPifrAA/dungeons%2B-1.9.0b.jar"
+url = "https://cdn.modrinth.com/data/nHORcEHd/versions/m8RPwRlg/dungeons%2B-1.10.1.jar"
 hash-format = "sha512"
-hash = "b72e8bd84d5cdcdcd9c3ba31c7329916de7dd3e86d167267bee11f412cb42443ad2b12f64c9e28fbf430283d767bf0a9fb35005a3001d0e4b5d412438e60bd44"
+hash = "67ce3e05dc6bda5a487cb594388a64f39737ef6b2b428fd1b0abb0e0f83b29444c1044d2186810671e6f5ac07428386d58484148721b551614e3641730721864"
 
 [update]
 [update.modrinth]
 mod-id = "nHORcEHd"
-version = "MaPifrAA"
+version = "m8RPwRlg"

@@ -3,11 +3,11 @@ filename = "tt20.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/YS3ZignI/versions/XHf8oLPI/tt20-0.7.1%2Bmc1.21.jar"
+url = "https://cdn.modrinth.com/data/YS3ZignI/versions/izJJ7jqZ/tt20-0.7.2%2Bmc1.21.jar"
 hash-format = "sha512"
-hash = "cefa0e24920e2dd5821f4394dd7e8bfe82eca9d93550aca49a16f865c31670e13f5975896cb8e20b48bff5a1f085a355a46d7d080130db61f8c3b6e8f2fdfc34"
+hash = "5ac0e645f61e44f82bd52f8f592aadfa11df502d311730804cf7f7625d511086e7f82ef994df1f9f5f0ffb0eda9c3229ac219c13c2245da24cf018d6faa79699"
 
 [update]
 [update.modrinth]
 mod-id = "YS3ZignI"
-version = "XHf8oLPI"
+version = "izJJ7jqZ"

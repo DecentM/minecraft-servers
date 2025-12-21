@@ -3,11 +3,11 @@ filename = "grindstone-sharper-tools.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/p6y1z1Qa/versions/wF6aQIQi/grindstonesharpertools-1.21.1-3.8.jar"
+url = "https://cdn.modrinth.com/data/p6y1z1Qa/versions/yYP472C2/grindstonesharpertools-1.21.1-3.9.jar"
 hash-format = "sha512"
-hash = "689c3944073e7b6f45406aef0baa6dae59267037307465a7bdb7f362e7296101dccd332fd5b192434fd807773f8381566f98c32ff8334acbd93031db076cf72f"
+hash = "2331e4d3a0616514e470f7cc5b5092e46c83cfd85b24e8f5976496e4311d4f4ed1fda3789fbca013079bf9129b198bf26aa18d59ba137e28dba0b063c3aa53fc"
 
 [update]
 [update.modrinth]
 mod-id = "p6y1z1Qa"
-version = "wF6aQIQi"
+version = "yYP472C2"

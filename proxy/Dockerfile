@@ -1,4 +1,4 @@
-FROM ghcr.io/itzg/mc-proxy:java21-2025.4.0
+FROM ghcr.io/itzg/mc-proxy:java21-2025.10.0
 
 ENV JVM_OPTS="-Dvelocity.packet-decode-logging=true -Dvelocity.max-known-packs=128"
 # https://github.com/Obydux/Minecraft-GraalVM-Flags (minus graal flags)

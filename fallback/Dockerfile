@@ -1,4 +1,4 @@
-FROM ghcr.io/itzg/minecraft-server:2025.4.0-java21-graalvm
+FROM ghcr.io/itzg/minecraft-server:2025.12.0-java21-graalvm
 
 ENV GUI=false
 ENV STOP_DURATION=120

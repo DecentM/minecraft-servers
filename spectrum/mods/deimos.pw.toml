@@ -3,11 +3,11 @@ filename = "deimos.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/WQaxNzFg/versions/dOj5SlxO/deimos-1.21.1-fabric-2.2.jar"
+url = "https://cdn.modrinth.com/data/WQaxNzFg/versions/NsfkBCPY/deimos-1.21.1-fabric-2.5.jar"
 hash-format = "sha512"
-hash = "71131f6f368310887372a834b90c476bc63a20526f59da2918ed871ea39eecb6acf438b555de6abc4b76e7f594e3ac2280260266834d351d1f32aa6d29b5f3e3"
+hash = "201d2da8d40ef99d0204629f269d3bc32ebaab77baf0ac3ab71484ce727f88bf400a9aa4eec683249a435dfd66e159b8d3c5384af395030717d21a58c48a6abf"
 
 [update]
 [update.modrinth]
 mod-id = "WQaxNzFg"
-version = "dOj5SlxO"
+version = "NsfkBCPY"

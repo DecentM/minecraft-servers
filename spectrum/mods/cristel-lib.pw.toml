@@ -3,11 +3,11 @@ filename = "cristel-lib.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/cl223EMc/versions/8iGbvXwk/cristellib-fabric-1.2.8.jar"
+url = "https://cdn.modrinth.com/data/cl223EMc/versions/oFrnFrNm/cristellib-fabric-1.21.1-3.0.2.jar"
 hash-format = "sha512"
-hash = "c3840f68c00305577fcd3cbc582b31effac33e5d18ba04abac11be000d5de00915866a86ad69432317b675435cc497f7f4812573984d4c9f289637dcdb385e32"
+hash = "7986c76f9a411a961438cf240f3aaa479f59e24ff10084447ac41d03ffae4bbb0a8679c7a60246e92fa2c590defd6bed681f9fd0ea10d01d169a95bc5c02cc9b"
 
 [update]
 [update.modrinth]
 mod-id = "cl223EMc"
-version = "8iGbvXwk"
+version = "oFrnFrNm"

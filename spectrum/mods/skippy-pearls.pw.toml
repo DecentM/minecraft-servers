@@ -3,11 +3,11 @@ filename = "skippy-pearls.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/KM7gMSY1/versions/9aulJE9A/skippy-pearls-1.21.jar"
+url = "https://cdn.modrinth.com/data/KM7gMSY1/versions/R9x5eW36/skippy-pearls-1.4%2B1.21-1.21.8%2BDatapack.jar"
 hash-format = "sha512"
-hash = "daa117c4a5d01f79feb5464a83b6c2af2e4a33b65630486d6eea453fe6df8362f76ae070d1bd0ad5297fc6a5d08070a14ec9c9ea7b909dd0e30be39381dcd13a"
+hash = "9058410aa4ba189bd24f060fbad888d09349b6e06cea9efab4cca6c45dd92345209f01197d585e30354d6a300ccfba627c277b763178c35f92d625477e822d0a"
 
 [update]
 [update.modrinth]
 mod-id = "KM7gMSY1"
-version = "9aulJE9A"
+version = "R9x5eW36"

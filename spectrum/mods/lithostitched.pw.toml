@@ -3,11 +3,11 @@ filename = "lithostitched.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/XaDC71GB/versions/ZkxZEzOO/lithostitched-fabric-1.21.1-1.4.8.jar"
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/8ejFEAN1/lithostitched-1.5.4-fabric-1.21.1.jar"
 hash-format = "sha512"
-hash = "a1392170317d3899c57e796f873c1712de406f6a4ddaa5d4a8a694c9ee6ed85a60867737fa3d39bc69d5fa923ddacab4202faee9f7396f1391caeb78b7ed5259"
+hash = "dd1af4dbe582a6a8ae28c7f07b621cf126f75d562649ec0213571940055e917372a9e052154df390df0738b5bfa2cd4b16da6f01b06a4989fb79c605441f91ee"
 
 [update]
 [update.modrinth]
 mod-id = "XaDC71GB"
-version = "ZkxZEzOO"
+version = "8ejFEAN1"

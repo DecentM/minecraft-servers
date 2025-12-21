@@ -23,7 +23,7 @@ https://cdn.modrinth.com/data/HYKaKraK/versions/d35A6L4P/packetevents-velocity-2
 https://cdn.modrinth.com/data/HFTnFHKn/versions/e1bc8w5r/AntiPopup-10.1.jar
 
 # LuckPerms - https://luckperms.net/download
-https://download.luckperms.net/1575/velocity/LuckPerms-Velocity-5.4.158.jar
+https://cdn.modrinth.com/data/Vebnzrzj/versions/GZjsuCmU/LuckPerms-Velocity-5.5.17.jar
 
 # MiniPlaceholders - https://modrinth.com/plugin/miniplaceholders
 https://cdn.modrinth.com/data/HQyibRsN/versions/Nsctgs29/MiniPlaceholders-Velocity-2.3.0.jar

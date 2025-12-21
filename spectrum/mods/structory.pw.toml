@@ -3,11 +3,11 @@ filename = "structory.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/aKCwCJlY/versions/l75DmOwI/Structory_1.21.x_v1.3.10.jar"
+url = "https://cdn.modrinth.com/data/aKCwCJlY/versions/qm2RM1eD/Structory_1.21.x_v1.3.12.jar"
 hash-format = "sha512"
-hash = "200f2257c315dcc0a762759c9059d1a8ef24f967dcd924e2730cc08a8f0ddd21a07b239cd8884f4af153c84fe34fe9b855617bb5fb6bdf7ce2a72a64bd2ed55f"
+hash = "8df96ecbc05380f9969a23bc322aec0b5f12fe75873f02cbf4d0bd855dcb8254fd0f9a448fdfdaea160382e7fe9cc68e0122a01019179cec846c777ff7188ac7"
 
 [update]
 [update.modrinth]
 mod-id = "aKCwCJlY"
-version = "l75DmOwI"
+version = "qm2RM1eD"

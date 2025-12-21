@@ -3,11 +3,11 @@ filename = "cicada.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/IwCkru1D/versions/Rc7ndpKI/cicada-lib-0.13.0%2B1.21-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/IwCkru1D/versions/ulZDYpW0/cicada-lib-0.14.3%2B1.21-1.21.1.jar"
 hash-format = "sha512"
-hash = "3d8a2ef0f927679dd9766d3b3094c2e8116b4a40066612c509788ca997fc946f49626e621c2a53b66403a959762df8c44c69291e2e230ce911d1a01520934543"
+hash = "283097f736a3e2182b2b40cd585c466c3629d333ed92752c8e341117b67d6a0ee8eb6bd55a447132407fc089970f2d5bd00fd2b7ba7094a1cc16965e1477d4c8"
 
 [update]
 [update.modrinth]
 mod-id = "IwCkru1D"
-version = "Rc7ndpKI"
+version = "ulZDYpW0"

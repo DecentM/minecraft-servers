@@ -1,13 +1,13 @@
 name = "Stellarity x Nullscape ~ Compatibility"
-filename = "Stellarity x Nullscape (1.21).zip"
+filename = "stellarity-x-nullscape.zip"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/bxgn7qmu/versions/HJ170LXl/Stellarity%20x%20Nullscape%20%281.21%29.zip"
+url = "https://cdn.modrinth.com/data/bxgn7qmu/versions/ROOCweNa/Stellarity-5.0.0-alpha10-NSC.zip"
 hash-format = "sha512"
-hash = "322f04fed30fcaaf78feca9b5ff0a6324196e409d23e2f8eac0f30739887f39cf255b106159c1fd8d1108ed1cd5cfeb10c286500924715bd8636f1c087236b91"
+hash = "0c1cb951fbea77e30a4c0962b15b39a8ea406fdf53004ffb389aef1436af856b2087204eacdb9777d6cfca489afa4a9e6c565147e9ed456e718394817ba0c743"
 
 [update]
 [update.modrinth]
 mod-id = "bxgn7qmu"
-version = "HJ170LXl"
+version = "ROOCweNa"

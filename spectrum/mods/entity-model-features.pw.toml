@@ -3,11 +3,11 @@ filename = "entity-model-features.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/9t01xL7K/entity_model_features_fabric_1.21.1-2.4.1.jar"
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/wrv1h7Vv/entity_model_features_1.21-fabric-3.0.7.jar"
 hash-format = "sha512"
-hash = "fe605def2b560685e4c7081c0cbb678720b39308905a362fb155cb8b54a471549100d8d29004d9630348de0283744810c78b62aec9d1f93ca5c9585dbf0eb4db"
+hash = "59a01e835f2cd026ce0bbfb7ab373818690feb2ae866517563159beca631e68b5ca2aa2fcae212c483fcdef74b8d46fc3b79634e609197b98f5e1728eda05be1"
 
 [update]
 [update.modrinth]
 mod-id = "4I1XuqiY"
-version = "9t01xL7K"
+version = "wrv1h7Vv"

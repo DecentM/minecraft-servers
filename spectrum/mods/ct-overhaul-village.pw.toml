@@ -3,11 +3,11 @@ filename = "ct-overhaul-village.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/L5K63bnY/%5Bfabric%5Dctov-3.5.9a.jar"
+url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/fyIUePne/%5Bfabric%5Dctov-3.6.0b.jar"
 hash-format = "sha512"
-hash = "bb79136c07db971f245d5e1f4f570fccfba4b9fa9c85ad640999a9b4e3c8dee8e6b686ad6b2004035e6cba60ac28c1aec8c8ae3197f99a228b4fb828b51884db"
+hash = "d9a2faa7c45a7a73d6d0a31a75113bc8f4ddc2cc5809e8ade63f0d0334c7c48c6d995f10836e4e1aaf4213e24947e210c325c21b434c5a512ebe9ca60488d704"
 
 [update]
 [update.modrinth]
 mod-id = "fgmhI8kH"
-version = "L5K63bnY"
+version = "fyIUePne"

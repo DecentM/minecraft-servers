@@ -3,11 +3,11 @@ filename = "balm.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/KNh0OFys/balm-fabric-1.21.1-21.0.44.jar"
+url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/jiTpUYmp/balm-fabric-1.21.1-21.0.55.jar"
 hash-format = "sha512"
-hash = "c8ef574836d116a12488160542bc5fc2fe0bb5ef2593405f65b0f17f797c323f3532aab3a666cd392160f69a44858e00bc969d7ef7437afb967666c0ab8a3ced"
+hash = "616c8c0ca06920516a07dbd3afa4c46ba243866de375d9aa5140be803284bfe2c434e93d838462776d71c6afea98766fc6b27cd00a6880e49170478448f7415b"
 
 [update]
 [update.modrinth]
 mod-id = "MBAkmtvl"
-version = "KNh0OFys"
+version = "jiTpUYmp"

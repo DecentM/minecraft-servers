@@ -3,11 +3,11 @@ filename = "snow-under-trees-remastered.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/XVnUIUAQ/versions/2XRfQcUl/SnowUnderTrees-2.7.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/XVnUIUAQ/versions/xIjtPWZo/SnowUnderTrees-2.7.4%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "0c5ac59347054b2907c44cec93b53ea202d2c376510f77b7d26b4422c3480afb704bc6460a5900a5fb4a75a809c2a1a0e1c186046d7b378875cc92a417c35af7"
+hash = "f701cd10e1f41e40fbe48245c82c242b80b76e8009d4ae0cd9cb25e99d9860f23829fcccbd94eb0978bc0bf20ab53c640834dcafe60a901da8c892d87c5d2674"
 
 [update]
 [update.modrinth]
 mod-id = "XVnUIUAQ"
-version = "2XRfQcUl"
+version = "xIjtPWZo"

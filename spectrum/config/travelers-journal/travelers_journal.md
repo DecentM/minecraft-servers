@@ -7,8 +7,10 @@ It has useful info for getting started on the server, so keep it somewhere safe!
 
 - No griefing
 - No harrassment
-- Estonian or English
 - No spam or ads
+- Use common sense*
+
+- Server staff can decide what this means
 [page]
 **Useful commands**
 
@@ -21,7 +23,6 @@ It has useful info for getting started on the server, so keep it somewhere safe!
 **Mods**
 This server uses Polymer to enable running some mods without requiring a modded client:
 
-- ComputerCraft
 - PolyFactory
 - Construction Wand
 - Glide Away
@@ -49,6 +50,10 @@ You will find lots of new enchantments. To see what they do, see these sites:
 <dark_aqua>explorerseden.eu/tables/enchantment\_list.html<>
 
 <dark_aqua>stellarity.kohara.xyz/mechanics/enchantments<>
+
+[page]
+**Chat tips**
+The server will announce tips every hour at :30. Click <dark_aqua>items<> in these tips to go to their recipes.
 
 [page]
 **Trains**

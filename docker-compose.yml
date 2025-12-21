@@ -20,8 +20,13 @@ services:
       CFG_LUCKPERMS_DB_NAME: "luckperms"
       CFG_LUCKPERMS_DB_USERNAME: "luckperms"
       CFG_LUCKPERMS_DB_PASSWORD: "luckperms"
+      CFG_POD_UUID: "a46b770a-f98e-478e-af6c-6a3c33e6415c"
+      CFG_POLYMER_AUTO_HOST_TYPE: "polymer:http_server"
+      CFG_POLYMER_AUTO_HOST_FORCED_ADDRESS: ""
+      CFG_POLYMER_AUTO_HOST_PORT: "25577"
+      CFG_POLYMER_AUTO_HOST_EXTERNAL_ADDRESS: "http://localhost:25577"
     ports:
-      - 25566:25566
+      - 25577:25577
     volumes:
       - spectrum-data:/data
     links:
@@ -50,6 +55,10 @@ services:
       CFG_LUCKPERMS_DB_NAME: "luckperms"
       CFG_LUCKPERMS_DB_USERNAME: "luckperms"
       CFG_LUCKPERMS_DB_PASSWORD: "luckperms"
+      CFG_CARBON_DEFAULT_FORMAT: "<gray>(<reset><luckperms_meta:role-colour><luckperms_prefix><reset><gray>)<reset> <luckperms_meta:user-colour><carbonchat_nickname><reset> <aqua>><reset> <message>"
+      CFG_CARBON_CONSOLE_FORMAT: "[<channel> <viaversion_player_protocol_version>] <carbonchat_nickname> (<username>) > <message>"
+      CFG_CARBON_DISCORD_FORMAT: "<carbonchat_nickname> (<username>) > <message>"
+      CFG_TAB_FORMAT: "<gray>(<reset><luckperms_meta:role-colour><luckperms_prefix><reset><gray>)<reset> <luckperms_meta:user-colour><carbonchat_nickname><reset>"
     ports:
       - 25565:25565
     links:
@@ -81,8 +90,6 @@ services:
       CFG_LUCKPERMS_DB_NAME: "luckperms"
       CFG_LUCKPERMS_DB_USERNAME: "luckperms"
       CFG_LUCKPERMS_DB_PASSWORD: "luckperms"
-    ports:
-      - 25567:25567
     links:
       - luckperms-db
     volumes:
