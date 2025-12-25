@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "e818a71da229b8964417c8b43bce6986f57e0dbc0578d7b94c370a879a30763f"
 
 [[files]]
+file = "config/FabricProxy-Lite.toml"
+hash = "9984bba4054ab3883830a37541ff2d1da8851b1de417fe844ea318e05b9f2001"
+
+[[files]]
 file = "config/NoChatReports/NCR-Common.json"
 hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
 
@@ -498,7 +502,7 @@ hash = "8e8bf0480eca2e47a56c5747901a86c3c2555a452761e559a710e597e4f6835a"
 
 [[files]]
 file = "config/polymer/auto-host.json"
-hash = "00ef5f99b08f003e9f429d412db5113eef81459214e40a93e8dc500f9ada5538"
+hash = "91e3a4d8d40ead66147e61f4d5820112d59eaa0010a39cce6b5089ea4646064f"
 
 [[files]]
 file = "config/polymer/common.json"
@@ -598,7 +602,7 @@ hash = "068283c73e244cd53dd6503f1c3a4603cc14db412e2572f1c1063ee5d1306558"
 
 [[files]]
 file = "config/travelers-journal/travelers_journal.md"
-hash = "dbd89d8b93adcac045e73c2701ccde04b91e20f90ad68ee935d3bf177dcf26da"
+hash = "c470ef34043d0830c7aead209f817eae346080206545f2336d018bc4b0ea26d6"
 
 [[files]]
 file = "config/tt20/block_entity_mask.json"
