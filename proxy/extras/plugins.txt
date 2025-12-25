@@ -1,17 +1,17 @@
 # Liberty Bans - https://hangar.papermc.io/A248/LibertyBans
-https://hangarcdn.papermc.io/plugins/A248/LibertyBans/versions/1.1.0/PAPER/LibertyBans_Release-1.1.0.jar
+#https://hangarcdn.papermc.io/plugins/A248/LibertyBans/versions/1.1.0/PAPER/LibertyBans_Release-1.1.0.jar
 
 # EpicGuard - https://hangar.papermc.io/4drian3d/EpicGuard
-https://github.com/4drian3d/EpicGuard/releases/download/7.6.0/EpicGuardVelocity-7.6.0.jar
+#https://github.com/4drian3d/EpicGuard/releases/download/7.6.0/EpicGuardVelocity-7.6.0.jar
 
 # Carbon - https://hangar.papermc.io/Vicarious/Carbon
 https://hangarcdn.papermc.io/plugins/Vicarious/Carbon/versions/3.0.0-beta.28/VELOCITY/carbonchat-velocity-3.0.0-beta.28.jar
 
 # AntiHealthIndicator - https://hangar.papermc.io/Bram/AntiHealthIndicator
-https://hangarcdn.papermc.io/plugins/Bram/AntiHealthIndicator/versions/2.3.1/PAPER/AntiHealthIndicator-2.3.1.jar
+#https://hangarcdn.papermc.io/plugins/Bram/AntiHealthIndicator/versions/2.3.1/PAPER/AntiHealthIndicator-2.3.1.jar
 
 # Velocitab - https://hangar.papermc.io/William278/Velocitab
-https://hangarcdn.papermc.io/plugins/William278/Velocitab/versions/1.7.5/VELOCITY/Velocitab-1.7.5.jar
+#https://hangarcdn.papermc.io/plugins/William278/Velocitab/versions/1.7.5/VELOCITY/Velocitab-1.7.5.jar
 
 # ClientCatcher - https://modrinth.com/plugin/clientcatcher
 https://cdn.modrinth.com/data/Dhqd1a7j/versions/XozKIzve/ClientCatcher-3.2.2.jar
