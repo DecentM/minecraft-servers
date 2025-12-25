@@ -20,18 +20,6 @@ It has useful info for getting started on the server, so keep it somewhere safe!
 <dark_green>/polyfactory wiki<> link
 <dark_green>/tell<> message others
 [page]
-**Mods**
-This server uses Polymer to enable running some mods without requiring a modded client:
-
-- PolyFactory
-- Construction Wand
-- Glide Away
-- Get Off My Lawn
-- Incendium
-- Nullscape
-- PolyDecorations
-- Stellarity
-[page]
 **Protection**
 To claim land, craft a claim anchor. You'll need an ender pearl, 4 logs, and 4 stone for the cheapest one.
 
@@ -52,11 +40,20 @@ You will find lots of new enchantments. To see what they do, see these sites:
 <dark_aqua>stellarity.kohara.xyz/mechanics/enchantments<>
 
 [page]
-**Chat tips**
-The server will announce tips every hour at :30. Click <dark_aqua>items<> in these tips to go to their recipes.
+**Chat**
+Related commands:
+<dark_green>/block<>, <dark_green>/unblock<>
+<dark_green>/togglepm<>
+<dark_green>/nick<>
+<dark_green>/w<>, <dark_green>/r<>, <dark_green>/c<>
 
+Remember that chat and whispers can be read by server staff.
 [page]
 **Trains**
 Sneak and right click a minecart with a chain, then do the same with another minecart to create a train! The second cart will follow the first.
 
 Place gravel under rails to make minecarts run at top speed.
+
+[page]
+**Chat colours**
+You can use the /pink, /yellow, and /blue commands to change the colour of your role.
