@@ -602,7 +602,7 @@ hash = "068283c73e244cd53dd6503f1c3a4603cc14db412e2572f1c1063ee5d1306558"
 
 [[files]]
 file = "config/travelers-journal/travelers_journal.md"
-hash = "c470ef34043d0830c7aead209f817eae346080206545f2336d018bc4b0ea26d6"
+hash = "a6398e4f2fe029426340b868f889da6452e12ab313ede21b5665c2dbfc59a857"
 
 [[files]]
 file = "config/tt20/block_entity_mask.json"
