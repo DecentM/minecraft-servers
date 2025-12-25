@@ -40,15 +40,12 @@ services:
     environment:
       MEMORY: "4G"
       CFG_SERVER_TRY_1: "survival"
-      CFG_SERVER_TRY_2: "fallback"
       CFG_BIND_HOST: "0.0.0.0"
       CFG_BIND_PORT: "25565"
       CFG_MOTD: "Proxy server"
       CFG_SHOW_MAX_PLAYERS: "12"
       CFG_SERVER_SURVIVAL_HOST: "spectrum"
       CFG_SERVER_SURVIVAL_PORT: "25566"
-      CFG_SERVER_FALLBACK_HOST: "fallback"
-      CFG_SERVER_FALLBACK_PORT: "25567"
       CFG_FORWARDING_SECRET_FILE: "/proxy-secret"
       CFG_LUCKPERMS_DB_HOST: "luckperms-db"
       CFG_LUCKPERMS_DB_PORT: "5432"
@@ -59,15 +56,24 @@ services:
       CFG_CARBON_CONSOLE_FORMAT: "[<channel> <viaversion_player_protocol_version>] <carbonchat_nickname> (<username>) > <message>"
       CFG_CARBON_DISCORD_FORMAT: "<carbonchat_nickname> (<username>) > <message>"
       CFG_TAB_FORMAT: "<gray>(<reset><luckperms_meta:role-colour><luckperms_prefix><reset><gray>)<reset> <luckperms_meta:user-colour><carbonchat_nickname><reset>"
+      CFG_CARBON_DATABASE_JDBC_URL: "jdbc:postgresql://carbonchat-db:5432/carbonchat"
+      CFG_CARBON_DATABASE_USERNAME: "carbonchat"
+      CFG_CARBON_DATABASE_PASSWORD: "carbonchat"
+      CFG_BANS_DB_HOST: "libertybans-db"
+      CFG_BANS_DB_PORT: "5432"
+      CFG_BANS_DB_PASSWORD: "libertybans"
+      CFG_BANS_DB_USER: "libertybans"
+      CFG_BANS_DB_NAME: "libertybans"
     ports:
       - 25565:25565
     links:
       - luckperms-db
+      - carbonchat-db
+      - libertybans-db
       - spectrum
-      - fallback
     volumes:
       - ./proxy/dev-proxy-secret:/proxy-secret:ro
-      - ./proxy/server:/server
+      - proxy-server:/server
 
   fallback:
     build:
@@ -106,7 +112,32 @@ services:
       POSTGRES_PASSWORD: luckperms
       POSTGRES_DB: luckperms
 
+  libertybans-db:
+    image: postgres:17.4
+
+    volumes:
+      - libertybans-db:/var/lib/postgresql/data
+
+    environment:
+      POSTGRES_USER: libertybans
+      POSTGRES_PASSWORD: libertybans
+      POSTGRES_DB: libertybans
+
+  carbonchat-db:
+    image: postgres:17.4
+
+    volumes:
+      - carbonchat-db:/var/lib/postgresql/data
+
+    environment:
+      POSTGRES_USER: carbonchat
+      POSTGRES_PASSWORD: carbonchat
+      POSTGRES_DB: carbonchat
+
 volumes:
   luckperms-db:
+  libertybans-db:
+  carbonchat-db:
   spectrum-data:
+  proxy-server:
   fallback-data:
