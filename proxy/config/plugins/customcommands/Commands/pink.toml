@@ -17,7 +17,7 @@ Permission = "customcommands.pink"
 
 # This is the response that will be sent when the command is called. Leave empty for no response
 # Only supports MiniMessage, see https://docs.advntr.dev/minimessage/format.html and https://webui.advntr.dev/ for more information
-Response = "Role assigned (it might take up to 3 minutes to take effect)"
+Response = "Role assigned"
 
 # Add the plugins Prefix configured in config.toml to the response message
 UsePrefix = true
