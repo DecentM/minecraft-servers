@@ -36,3 +36,6 @@ https://cdn.modrinth.com/data/lH2P7M8M/versions/utKAZXsh/CustomCommands-1.2.jar
 
 # MCKotlin Velocity - https://modrinth.com/plugin/mckotlin
 https://cdn.modrinth.com/data/1iWA0pjH/versions/3PY3lTnr/MCKotlinVelocity-1.5.1-k2.0.21.jar
+
+# NekoList - https://modrinth.com/plugin/nekolist
+https://cdn.modrinth.com/data/MUXv6Dpt/versions/GWqqdziy/NekoList-1.2.1.jar

@@ -40,12 +40,15 @@ services:
     environment:
       MEMORY: "4G"
       CFG_SERVER_TRY_1: "survival"
+      CFG_SERVER_TRY_2: "fallback"
       CFG_BIND_HOST: "0.0.0.0"
       CFG_BIND_PORT: "25565"
       CFG_MOTD: "Proxy server"
       CFG_SHOW_MAX_PLAYERS: "12"
       CFG_SERVER_SURVIVAL_HOST: "spectrum"
       CFG_SERVER_SURVIVAL_PORT: "25566"
+      CFG_SERVER_FALLBACK_HOST: "fallback"
+      CFG_SERVER_FALLBACK_PORT: "25567"
       CFG_FORWARDING_SECRET_FILE: "/proxy-secret"
       CFG_LUCKPERMS_DB_HOST: "luckperms-db"
       CFG_LUCKPERMS_DB_PORT: "5432"
@@ -59,11 +62,16 @@ services:
       CFG_CARBON_DATABASE_JDBC_URL: "jdbc:postgresql://carbonchat-db:5432/carbonchat"
       CFG_CARBON_DATABASE_USERNAME: "carbonchat"
       CFG_CARBON_DATABASE_PASSWORD: "carbonchat"
+      CFG_CARBON_NICK_BLACKLIST: "notch,admin"
       CFG_BANS_DB_HOST: "libertybans-db"
       CFG_BANS_DB_PORT: "5432"
       CFG_BANS_DB_PASSWORD: "libertybans"
       CFG_BANS_DB_USER: "libertybans"
       CFG_BANS_DB_NAME: "libertybans"
+      CFG_NEKO_DISCORD_BOT_TOKEN: ""
+      CFG_NEKO_DISCORD_ENABLED: "false"
+      CFG_NEKO_DISCORD_ALLOWED_ROLES: ""
+      CFG_NEKO_DISCORD_ALLOWED_USERS: ""
     ports:
       - 25565:25565
     links:

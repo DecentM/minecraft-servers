@@ -1,0 +1,23 @@
+# NekoList Configuration
+# Language settings
+language: "en-US"
+# Available languages: en-US, en-GB, es-ES, es-419, ja-JP, ru-RU, uk-UA, zh-CN, zh-TW
+
+# Discord Bot settings
+discord-bot:
+  # Enable or disable Discord bot
+  enabled: ${CFG_NEKO_DISCORD_ENABLED}
+
+  # Your Discord bot token
+  # Get it from: https://discord.com/developers/applications  
+  token: "${CFG_NEKO_DISCORD_BOT_TOKEN}"
+
+  # List of role IDs that can use bot commands
+  # Example: ["123456789012345678", "987654321098765432"]
+  # To get role ID: Enable Developer Mode in Discord -> Right-click role -> Copy ID
+  allowed-roles: [${CFG_NEKO_DISCORD_ALLOWED_ROLES}]
+
+  # List of user IDs that can use bot commands
+  # Example: ["123456789012345678", "987654321098765432"]
+  # To get user ID: Enable Developer Mode in Discord -> Right-click user -> Copy ID
+  allowed-users: [${CFG_NEKO_DISCORD_ALLOWED_USERS}]
