@@ -194,7 +194,7 @@ hash = "05130f86273c409a3c1678d746f38e1b49288bcbeae0abc62a43ef40f7f06f1e"
 
 [[files]]
 file = "config/dynamic_fps.json"
-hash = "8291dfffcec5f47a46b1dd439700c67f6bd636f0798d075ebaf5e1cb09cadec8"
+hash = "cd06b0288292cba72e179a300a61f082153022e5da56849e3ac1fb91b81cb01c"
 
 [[files]]
 file = "config/dynamiccrosshair.json5"
@@ -510,7 +510,7 @@ hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "740dc9c2bf9f4906046e262e00cde7b9d4bfd2d8dc771567993c224addef5a1c"
+hash = "214ca2492537116375f7c4b389a56ff3809e54967d6450fb1bb4115b53f934b5"
 
 [[files]]
 file = "config/polymer/server.json"
@@ -602,7 +602,7 @@ hash = "068283c73e244cd53dd6503f1c3a4603cc14db412e2572f1c1063ee5d1306558"
 
 [[files]]
 file = "config/travelers-journal/travelers_journal.md"
-hash = "a6398e4f2fe029426340b868f889da6452e12ab313ede21b5665c2dbfc59a857"
+hash = "505ef74c302d926e257f2e3ce0060ab7d944842503afbd759710c75ee0944575"
 
 [[files]]
 file = "config/tt20/block_entity_mask.json"
@@ -1222,6 +1222,11 @@ hash = "a79fa3c33eac4656157f807e60af767d3cee2bad476248ba5486df5fa1a61736"
 metafile = true
 
 [[files]]
+file = "mods/modflared.pw.toml"
+hash = "af0251fcb3b56fbd253a25806aea08c69108668d8a9ef69b79e641e4af9e28f6"
+metafile = true
+
+[[files]]
 file = "mods/moogs-structure-lib.pw.toml"
 hash = "e5f8f6c4b2353f02bcfcc6516a478551d17d7f344c2bbd996de4372c0b34f503"
 metafile = true
@@ -1234,6 +1239,11 @@ metafile = true
 [[files]]
 file = "mods/more-mobs.pw.toml"
 hash = "52e63f13ea89b4bc911fd1cf7959ec5696dcfe69e8acb8e97a288fb25f4152ab"
+metafile = true
+
+[[files]]
+file = "mods/more-tools.pw.toml"
+hash = "8d4bc4a67a856e20c45d1d43077d2d84b2da76a8c989c379a1e4998b368e3168"
 metafile = true
 
 [[files]]
@@ -1254,6 +1264,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7017dec28a631353bf611d411c2ef8a165268d8a42b33d2c9fe5bc9d221f13d6"
+metafile = true
+
+[[files]]
+file = "mods/no-double-sneak.pw.toml"
+hash = "20b10d25f2b1e45268028799f38ac5b941542a1526e1134a063114eb45eb80c8"
 metafile = true
 
 [[files]]
@@ -1299,6 +1314,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "bf21b5e9704bfb67714b91d31fdd2eb9ac261adaddffbeaff4a107c201ef3e4a"
+metafile = true
+
+[[files]]
+file = "mods/polychess.pw.toml"
+hash = "f7e79dd3cc46d1ecb60e2bc288a822f99cb8549c483f7933608da157f5667b71"
 metafile = true
 
 [[files]]
@@ -1399,6 +1419,11 @@ metafile = true
 [[files]]
 file = "mods/revamped-worldborder.pw.toml"
 hash = "91ee248d1a8cf2c5e19c682f568d396801e5d30c9e0f623164caaa46b8abd8e5"
+metafile = true
+
+[[files]]
+file = "mods/ridingmousefix.pw.toml"
+hash = "e968f914bd2591b73bbc2564e9899c0393f9ebc9893fae2c8048a9a7dd9b0f71"
 metafile = true
 
 [[files]]
@@ -1702,8 +1727,13 @@ hash = "4bd76bdceb4a2d3346b41a122a0f65fb67e8190282d5bb234756c0c467eff3dd"
 metafile = true
 
 [[files]]
-file = "resourcepacks/anti-xray.pw.toml"
-hash = "243006fd8f502aa7501ec828e39618c94f1d67b42386fb71a3e467b8a368f4f4"
+file = "resourcepacks/angels-weather.pw.toml"
+hash = "d922f7b54108b8d8cc4d1326cb11cded50fc7295b97983bd13b61d53e0758185"
+metafile = true
+
+[[files]]
+file = "resourcepacks/backported-dye.pw.toml"
+hash = "36122a2c29d43f2771d9bc9df9da91d9336393779e57a9a3a8e0ebda1dd32a2a"
 metafile = true
 
 [[files]]
@@ -1717,8 +1747,18 @@ hash = "e9e706dc1a36a6b0deba45e5790139dad4929d4dd38d84e9dbf9f705deb6c705"
 metafile = true
 
 [[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "f4a9a98cd10ccd11d790e1c264ae2b4110f38f9a7464517d1eb4eea01701c455"
+metafile = true
+
+[[files]]
 file = "resourcepacks/joshs-more-foods.pw.toml"
 hash = "412d780ab4f0611134008f6aa48427fe956f9b1aab92b16e49fbcda1c1984f3d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/music-and-melody.pw.toml"
+hash = "c301501acef9bfe90a260792c21ac800b8cded982fd6a646328008343b91d5fb"
 metafile = true
 
 [[files]]
@@ -1733,7 +1773,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spectrum-translations.pw.toml"
-hash = "fd40c6f27d3944be1627f701e901bbc89db128f72107a422dad2afacd7521ced"
+hash = "fd98ebffcd9c322c5e734a17673bb268b8b00eaba60aff8ba04a34a97f4f1158"
 metafile = true
 
 [[files]]
@@ -1754,4 +1794,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "cd7a0c01d79ba315be90f05756e46dc2d8e2bd6f0763480499a9392a4d41543f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vocal-villagers.pw.toml"
+hash = "7125cd1588f2e068ac7ed852b8c4e97361da36f73bb76a33f7c1ecc9a5ae3dcb"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "98e2ff540a8daaf3405559cbb3acc2d8d5ff449dd6727145d23c1b2dc654c1db"
 metafile = true

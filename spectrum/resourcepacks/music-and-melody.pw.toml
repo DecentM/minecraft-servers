@@ -1,0 +1,13 @@
+name = "Music and Melody"
+filename = "music-and-melody.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dAU9uKaA/versions/LVhVGsE1/music-and-melody-1.21.5-v2.0.3.zip"
+hash-format = "sha512"
+hash = "d642b5ab8c1e5ad9be0c561d0e3ac829f3e6f4ca57936e92bbe154004aca52166c0fc172c3a4214718d093f63f1d635a105f0aa0fd81ceb9ff42890c76db8f5c"
+
+[update]
+[update.modrinth]
+mod-id = "dAU9uKaA"
+version = "LVhVGsE1"

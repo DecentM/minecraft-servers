@@ -1,0 +1,13 @@
+name = "Angel's Weather"
+filename = "angels-weather.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pQrAkcwB/versions/b8Z6OB0W/Angel%27s_Weather_v1.9.1.1hf.zip"
+hash-format = "sha512"
+hash = "1eaf81409e91e9c4e759d98e1aff0f7b6573f633b87cccfdffda5588ad6305d3f37e7f2c0e377cdfe4a45a6c2eac27443de2cef31ed452c0d8a6632a07f095e7"
+
+[update]
+[update.modrinth]
+mod-id = "pQrAkcwB"
+version = "b8Z6OB0W"

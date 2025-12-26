@@ -1,7 +1,7 @@
 {
   "states": {
     "unfocused": {
-      "frame_rate_target": 10
+      "frame_rate_target": 24
     }
   }
 }

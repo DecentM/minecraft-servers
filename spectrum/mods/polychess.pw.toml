@@ -1,0 +1,13 @@
+name = "PolyChess"
+filename = "polychess.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/n4KHrvqn/versions/C7SSLn6W/polychess-1.21.1-0.4.jar"
+hash-format = "sha512"
+hash = "84af16075ab5ef414cb93280dc94bc15d811bcb5c7573c6606463e435b25b61af15c0a8c2fb888f6996305852dc01341abb8c2aa42e59675d9ad0b29daa1a248"
+
+[update]
+[update.modrinth]
+mod-id = "n4KHrvqn"
+version = "C7SSLn6W"

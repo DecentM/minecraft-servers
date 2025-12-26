@@ -1,0 +1,13 @@
+name = "No Double Sneak"
+filename = "no-double-sneak.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TkeWvQw9/versions/xXrJMi20/nodoublesneak-mc1.20-1.1.jar"
+hash-format = "sha512"
+hash = "a4694903191cc57e9396530ef76b3126cd207c1d98a9fe4e159a36bd646d2b8950ab847406449b589ad90147ab2269ea12134b1cd8416aedd709292c1d204573"
+
+[update]
+[update.modrinth]
+mod-id = "TkeWvQw9"
+version = "xXrJMi20"

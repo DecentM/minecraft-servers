@@ -1,0 +1,13 @@
+name = "Backported Dye"
+filename = "backported-dye.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XQbBwhFe/versions/PnZKZfor/Backported%20Dye%201.21.1.zip"
+hash-format = "sha512"
+hash = "f481e79cc744345f1512d23ceb56f5077250239214cb1f05ef669eab265808c9c79be250e5001e53f5ede373f87ec6fea229b827621c8ba8f6d2f4ff41466813"
+
+[update]
+[update.modrinth]
+mod-id = "XQbBwhFe"
+version = "PnZKZfor"
