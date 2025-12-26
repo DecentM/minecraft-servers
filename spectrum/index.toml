@@ -510,7 +510,7 @@ hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "214ca2492537116375f7c4b389a56ff3809e54967d6450fb1bb4115b53f934b5"
+hash = "61e568b159605b5cefbdbdd201f4e213f12de1dea657781d5033e4f6a4512512"
 
 [[files]]
 file = "config/polymer/server.json"
@@ -1724,11 +1724,6 @@ metafile = true
 [[files]]
 file = "mods/zombie-villagers-from-spawner.pw.toml"
 hash = "4bd76bdceb4a2d3346b41a122a0f65fb67e8190282d5bb234756c0c467eff3dd"
-metafile = true
-
-[[files]]
-file = "resourcepacks/angels-weather.pw.toml"
-hash = "d922f7b54108b8d8cc4d1326cb11cded50fc7295b97983bd13b61d53e0758185"
 metafile = true
 
 [[files]]
