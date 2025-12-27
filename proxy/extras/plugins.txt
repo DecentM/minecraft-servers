@@ -39,3 +39,6 @@ https://cdn.modrinth.com/data/1iWA0pjH/versions/3PY3lTnr/MCKotlinVelocity-1.5.1-
 
 # NekoList - https://modrinth.com/plugin/nekolist
 https://cdn.modrinth.com/data/MUXv6Dpt/versions/GWqqdziy/NekoList-1.2.1.jar
+
+# ChatPatcher - https://modrinth.com/plugin/chatpatcher
+https://cdn.modrinth.com/data/l95uHLao/versions/IuYgACRQ/ChatPatcher-1.0.6.jar
