@@ -16,7 +16,7 @@
   "tip.spectrum.disable_spawners.torches": "Torches",
   "tip.spectrum.sponge_absorption_radius": "A %s has a bigger absorption radius when next to another one",
   "block.spectrum.sponge": "Sponge",
-  "tip.spectrum.bottle_your_xp": "Используйте %s, удерживая %s, чтобы забутылить опыт с эффективностью 90%",
+  "tip.spectrum.bottle_your_xp": "Используйте %s, удерживая %s, чтобы забутылить опыт с эффективностью 90%%",
   "item.spectrum.glass_bottle": "Glass Bottle",
   "tip.spectrum.crying_obsidian_portal": "%s также подходит для создания портала в Нижний мир",
   "block.spectrum.crying_obsidian": "Crying Obsidian",

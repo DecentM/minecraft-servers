@@ -1767,9 +1767,8 @@ hash = "c1fa2e3d1ec287c2755b1e2ba6466829e6f8d13f8ddf3c352c9b639834de0824"
 metafile = true
 
 [[files]]
-file = "resourcepacks/spectrum-translations.pw.toml"
-hash = "3a5ce3eb2dd4cd87559bfaae735e2e321a885f3c3a674cc3061ce5ba071a2414"
-metafile = true
+file = "resourcepacks/spectrum-translations.zip"
+hash = "fcfb80feb7db30fe5a094877ac4572bf873b546b1a8a3ed048e4e7944b9397e5"
 
 [[files]]
 file = "resourcepacks/splatus-datapack-resources.pw.toml"

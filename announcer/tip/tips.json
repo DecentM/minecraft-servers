@@ -238,7 +238,7 @@
         {
             "color": "white",
             "translate": "tip.spectrum.bottle_your_xp",
-            "fallback": "Use a %s while holding %s to bottle your XP at 90% efficiency",
+            "fallback": "Use a %s while holding %s to bottle your XP at 90%% efficiency",
             "with": [
                 {
                     "color": "green",
@@ -280,7 +280,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex entry_result minecraft:crying_obsidian"
+                        "value": "/polydex entry_usage minecraft:crying_obsidian"
                     }
                 }
             ]
