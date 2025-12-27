@@ -3,6 +3,6 @@ filename = "spectrum-translations.zip"
 side = "server"
 
 [download]
-url = "https://github.com/DecentM/minecraft-servers/releases/download/translations-e53e6309ff25d36faa9c626ec303ce57467bfda4/translations.zip"
+url = "https://github.com/DecentM/minecraft-servers/releases/download/translations-09eb0c2330502dc9b39a284148296c45702a50e0/translations.zip"
 hash-format = "sha512"
-hash = "314d722ba9a3391538afca5c10ee0a82cc17bef955bf1035458be1a1dd8dca45a390e29d7c9aaeb3cc32d181f8cf042999dc14263ad46af96edd8865018cb133"
+hash = "b900bf28e193a1de2a738be6607c00b2c0f599e20d6fbbb7fc2bf596410c6151c5fdb1c28e8ff4c1a4e59ae02bd8ed2844d7bf66ced77b1835148eba72b8a0b2"

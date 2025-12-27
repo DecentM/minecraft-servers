@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "e818a71da229b8964417c8b43bce6986f57e0dbc0578d7b94c370a879a30763f"
+hash = "8161aa53ce7dfd3c63758538feb66f00203f7b91f9238fd897a0d23285c65166"
 
 [[files]]
 file = "config/FabricProxy-Lite.toml"
@@ -1768,7 +1768,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spectrum-translations.pw.toml"
-hash = "fd98ebffcd9c322c5e734a17673bb268b8b00eaba60aff8ba04a34a97f4f1158"
+hash = "3a5ce3eb2dd4cd87559bfaae735e2e321a885f3c3a674cc3061ce5ba071a2414"
 metafile = true
 
 [[files]]
