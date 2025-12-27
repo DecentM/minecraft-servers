@@ -167,7 +167,7 @@ _version = 3
 		# This can be used to reduce CPU usage if the thread count 
 		# is already set to 1 for the given option, or more finely 
 		# tune CPU performance.
-		threadRunTimeRatio = "0.5"
+		threadRunTimeRatio = "0.9"
 
 	[common.logging]
 		#
@@ -646,21 +646,21 @@ _version = 3
 				# This indicates how quickly LODs decrease in quality the further away they are. 
 				# Higher settings will render higher quality fake chunks farther away, 
 				# but will increase memory and GPU usage.
-				horizontalQuality = "LOW"
+				horizontalQuality = "MEDIUM"
 				#
 				# How should LOD transparency be handled. 
 				# 
 				# COMPLETE: LODs will render transparent. 
 				# FAKE: LODs will be opaque, but shaded to match the blocks underneath. 
 				# DISABLED: LODs will be opaque.
-				transparency = "DISABLED"
+				transparency = "COMPLETE"
 				#
 				# How should vanilla Minecraft fade into Distant Horizons LODs? 
 				# 
 				# NONE: Fastest, there will be a pronounced border between DH and MC rendering. 
 				# SINGLE_PASS: Fades after MC's transparent pass, opaque blocks underwater won't be faded. 
 				# DOUBLE_PASS: Slowest, fades after both MC's opaque and transparent passes, provides the smoothest transition.
-				vanillaFadeMode = "SINGLE_PASS"
+				vanillaFadeMode = "DOUBLE_PASS"
 
 			[client.advanced.graphics.fog]
 				#
