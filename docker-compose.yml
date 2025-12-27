@@ -104,6 +104,7 @@ services:
       CFG_LUCKPERMS_DB_NAME: "luckperms"
       CFG_LUCKPERMS_DB_USERNAME: "luckperms"
       CFG_LUCKPERMS_DB_PASSWORD: "luckperms"
+      ENABLE_COMMAND_BLOCK: "true"
     links:
       - luckperms-db
     volumes:
