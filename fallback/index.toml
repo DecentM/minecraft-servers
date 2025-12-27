@@ -170,12 +170,28 @@ hash = "ec8c958b061b394e9e449733ce64e15ad1fd79289731e9c66d9cd06b08f053ec"
 metafile = true
 
 [[files]]
+file = "world/entities/r.-1.-1.mca"
+hash = "ba440ba06fea85c722aee725f5be9e86fda4cdffe28758c9df43834164c08397"
+
+[[files]]
+file = "world/entities/r.-1.0.mca"
+hash = "a8d8ab36b4671956e3277215d01eb354f4a5d010e11b2347fa91808250557224"
+
+[[files]]
+file = "world/entities/r.0.-1.mca"
+hash = "8e4215f8c8fef4ee9d762d5c461acb7db60cf8f10be8caa25a6357c419706a6d"
+
+[[files]]
+file = "world/entities/r.0.0.mca"
+hash = "9b2fee6b819c5554a1f6e970e5cd20bcb8867c17838fdc0d95dc5a0f1363e04d"
+
+[[files]]
 file = "world/level.dat"
-hash = "4584078f44b45d10fbd7c2ad822d967fdf91cb76094a301957f10740929369df"
+hash = "d6fca2b6cf9669fd6ee10b3c98dc327f5a5d3f1204fbe3cfc57919e602fd29d7"
 
 [[files]]
 file = "world/region/r.-1.-1.mca"
-hash = "db23e7954e4d093ef5a402bb02802ddcd3b83315e5b0ac67c5bb78cea7a77ddc"
+hash = "23b012f132f7302ff6c7824e027887cdb24d87dd8b88cf42cec5221151e2f4b7"
 
 [[files]]
 file = "world/region/r.-1.-2.mca"
@@ -199,7 +215,7 @@ hash = "fe3be22b8a0218f5a2b71ed38cdee0c1dd7cb3b669222aa0fbcfbbb2cf803219"
 
 [[files]]
 file = "world/region/r.-1.0.mca"
-hash = "40a2fbd04d1c49dd6924c85a728d85c091d7220b3fe6819a5a671d89ff77b712"
+hash = "b935db9558483e8df514de8ef3590147e4e9bdca21b99fbc71a016e02d671be0"
 
 [[files]]
 file = "world/region/r.-1.1.mca"
@@ -583,7 +599,7 @@ hash = "5f6f8d3872a3d41fd0e6ebe6d60455c36dbb32166e4e579c90cb3e6342c000e6"
 
 [[files]]
 file = "world/region/r.0.-1.mca"
-hash = "dae654953bc2e2b0382f5bf35a8a68990c00ae73dd1a8a113d6e4a46b9acde0f"
+hash = "ab2661b5ced1600a7959d2e9fe084f702221d2b1a3c119b0711ea1ef144c76e2"
 
 [[files]]
 file = "world/region/r.0.-2.mca"
@@ -607,7 +623,7 @@ hash = "63a63213b327dcc3c6231900eb23c96cffbd9552139cac661707b2399b57738c"
 
 [[files]]
 file = "world/region/r.0.0.mca"
-hash = "38a9bce1ef858daa1e0f5a22c38770a6ce655de5ad9bd8bf2d9e81871349ea09"
+hash = "176aa49dc78bdd4b2f034307c20edb1f62a9761ae2ebb865e4428735d84c20c4"
 
 [[files]]
 file = "world/region/r.0.1.mca"
