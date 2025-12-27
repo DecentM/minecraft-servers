@@ -2,18 +2,20 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.polydex_search",
+            "translate": "tip.spectrum.translation_help",
+            "fallback": "See an issue in your language? Contribute translations at the %s",
             "with": [
                 {
-                    "text": "/polydex search",
-                    "color": "aqua",
+                    "translate": "tip.spectrum.translation_help.servers_repository",
+                    "fallback": "Server's repository",
+                    "color": "blue",
                     "clickEvent": {
-                        "action": "suggest_command",
-                        "value": "/polydex search"
+                        "action": "open_url",
+                        "value": "https://github.com/DecentM/minecraft-servers/tree/main/translations/assets/spectrum/lang"
                     },
                     "hoverEvent": {
                         "action": "show_text",
-                        "value": "/polydex search"
+                        "value": "github.com"
                     }
                 }
             ]
@@ -22,11 +24,34 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.anvil_repair",
+            "translate": "tip.spectrum.polydex_search",
+            "fallback": "Use %s to search for items and recipes, including from mods",
+            "with": [
+                {
+                    "text": "/polydex",
+                    "color": "aqua",
+                    "clickEvent": {
+                        "action": "suggest_command",
+                        "value": "/polydex"
+                    },
+                    "hoverEvent": {
+                        "action": "show_text",
+                        "value": "/polydex"
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "color": "white",
+            "translate": "tip.spectrum.anvil_repair",
+            "fallback": "You can repair a %s by using an %s on it with %s",
             "with": [
                 {
                     "color": "green",
-                    "translate": "block.minecraft.damaged_anvil",
+                    "translate": "block.spectrum.damaged_anvil",
+                    "fallback": "Damaged Anvil",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -35,12 +60,13 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search damaged anvil"
+                        "value": "/polydex entry_result minecraft:damaged_anvil"
                     }
                 },
                 {
                     "color": "green",
-                    "translate": "item.minecraft.iron_ingot",
+                    "translate": "item.spectrum.iron_ingot",
+                    "fallback": "Iron Ingot",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -49,7 +75,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search iron ingot"
+                        "value": "/polydex entry_result minecraft:iron_ingot"
                     }
                 },
                 {
@@ -62,11 +88,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.anvil_damage",
+            "translate": "tip.spectrum.anvil_damage",
+            "fallback": "You can damage an %s by using an %s on it with %s",
             "with": [
                 {
                     "color": "green",
-                    "translate": "block.minecraft.anvil",
+                    "translate": "block.spectrum.anvil",
+                    "fallback": "Anvil",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -75,12 +103,13 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search anvil"
+                        "value": "/polydex entry_result minecraft:anvil"
                     }
                 },
                 {
                     "color": "green",
-                    "translate": "block.minecraft.obsidian",
+                    "translate": "block.spectrum.obsidian",
+                    "fallback": "Obsidian",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -89,7 +118,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search obsidian"
+                        "value": "/polydex entry_usage minecraft:obsidian"
                     }
                 },
                 {
@@ -102,11 +131,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.pose_armor_stands",
+            "translate": "tip.spectrum.pose_armor_stands",
+            "fallback": "Pose an %s or a %s by holding %s and using %s on them",
             "with": [
                 {
                     "color": "green",
-                    "translate": "item.minecraft.armor_stand",
+                    "translate": "item.spectrum.armor_stand",
+                    "fallback": "Armor Stand",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -115,12 +146,13 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search armor stand"
+                        "value": "/polydex entry_result minecraft:armor_stand"
                     }
                 },
                 {
                     "color": "green",
-                    "translate": "spectrum.item.statue",
+                    "translate": "item.spectrum.statue",
+                    "fallback": "Statue",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -129,7 +161,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search statue"
+                        "value": "/polydex entry_result polydecorations:oak_statue"
                     }
                 },
                 {
@@ -138,7 +170,8 @@
                 },
                 {
                     "color": "green",
-                    "translate": "item.minecraft.flint",
+                    "translate": "item.spectrum.flint",
+                    "fallback": "Flint",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -147,7 +180,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search flint"
+                        "value": "/polydex entry_result minecraft:flint"
                     }
                 }
             ]
@@ -156,11 +189,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.disable_spawners",
+            "translate": "tip.spectrum.disable_spawners",
+            "fallback": "Surround a %s with five %s to disable it",
             "with": [
                 {
                     "color": "green",
-                    "translate": "spectrum.item.torch_plural",
+                    "translate": "tip.spectrum.disable_spawners.torches",
+                    "fallback": "Torches",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -169,7 +204,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search torch"
+                        "value": "/polydex entry_result minecraft:torch"
                     }
                 }
             ]
@@ -178,11 +213,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.sponge_absorption_radius",
+            "translate": "tip.spectrum.sponge_absorption_radius",
+            "fallback": "A %s has a bigger absorption radius when next to another one",
             "with": [
                 {
                     "color": "green",
-                    "translate": "block.minecraft.sponge",
+                    "translate": "block.spectrum.sponge",
+                    "fallback": "Sponge",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -191,7 +228,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search sponge"
+                        "value": "/polydex entry_result minecraft:sponge"
                     }
                 }
             ]
@@ -200,11 +237,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.bottle_your_xp",
+            "translate": "tip.spectrum.bottle_your_xp",
+            "fallback": "Use a %s while holding %s to bottle your XP at 90% efficiency",
             "with": [
                 {
                     "color": "green",
-                    "translate": "item.minecraft.glass_bottle",
+                    "translate": "item.spectrum.glass_bottle",
+                    "fallback": "Glass Bottle",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -213,7 +252,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search glass bottle"
+                        "value": "/polydex entry_result minecraft:glass_bottle"
                     }
                 },
                 {
@@ -226,11 +265,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.crying_obsidian_portal",
+            "translate": "tip.spectrum.crying_obsidian_portal",
+            "fallback": "%s is also a valid block for building a nether portal",
             "with": [
                 {
                     "color": "green",
-                    "translate": "block.minecraft.crying_obsidian",
+                    "translate": "block.spectrum.crying_obsidian",
+                    "fallback": "Crying Obsidian",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -239,7 +280,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search crying obsidian"
+                        "value": "/polydex entry_result minecraft:crying_obsidian"
                     }
                 }
             ]
@@ -248,7 +289,8 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.cycle_paintings",
+            "translate": "tip.spectrum.cycle_paintings",
+            "fallback": "Use %s on a %s while holding another one to cycle through the images",
             "with": [
                 {
                     "keybind": "key.use",
@@ -256,7 +298,8 @@
                 },
                 {
                     "color": "green",
-                    "translate": "item.minecraft.painting",
+                    "translate": "item.spectrum.painting",
+                    "fallback": "Painting",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -265,7 +308,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search painting"
+                        "value": "/polydex entry_result minecraft:painting"
                     }
                 }
             ]
@@ -274,11 +317,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.construction_wands",
+            "translate": "tip.spectrum.construction_wands",
+            "fallback": "Use %s to build structures quicker",
             "with": [
                 {
                     "color": "green",
-                    "translate": "spectrum.item.construction_wand_plural",
+                    "translate": "tip.spectrum.construction_wands.construction_wands",
+                    "fallback": "Construction Wands",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -287,7 +332,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search construction wand"
+                        "value": "/polydex search @constructionwand"
                     }
                 }
             ]
@@ -296,13 +341,15 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.small_nether_portals"
+            "translate": "tip.spectrum.small_nether_portals",
+            "fallback": "Nether portals can be smaller than usual, such as 1x2"
         }
     ],
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.dismount_mobs",
+            "translate": "tip.spectrum.dismount_mobs",
+            "fallback": "Use %s while holding %s to dismount mobs from %s and %s",
             "with": [
                 {
                     "keybind": "key.use",
@@ -314,7 +361,8 @@
                 },
                 {
                     "color": "green",
-                    "text": "boats",
+                    "translate": "tip.spectrum.dismount_mobs.boats",
+                    "fallback": "boats",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -323,12 +371,13 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search boat"
+                        "value": "/polydex entry_result minecraft:oak_boat"
                     }
                 },
                 {
                     "color": "green",
-                    "text": "minecarts",
+                    "translate": "tip.spectrum.dismount_mobs.minecarts",
+                    "fallback": "minecarts",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -337,7 +386,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search minecart"
+                        "value": "/polydex entry_result minecraft:minecart"
                     }
                 }
             ]
@@ -346,18 +395,20 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.spectrum_client",
+            "translate": "tip.spectrum.spectrum_client",
+            "fallback": "This server has a custom client: %s with 21x higher render distance and 10x higher FPS",
             "with": [
                 {
-                    "translate": "spectrum.pack_name",
-                    "color": "green",
+                    "translate": "string.spectrum.pack_name",
+                    "fallback": "Spectrum",
+                    "color": "blue",
                     "clickEvent": {
                         "action": "open_url",
                         "value": "https://modrinth.com/modpack/etu-spectrum"
                     },
                     "hoverEvent": {
                         "action": "show_text",
-                        "value": "https://modrinth.com/modpack/etu-spectrum"
+                        "value": "modrinth.com"
                     }
                 }
             ]
@@ -366,11 +417,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.opening_double_doors",
+            "translate": "tip.spectrum.opening_double_doors",
+            "fallback": "%s will open together with another one if they're placed next to each other",
             "with": [
                 {
                     "color": "green",
-                    "translare": "spectrum.item.door_plural",
+                    "translate": "tip.spectrum.opening_double_doors.doors",
+                    "fallback": "Doors",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -379,7 +432,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search door"
+                        "value": "/polydex entry_result minecraft:oak_door"
                     }
                 }
             ]
@@ -388,7 +441,8 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.easy_elytra_takeoff",
+            "translate": "tip.spectrum.easy_elytra_takeoff",
+            "fallback": "Use %s with a %s in hand while wearing an %s to take off. No %s spam needed!",
             "with": [
                 {
                     "keybind": "key.use",
@@ -396,7 +450,8 @@
                 },
                 {
                     "color": "green",
-                    "translate": "item.minecraft.firework_rocket",
+                    "translate": "item.spectrum.firework_rocket",
+                    "fallback": "Firework Rocket",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -405,12 +460,13 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search firework rocket"
+                        "value": "/polydex entry_result minecraft:firework_rocket"
                     }
                 },
                 {
                     "color": "green",
-                    "translate": "item.minecraft.elytra",
+                    "translate": "item.spectrum.elytra",
+                    "fallback": "Elytra",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -419,7 +475,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search elytra"
+                        "value": "/polydex entry_result minecraft:elytra"
                     }
                 },
                 {
@@ -432,10 +488,12 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.enchantments_wiki",
+            "translate": "tip.spectrum.enchantments_wiki",
+            "fallback": "If you find an enchantment you don't recognise, look it up in the %s or %s",
             "with": [
                 {
-                    "text": " Minecraft Wiki",
+                    "translate": "tip.spectrum.enchantments_wiki.minecaft_wiki",
+                    "fallback": "Minecraft Wiki",
                     "color": "green",
                     "clickEvent": {
                         "action": "open_url",
@@ -443,11 +501,12 @@
                     },
                     "hoverEvent": {
                         "action": "show_text",
-                        "value": "https://minecraft.wiki/w/Enchanting#Summary_of_enchantments"
+                        "value": "minecraft.wiki"
                     }
                 },
                 {
-                    "text": " Enchantments Encore table",
+                    "translate": "tip.spectrum.enchantments_wiki.enchantments_encore_table",
+                    "fallback": "Enchantments Encore table",
                     "color": "green",
                     "clickEvent": {
                         "action": "open_url",
@@ -455,7 +514,7 @@
                     },
                     "hoverEvent": {
                         "action": "show_text",
-                        "value": "https://explorerseden.eu/tables/enchantment_list.html"
+                        "value": "explorerseden.eu"
                     }
                 }
             ]
@@ -464,7 +523,8 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.extract_poison",
+            "translate": "tip.spectrum.extract_poison",
+            "fallback": "Use %s on a spider with a %s in your hand to extract its poison",
             "with": [
                 {
                     "keybind": "key.use",
@@ -472,7 +532,8 @@
                 },
                 {
                     "color": "green",
-                    "translate": "item.minecraft.glass_bottle",
+                    "translate": "item.spectrum.glass_bottle",
+                    "fallback": "Glass Bottle",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -481,7 +542,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search glass bottle"
+                        "value": "/polydex entry_result minecraft:glass_bottle"
                     }
                 }
             ]
@@ -490,17 +551,37 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.arrows_light_fire"
+            "translate": "tip.spectrum.arrows_light_fire",
+            "fallback": "Lit %s will light a fire when they land",
+            "with": [
+                {
+                    "color": "green",
+                    "translate": "tip.spectrum.arrows_light_fire.arrows",
+                    "fallback": "arrows",
+                    "hoverEvent": {
+                        "action": "show_item",
+                        "contents": {
+                            "id": "minecraft:arrow"
+                        }
+                    },
+                    "clickEvent": {
+                        "action": "run_command",
+                        "value": "/polydex entry_result minecraft:arrow"
+                    }
+                }
+            ]
         }
     ],
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.hang_glider_before_elytra",
+            "translate": "tip.spectrum.hang_glider_before_elytra",
+            "fallback": "Craft a %s to fly before you get an %s",
             "with": [
                 {
                     "color": "green",
-                    "translate": "item.glideaway.hang_glider",
+                    "translate": "item.spectrum.hang_glider",
+                    "fallback": "Hang Glider",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -509,12 +590,13 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search hang glider"
+                        "value": "/polydex entry_result glideaway:hang_glider"
                     }
                 },
                 {
                     "color": "green",
-                    "translate": "item.minecraft.elytra",
+                    "translate": "item.spectrum.elytra",
+                    "fallback": "Elytra",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -523,7 +605,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search elytra"
+                        "value": "/polydex entry_result minecraft:elytra"
                     }
                 }
             ]
@@ -532,11 +614,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.claim_creation",
+            "translate": "tip.spectrum.claim_creation",
+            "fallback": "Protect your build by crafting a %s",
             "with": [
                 {
                     "color": "green",
-                    "translate": "block.goml.makeshift_claim_anchor",
+                    "translate": "block.spectrum.makeshift_claim_anchor",
+                    "fallback": "Makeshift Claim Anchor",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -545,7 +629,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search claim anchor"
+                        "value": "/polydex entry_result goml:makeshift_claim_anchor"
                     }
                 }
             ]
@@ -554,11 +638,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.claim_customisation",
+            "translate": "tip.spectrum.claim_customisation",
+            "fallback": "Customise how your land claim works by using %s",
             "with": [
                 {
                     "color": "green",
-                    "translate": "spectrum.item.anchor_augment_plural",
+                    "translate": "tip.spectrum.claim_customisation.anchor_augments",
+                    "fallback": "Anchor Augments",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -567,7 +653,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search anchor augment"
+                        "value": "/polydex search @goml"
                     }
                 }
             ]
@@ -576,11 +662,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.transfer_enchantments",
+            "translate": "tip.spectrum.transfer_enchantments",
+            "fallback": "Transfer an enchantment from an item to a %s with a %s",
             "with": [
                 {
                     "color": "green",
-                    "translate": "item.minecraft.book",
+                    "translate": "item.spectrum.book",
+                    "fallback": "Book",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -589,12 +677,13 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search book"
+                        "value": "/polydex entry_result minecraft:book"
                     }
                 },
                 {
                     "color": "green",
-                    "translate": "block.minecraft.grindstone",
+                    "translate": "block.spectrum.grindstone",
+                    "fallback": "Grindstone",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -603,7 +692,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search grindstone"
+                        "value": "/polydex entry_result minecraft:grindstone"
                     }
                 }
             ]
@@ -612,7 +701,8 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.grindstone_sharpening",
+            "translate": "tip.spectrum.grindstone_sharpening",
+            "fallback": "Hold %s and use %s on a %s while holding a tool to temporarily sharpen it",
             "with": [
                 {
                     "keybind": "key.sneak",
@@ -624,7 +714,8 @@
                 },
                 {
                     "color": "green",
-                    "translate": "block.minecraft.grindstone",
+                    "translate": "block.spectrum.grindstone",
+                    "fallback": "Grindstone",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -633,7 +724,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search grindstone"
+                        "value": "/polydex entry_result minecraft:grindstone"
                     }
                 }
             ]
@@ -642,11 +733,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.highspeed_rail",
+            "translate": "tip.spectrum.highspeed_rail",
+            "fallback": "Place %s on %s to travel at high speeds",
             "with": [
                 {
                     "color": "green",
-                    "translate": "block.minecraft.rail",
+                    "translate": "block.spectrum.rail",
+                    "fallback": "Rail",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -655,12 +748,13 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search rail"
+                        "value": "/polydex entry_result minecraft:rail"
                     }
                 },
                 {
                     "color": "green",
-                    "translate": "block.minecraft.gravel",
+                    "translate": "block.spectrum.gravel",
+                    "fallback": "Gravel",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -669,7 +763,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search gravel"
+                        "value": "/polydex entry_result minecraft:gravel"
                     }
                 }
             ]
@@ -678,11 +772,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.ice_prevents_crop_growth",
+            "translate": "tip.spectrum.ice_prevents_crop_growth",
+            "fallback": "Place %s under crops to prevent them from growing",
             "with": [
                 {
                     "color": "green",
-                    "translate": "block.minecraft.ice",
+                    "translate": "block.spectrum.ice",
+                    "fallback": "Ice",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -691,7 +787,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search ice"
+                        "value": "/polydex entry_usage minecraft:ice"
                     }
                 }
             ]
@@ -700,7 +796,8 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.minecart_linking",
+            "translate": "tip.spectrum.minecart_linking",
+            "fallback": "Use %s with a %s on a %s to start creating a train",
             "with": [
                 {
                     "color": "aqua",
@@ -708,7 +805,8 @@
                 },
                 {
                     "color": "green",
-                    "translate": "block.minecraft.chain",
+                    "translate": "block.spectrum.chain",
+                    "fallback": "Chain",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -717,12 +815,13 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search chain"
+                        "value": "/polydex entry_result minecraft:chain"
                     }
                 },
                 {
                     "color": "green",
-                    "translate": "item.minecraft.minecart",
+                    "translate": "item.spectrum.minecart",
+                    "fallback": "Minecart",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -731,7 +830,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search minecart"
+                        "value": "/polydex entry_result minecraft:minecart"
                     }
                 }
             ]
@@ -740,11 +839,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.mastercutter_docs",
+            "translate": "tip.spectrum.mastercutter_docs",
+            "fallback": "The %s is a lot more powerful than usual. Check %s for all the details",
             "with": [
                 {
                     "color": "green",
-                    "translate": "block.minecraft.stonecutter",
+                    "translate": "block.spectrum.stonecutter",
+                    "fallback": "Stonecutter",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -753,15 +854,16 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search stonecutter"
+                        "value": "/polydex entry_result minecraft:stonecutter"
                     }
                 },
                 {
                     "color": "green",
-                    "text": "the MasterCutter docs",
+                    "translate": "tip.spectrum.mastercutter_docs.the_mastercutter_docs",
+                    "fallback": "the MasterCutter docs",
                     "hoverEvent": {
                         "action": "show_text",
-                        "value": "https://modrinth.com/datapack/mastercutter"
+                        "value": "modrinth.com"
                     },
                     "clickEvent": {
                         "action": "open_url",
@@ -774,11 +876,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.no_hostiles_around_campfire",
+            "translate": "tip.spectrum.no_hostiles_around_campfire",
+            "fallback": "Hostile mobs will not spawn around a %s and will catch on fire if they get near",
             "with": [
                 {
                     "color": "green",
-                    "translate": "block.minecraft.campfire",
+                    "translate": "block.spectrum.campfire",
+                    "fallback": "Campfire",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -787,7 +891,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search campfire"
+                        "value": "/polydex entry_result minecraft:campfire"
                     }
                 }
             ]
@@ -796,7 +900,8 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.persistent_parrots",
+            "translate": "tip.spectrum.persistent_parrots",
+            "fallback": "Parrots prefer to stay on your shoulder. To get them off, press %s while holding %s",
             "with": [
                 {
                     "keybind": "key.jump",
@@ -812,11 +917,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.polydecorations",
+            "translate": "tip.spectrum.polydecorations",
+            "fallback": "Craft unique decorations with %s",
             "with": [
                 {
                     "color": "green",
-                    "text": "PolyDecorations items and blocks",
+                    "translate": "tip.spectrum.polydecorations.items_and_blocks",
+                    "fallback": "PolyDecorations items and blocks",
                     "hoverEvent": {
                         "action": "show_text",
                         "value": "/polydex search @polydecorations"
@@ -832,11 +939,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.polyfactory",
+            "translate": "tip.spectrum.polyfactory",
+            "fallback": "Automate crafting and processing by building a factory with %s",
             "with": [
                 {
                     "color": "green",
-                    "translate": "spectrum.mod.polyfactory",
+                    "translate": "mod.spectrum.polyfactory",
+                    "fallback": "PolyFactory",
                     "hoverEvent": {
                         "action": "show_text",
                         "value": "/polydex search @polyfactory"
@@ -852,11 +961,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.random_bonemeal_flowers",
+            "translate": "tip.spectrum.random_bonemeal_flowers",
+            "fallback": "Using %s on a %s has the chance of spawning all flower types",
             "with": [
                 {
                     "color": "green",
-                    "translate": "item.minecraft.bone_meal",
+                    "translate": "item.spectrum.bone_meal",
+                    "fallback": "Bone Meal",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -865,12 +976,13 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search bone meal"
+                        "value": "/polydex entry_result minecraft:bone_meal"
                     }
                 },
                 {
                     "color": "green",
-                    "translate": "block.minecraft.grass_block",
+                    "translate": "block.spectrum.grass_block",
+                    "fallback": "Grass Block",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -879,7 +991,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search grass block"
+                        "value": "/polydex entry_usage minecraft:grass_block"
                     }
                 }
             ]
@@ -888,7 +1000,8 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.right_click_harvest",
+            "translate": "tip.spectrum.right_click_harvest",
+            "fallback": "Use %s on a grown crop to harvest and replant it with a single click",
             "with": [
                 {
                     "keybind": "key.use",
@@ -900,11 +1013,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.skippy_ender_pearls",
+            "translate": "tip.spectrum.skippy_ender_pearls",
+            "fallback": "A thrown %s will skip on the water surface before sinking",
             "with": [
                 {
                     "color": "green",
-                    "translate": "item.minecraft.ender_pearl",
+                    "translate": "item.spectrum.ender_pearl",
+                    "fallback": "Ender Pearl",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -913,7 +1028,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search ender pearl"
+                        "value": "/polydex entry_result minecraft:ender_pearl"
                     }
                 }
             ]
@@ -922,14 +1037,16 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.spellbound_weapons",
+            "translate": "tip.spectrum.spellbound_weapons",
+            "fallback": "Create magic weapons with %s",
             "with": [
                 {
                     "color": "green",
-                    "text": "Spellbound Weapons",
+                    "translate": "mod.spectrum.spellbound_weapons",
+                    "fallback": "Spellbound Weapons",
                     "hoverEvent": {
                         "action": "show_text",
-                        "value": "https://github.com/SpluoSplatus/Spellbound-Weapons/wiki/Sort-Repair-Item"
+                        "value": "github.com"
                     },
                     "clickEvent": {
                         "action": "open_url",
@@ -942,11 +1059,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.televator",
+            "translate": "tip.spectrum.televator",
+            "fallback": "Craft a %s and use %s/%s to teleport between floors of your base",
             "with": [
                 {
                     "color": "green",
-                    "translate": "block.televator.televator",
+                    "translate": "block.spectrum.televator",
+                    "fallback": "Televator",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -972,11 +1091,13 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.thoroughfabric",
+            "translate": "tip.spectrum.thoroughfabric",
+            "fallback": "As you walk on %s, it will eventually wear down and turn into %s, then %s",
             "with": [
                 {
                     "color": "green",
-                    "translate": "block.minecraft.grass_block",
+                    "translate": "block.spectrum.grass",
+                    "fallback": "Grass",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -985,12 +1106,13 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search grass block"
+                        "value": "/polydex entry_result minecraft:grass_block"
                     }
                 },
                 {
                     "color": "green",
-                    "translate": "block.minecraft.dirt_path",
+                    "translate": "block.spectrum.dirt_path",
+                    "fallback": "Dirt Path",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -999,12 +1121,13 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search dirt path"
+                        "value": "/polydex entry_result minecraft:dirt_path"
                     }
                 },
                 {
                     "color": "green",
-                    "translate": "block.minecraft.cobblestone_slab",
+                    "translate": "block.spectrum.cobblestone_slab",
+                    "fallback": "Cobblestone Slab",
                     "hoverEvent": {
                         "action": "show_item",
                         "contents": {
@@ -1013,7 +1136,7 @@
                     },
                     "clickEvent": {
                         "action": "run_command",
-                        "value": "/polydex search cobblestone slab"
+                        "value": "/polydex entry_result minecraft:cobblestone_slab"
                     }
                 }
             ]
@@ -1022,7 +1145,8 @@
     [
         {
             "color": "white",
-            "translate": "spectrum.tip.ping",
+            "translate": "tip.spectrum.ping",
+            "fallback": "Use %s to point out a location to nearby players",
             "with": [
                 {
                     "text": "/ping",

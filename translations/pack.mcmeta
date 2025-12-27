@@ -2,8 +2,7 @@
     "pack": {
         "pack_format": 15,
         "description": {
-            "translate": "spectrum.translations.custom",
-            "fallback": "Custom translation keys for Spectrum"
+            "text": "Custom translation strings for Spectrum"
         },
         "supported_formats": [15, 55]
     }
