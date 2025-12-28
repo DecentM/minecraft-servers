@@ -3,11 +3,11 @@ filename = "fabricproxy-lite.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/8dI2tmqs/versions/AQhF7kvw/FabricProxy-Lite-2.9.0.jar"
+url = "https://cdn.modrinth.com/data/8dI2tmqs/versions/KqB3UA0q/FabricProxy-Lite-2.10.1.jar"
 hash-format = "sha512"
-hash = "3044f36df7e83021210a7c318def18a95b5dbf5e3230bb72a3ddb42ebdda33f248c6d12efcee1240ff0c54600d68d147afa105d04ee37a90acb9409619c89848"
+hash = "9c0c1d44ba27ed3483bb607f95441bea9fb1c65be26aa5dc0af743167fb7933623ba6129344738b084056aef7cb5a7db0db477348d07672d5c67a2e1204e9c94"
 
 [update]
 [update.modrinth]
 mod-id = "8dI2tmqs"
-version = "AQhF7kvw"
+version = "KqB3UA0q"

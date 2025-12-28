@@ -225,8 +225,32 @@ file = "config/extractpoison.json5"
 hash = "c52ee445078c5835625d2ffa96ca5032bd54c86ea43904fcaa0ce3526724bb68"
 
 [[files]]
+file = "config/fancymenu/assets/bg.mp4"
+hash = "31187e721adb3c99183b741d976b2fe3be90dc4e73a60569a690ada28b3a35a8"
+
+[[files]]
+file = "config/fancymenu/assets/bg2.mp4"
+hash = "a9b4240cd924391310dd5546d9a3daf063b8f84f7e5ea12b4d23d688ccb1c38b"
+
+[[files]]
+file = "config/fancymenu/assets/bg3.mp4"
+hash = "c05f7df51adda7d7fcae59e340dceefb69dff6bb3c37d6573bba76d459c5015b"
+
+[[files]]
+file = "config/fancymenu/assets/bg4.mp4"
+hash = "b8807b77183da24067bffbafd8e02807521d488288dfb0d56bfc9f3fdf400a7c"
+
+[[files]]
+file = "config/fancymenu/assets/bg5.mp4"
+hash = "2c6b131a1afd0bc374410a5090e38c9275af3608c62cbe99d05c761ca98a5751"
+
+[[files]]
 file = "config/fancymenu/assets/loading.jpg"
 hash = "663508055de0074813d345ef141591470bb85cbfb6f787d87014be4ea44e56ff"
+
+[[files]]
+file = "config/fancymenu/assets/mcbg.png"
+hash = "89935d719304ff1b1cf5c3d669cf1b76fd388408d81f3567b61d09d188e8bf98"
 
 [[files]]
 file = "config/fancymenu/assets/spectrum.png"
@@ -238,35 +262,43 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "2da678e3eaeb4af307c4d2476aa1a0c7916cceec095a5092fb06f4e2aa369f87"
+hash = "021ad86ad9a3c1f94a4a462b0f91db9d41a1dbdfc20317e4746be91eb71fe44b"
+
+[[files]]
+file = "config/fancymenu/customization/chat_screen_layout.txt"
+hash = "ac333133daf7a444ea15bda42ba6a2d5eca9b6be7f1c3de9229f3ba97b05eafc"
+
+[[files]]
+file = "config/fancymenu/customization/confirm_link_screen_layout.txt"
+hash = "bd87cae2a6d174f9637b60a7ea6adba4c0e71cef6a620f847a4f39c578fbdf38"
 
 [[files]]
 file = "config/fancymenu/customization/connect_screen_layout.txt"
-hash = "70cec0e0c670b3b2e41506a9817c9ae684c967a96f3e27913bf3ab8595facf2a"
+hash = "8407be457ca057e4dd845d093cef7f1171e1813eca0b41704260837b1f5aee71"
 
 [[files]]
 file = "config/fancymenu/customization/credits_and_attribution_screen_layout.txt"
-hash = "cd494fad2e50193ab759a3fb8c5679766d57f9db1e4025db43511089d37debdf"
+hash = "ced05ad947cb028ff0f635a0b78de95af68ee00fea950f5876cf597e8429853d"
 
 [[files]]
 file = "config/fancymenu/customization/disconnected_screen_layout.txt"
-hash = "346a2090799c8e31e1b8be5b5d3125f0de0c00bf3ec791c6dc56fbb259b074dd"
+hash = "91c6ee8ca87d09a461d505742f5603e8e675d849df07ff10d5c5793c2587b76d"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "aaf5f1a66267cbf6d2caa2e7ec724e9252171d9c529bdf51feb5c1ae3810afbe"
+hash = "6d485da1fff8027d7f0b26cc1fcbdb4c2165cc0257437283250298a6d81ab893"
 
 [[files]]
 file = "config/fancymenu/customization/net.minecraft.class_8673class_9058_layout.txt"
-hash = "94b275ac5ab1d157bbdf0d7622b8d45ba364edcf97c535884887faa63bad59f0"
+hash = "8acc414433394ca3b72d854bac6cc14c8cce8c2e2fb89feb4b939ca539826418"
 
 [[files]]
 file = "config/fancymenu/customization/options_screen_layout.txt"
-hash = "7f3556fc897857a2e75fe27ef2ccacee7c195f8336fe8ae6fbc6c5c9fab25a76"
+hash = "b4ab18ec01ded71c0078a44f6a1a864f5ae64eff57a18dfd0e25c992ce51ef30"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "d2512d98bf46b1f1f5590839d564ad6c1f2e6f99b856be4572ec86d54463237a"
+hash = "c5c4d8875ef5286db7fdf391bceb0e0eda63939df87065a75eed0df7de2c8ae7"
 
 [[files]]
 file = "config/fancymenu/customization/progress_screen_layout.txt"
@@ -282,11 +314,27 @@ hash = "ea2aa713ff2c269597971cbd876b332c3c775e0648f54e08c01bd4786ae9343a"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "226fd3b7a6ae830a707943bbc2e092517d42714d9cb4e2228445ccc01bdda983"
+hash = "15e7dea5cd9917e1d5c536125d46c996cbab676d80b76995a9c7bc9e29fb19d5"
 
 [[files]]
-file = "config/fancymenu/customization/universal_layout.txt"
-hash = "34386d8d980b2e6d4ef7f1fc502bf8eab1e9a963ac3b8c782f181bee75031691"
+file = "config/fancymenu/customization/universal_layout_bg1.txt"
+hash = "8aa360664a10f0a536040b6de5c03f90935f0645e931588ed8d55bfe62f62837"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout_bg2.txt"
+hash = "efc3362eee3eb9ee2869f1937b9fb5a74691ed63c5d3c5140ea20c2120f9a177"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout_bg3.txt"
+hash = "5e43df2e991bd9de5145c0c0e4b11762d097ec2fbd416d0cbe4395157c2c1381"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout_bg4.txt"
+hash = "d802b5a207c95e4142756829a6afb68b064fc769b05b0dabfa76a111bf2b63dd"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout_bg5.txt"
+hash = "02c6b7d1f319e112310e1189870320a374a2f1d1a8ab50a7064d99c4a87e84e6"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -298,7 +346,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "7d5d7ba2bf41bc911c48056c3cf1f4e77c7eb48f16b40c8c75f910ec61ae774e"
+hash = "1f2ab116292c18961506ac59c77abfc9fe8d7464863566d2ec7cb5b80e3a3dfe"
 
 [[files]]
 file = "config/fancymenu/slideshows/spectrum-server/images/fb2025-04-05_20.38.02.png"
@@ -391,6 +439,10 @@ hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/fancymenu/video_element_controller_metas.json"
+hash = "05aa586d899a81dff9e3a5d20eb8929949d541a43fed00fa437bbb4ec50326b4"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -848,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/construction-wand-polymer.pw.toml"
-hash = "1b6020d09d26a36965e7df1f7ae124e7d42abca78a37fd3e10f092987063c84c"
+hash = "009b120127e9faf3cf52b7d4bee5883d99080269dae8df2ec70c7d8bd385b21e"
 metafile = true
 
 [[files]]
@@ -858,7 +910,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "a362f83d355ed8f174f9b04cb43803f8b936e2f5f380491cb93e293e2b8b3c81"
+hash = "24640c310938cef0b68d266c31063ead7af0de7b98cf7e75ae2b020750e39c1e"
 metafile = true
 
 [[files]]
@@ -933,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "9e7377cfbdac46020bbe3d3caadc8c498a642dc77f42e3caad75e370447ff306"
+hash = "60a864f1077706d86b47f0d0abed853d4e1ef7d0b0dad048d7ef8f6d9a5fbeef"
 metafile = true
 
 [[files]]
@@ -1008,12 +1060,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabricproxy-lite.pw.toml"
-hash = "f6d3554704a7256acaeef7c9d3040985cd4f6cfcc860391bba8e997df9b2994b"
+hash = "6b7bbb593ff130b65bede96d50f307400d1cb76d739b320c74c2a3471d1f1e98"
+metafile = true
+
+[[files]]
+file = "mods/fancy-entity-renderer.pw.toml"
+hash = "ce5623ffa6885e398d3aae77fd168371065d87c3c7763e32ab016eed66b2f0de"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "bca2f69f0b6eda44413a902e744fd58254bc82be52a63ac7a024bd70b60b63f9"
+hash = "ab571a8bc40294f2f4f61c6e90435c99c338405c670962eb2d688ad9b4466e18"
 metafile = true
 
 [[files]]
@@ -1178,7 +1235,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "c4bb130c8157df8b5092d9a60833d2e1084caffef12678239ccacc742ee28ce9"
+hash = "423882bb77e58d4c5627093d320ed2c380ab4bf7d805b92de9d06d5d6bdaff2d"
 metafile = true
 
 [[files]]
@@ -1197,13 +1254,18 @@ hash = "ff86b200e7cf79d92a25c2732fe28bdcbc80163a2d68e2df68eedc151af3a079"
 metafile = true
 
 [[files]]
+file = "mods/mcef.pw.toml"
+hash = "72e006731d991139f89dcb34b4c1ecfab3c86e5b051dab694ac07d046176c995"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "caad7c3c5db030707b6edc5abcc6405500778c86b6c4fbe2b2dd12965b1fc9f9"
 metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "ccf52c4ee85361908f30438479a4427bb87dd883f04f394416dee688f764aa18"
+hash = "5a4a24fb4ea7de60243f84d6e531f4c78983f180298f60e7fd44be3633cc4812"
 metafile = true
 
 [[files]]
@@ -1343,7 +1405,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "0263a1997bd605adb78b273b810353e5e1db52f7caf81ddda0d713679f4b99f8"
+hash = "3963d388831da57f2398360c8887b049526a2c43c0591d6243dc5c706c85bf0e"
 metafile = true
 
 [[files]]
@@ -1379,11 +1441,6 @@ metafile = true
 [[files]]
 file = "mods/recipecooldown.pw.toml"
 hash = "5e97ceaeb9a8fbecd23165604808b2cd8186cdd6148cd933286788da1bd100be"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "d3bafcfe3c709bc2cde754874e857949b5788711b3ee378ec8c0796baf54f6aa"
 metafile = true
 
 [[files]]
@@ -1492,11 +1549,6 @@ hash = "4516e2487c129564ecc2b7e5957489d2051a0ef40ffff3e89e19cf341a0b3dfb"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "7b644d5cf7fc94ebbf64e0fd03b415e14fbdc0e30898a6c9cd61eebb799d07e1"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "3f062a09145a32dc700c6bd7727936b29e5b082a89df7b2ecafbee9f146b7e9f"
 metafile = true
@@ -1518,17 +1570,17 @@ metafile = true
 
 [[files]]
 file = "mods/stellarity.pw.toml"
-hash = "1764a9a83f5f77b3d81a18da2ab2f6f664a6b4900f20ae0defe8756a5c82f780"
+hash = "daa5f63908b4ec35dd6f23375da8cf53a480763effe04600a2b3deac6d562e08"
 metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "577f1dfb07ec4f07ee7f45350c95d2fa8bf834a9e521b25501ac9a9c613e191d"
+hash = "cc56b36ce64e123456b8b3f8f82bd037547639e7a83ea5330a6c0e2a3f2e262b"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "8c8d9080f08b335cf7b59130c9db1123343437ec4789f0d96baabbbfcfe026fe"
+hash = "08029f29fa1804039b7cb60bf26190705f32d3437e1b57176ef932fa7fb91bfa"
 metafile = true
 
 [[files]]
@@ -1538,7 +1590,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "c93216945b1929bd06e33fe69888c327085e5cdcd36568d9d1c503c8b19594ad"
+hash = "8991409381197c00080c042e2b73020c1676173cdcfac0de9b84234bad8e1005"
 metafile = true
 
 [[files]]
@@ -1568,7 +1620,7 @@ metafile = true
 
 [[files]]
 file = "mods/thoroughfabric.pw.toml"
-hash = "b97db1b70e162e86bf88c3ac914768c72e86a78d2c030914a884200f48bf19e7"
+hash = "9557032265c5083e65501e155c8473571c5b165387f262f029f8cc95f12283da"
 metafile = true
 
 [[files]]
@@ -1727,6 +1779,10 @@ hash = "4bd76bdceb4a2d3346b41a122a0f65fb67e8190282d5bb234756c0c467eff3dd"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "3c107e82b4ec02d0527032374625c83493b10bef7fee371ce798ba16fb2a82a4"
+
+[[files]]
 file = "resourcepacks/backported-dye.pw.toml"
 hash = "36122a2c29d43f2771d9bc9df9da91d9336393779e57a9a3a8e0ebda1dd32a2a"
 metafile = true
@@ -1777,23 +1833,27 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/stellarity-music.pw.toml"
-hash = "171de21d3309f8f3d9def609faee9a2f122534337216dc4bbb540a265a2abd23"
+hash = "bf3d702ef06c4fdd55a87d785aa595812f4932bc36cf4cd5438ab32f4916a0c0"
 metafile = true
 
 [[files]]
 file = "resourcepacks/stellarity-rp.pw.toml"
-hash = "e02e49cfcd310b401b71ab76ab31ba8e33a563d81389551ed25873ae89200b3f"
+hash = "4c0344830f830bdeeecd51736350c0e3d938de609579daec4c2fbddbfa790aa9"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "cd7a0c01d79ba315be90f05756e46dc2d8e2bd6f0763480499a9392a4d41543f"
+hash = "2d034bebe5341654a74721f126dc2655a126f09e60cd40eb74942e201d05f4f5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/vocal-villagers.pw.toml"
 hash = "7125cd1588f2e068ac7ed852b8c4e97361da36f73bb76a33f7c1ecc9a5ae3dcb"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "1a09a1d77bde4872b8215839223d0120927cd11cae78e41154ad909dca5cb06e"
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"

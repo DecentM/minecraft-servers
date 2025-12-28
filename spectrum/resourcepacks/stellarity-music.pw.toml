@@ -3,11 +3,11 @@ filename = "stellarity-music.zip"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/IJHcrsas/versions/P5eCwefI/Stellarity-5.0.0-Music.zip"
+url = "https://cdn.modrinth.com/data/IJHcrsas/versions/KlL5P1FZ/Stellarity-5.2.0-Music.zip"
 hash-format = "sha512"
-hash = "c72a8d0a93a03cc6eb2a234acb4d709f91ceda6fa774fc7431edacdf0620f05c52131b6311e1d51dc571966ce8b63b3a1c79b073b5fe00daae1a0e95f8132c4a"
+hash = "076a752b791f96fa431df22ac3b1e87c24d9daeb873f21d04257ad51cc4ca61ffdec80a97a132f0261cdaba6b41324e6139ced8fba534d84d59d179a44739f94"
 
 [update]
 [update.modrinth]
 mod-id = "IJHcrsas"
-version = "P5eCwefI"
+version = "KlL5P1FZ"

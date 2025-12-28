@@ -3,11 +3,11 @@ filename = "stellarity.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/bZgeDzN8/versions/U1siAvaG/Stellarity-3.0.6.jar"
+url = "https://cdn.modrinth.com/data/bZgeDzN8/versions/x9JLWa60/Stellarity-5.2.0.jar"
 hash-format = "sha512"
-hash = "4330c9e8042681bbc2e4daebcfad1227d84f12d2713d1372491107506a3a618a7a4467a2d93d990422f11e9dbeb236985379929cdb35c4641f609699c11fb4bf"
+hash = "29280c54af819ad60a4930e73f46cb3f32792d528135770de4ea564f307b0b33f507e78bf93b4492fad78412551ae7a1203a580faa9bb40f5cb7b46cd82c51e4"
 
 [update]
 [update.modrinth]
 mod-id = "bZgeDzN8"
-version = "U1siAvaG"
+version = "x9JLWa60"

@@ -3,11 +3,11 @@ filename = "stellarity-rp.zip"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/NfszI0rL/versions/phhrF4FC/Stellarity-RP-3-0-3.zip"
+url = "https://cdn.modrinth.com/data/NfszI0rL/versions/wnDv8w9v/Stellarity-5.2.0-RP.zip"
 hash-format = "sha512"
-hash = "4194391e91c9ae0c3514f7750c34334ad71e5036e72020fef464f83af6bd2b6ae0bbf277da241e0d38c62aee58633e82cc3c823fab18a6bea1ad793e95f18dce"
+hash = "d603cf1191e7477896ef0e2d10e9fdc5cc37e026717aaa1b9768f3aa10192378aef46bf4d5d81e322875aac8f851b63520d395f5735b7fbe5bd182ced61e935c"
 
 [update]
 [update.modrinth]
 mod-id = "NfszI0rL"
-version = "phhrF4FC"
+version = "wnDv8w9v"

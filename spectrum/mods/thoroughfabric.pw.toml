@@ -3,11 +3,11 @@ filename = "thoroughfabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/98yN1fkj/versions/FJlZLWFb/Thoroughfabric-1.2.4%2B1.21.1-1.21.4.jar"
+url = "https://cdn.modrinth.com/data/98yN1fkj/versions/OAQdkaIt/Thoroughfabric-1.2.4b%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "6a7d05d35e6c6203d1b475b15e08aa417673252c6f47e545f4c90d46d6d68ac10744b1ed2402fe49160dcf288490ebd3dca6c1d647e83ce12a5a4dce8c421fbb"
+hash = "ee80dcbe3726b652ba9e4aa1dad54d454e7e16f095fdead37d4e2cf2ac1df12c7efd4b178c4a5acecfb3714f63134344686a78b5d1ee561a7789ac0896034d59"
 
 [update]
 [update.modrinth]
 mod-id = "98yN1fkj"
-version = "FJlZLWFb"
+version = "OAQdkaIt"
