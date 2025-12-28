@@ -194,6 +194,21 @@
             "with": [
                 {
                     "color": "green",
+                    "translate": "tip.spectrum.disable_spawners.spawner",
+                    "fallback": "Spawner",
+                    "hoverEvent": {
+                        "action": "show_item",
+                        "contents": {
+                            "id": "minecraft:spawner"
+                        }
+                    },
+                    "clickEvent": {
+                        "action": "run_command",
+                        "value": "/polydex entry_usage minecraft:spawner"
+                    }
+                },
+                {
+                    "color": "green",
                     "translate": "tip.spectrum.disable_spawners.torches",
                     "fallback": "Torches",
                     "hoverEvent": {
