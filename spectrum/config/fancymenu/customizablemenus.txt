@@ -3,9 +3,6 @@ type = customizablemenus
 net.minecraft.class_442 {
 }
 
-net.minecraft.class_429 {
-}
-
 net.minecraft.class_440 {
 }
 
@@ -30,9 +27,6 @@ net.minecraft.class_426 {
 net.minecraft.class_419 {
 }
 
-com.terraformersmc.modmenu.gui.ModsScreen {
-}
-
 net.minecraft.class_4189 {
 }
 
@@ -43,9 +37,6 @@ net.minecraft.class_407 {
 }
 
 loaderCommon.fabric.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen {
-}
-
-me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
 }
 
 net.minecraft.class_500 {
@@ -105,9 +96,6 @@ foundationgames.enhancedblockentities.config.gui.screen.EBEConfigScreen {
 traben.entity_texture_features.config.screens.ETFConfigScreenMain {
 }
 
-com.terraformersmc.modmenu.gui.ModMenuOptionsScreen {
-}
-
 yalter.mousetweaks.ConfigScreen {
 }
 
@@ -115,5 +103,17 @@ io.wispforest.owo.config.ui.ConfigScreen {
 }
 
 io.gitlab.jfronny.libjf.config.impl.ui.tiny.TinyConfigScreen {
+}
+
+net.caffeinemc.mods.sodium.client.gui.SodiumOptionsGUI {
+}
+
+net.irisshaders.iris.gui.screen.ShaderPackScreen {
+}
+
+net.minecraft.class_429 {
+}
+
+net.minecraft.class_408 {
 }
 

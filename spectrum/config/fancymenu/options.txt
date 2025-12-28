@@ -2,7 +2,7 @@
 
 B:force_fullscreen = 'false';
 I:default_gui_scale = '-1';
-B:play_vanilla_menu_music = 'false';
+B:play_vanilla_menu_music = 'true';
 
 
 ##[customization]
@@ -14,7 +14,7 @@ B:advanced_customization_mode = 'false';
 
 ##[loading]
 
-S:preload_resources = '[source:local]config/fancymenu/assets/spectrum.png%!source_end!%[source:local]config/fancymenu/assets/loading.jpg%!source_end!%';
+S:preload_resources = '[source:local]config/fancymenu/assets/etu-logo.png%!source_end!%[source:local]config/fancymenu/assets/spectrum.png%!source_end!%[source:local]config/fancymenu/assets/loading.jpg%!source_end!%[source:local]config/fancymenu/assets/mc-bg-sm.mp4%!source_end!%';
 B:allow_game_intro_skip = 'true';
 S:game_intro_animation_name = '';
 B:game_intro_fade_out = 'true';
